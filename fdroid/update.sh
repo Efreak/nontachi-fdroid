@@ -38,20 +38,40 @@ echo Checking/Downloading Ranobe
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/ranobe/downloads' | jq . | grep -E 'href.*?Ranobe-.*?-full-release.apk' -m1|cut -d \" -f4) --output ranobe.apk
 mv -n ranobe.apk $(aapt dump badging ranobe.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
+echo Checking/Downloading AnimeGo-Re
+curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/HenryQuan/AnimeGo-Re/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output animego.apk
+mv -n animego.apk $(aapt dump badging animego.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
+echo Checking/Downloading Nekos
+curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/KurozeroPB/Nekos/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output nekos.apk
+mv -n nekos.apk $(aapt dump badging nekos.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
+echo Checking/Downloading Kotatsu
+curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/nv95/Kotatsu/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output kotatsu.apk
+mv -n kotatsu.apk $(aapt dump badging kotatsu.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
+echo Checking/Downloading AnimeWatcher
+curl -s -L 'https://github.com/balvinderz/animewatcher/raw/master/app/release/app-release.apk' --output aw.apk
+mv -n aw.apk $(aapt dump badging aw.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
 echo
 echo "Checking/Downloading TaiYakiAnime (multiple apks)"
-curl -s $(curl -s 'https://api.github.com/repos/Michael24884/TaiYaKiAnime/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4|fgrep -v x86|fgrep -v arm64|while read taiyakiurl;do
+curl -s $(curl -s 'https://api.github.com/repos/Michael24884/TaiYaKiAnime/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4|while read taiyakiurl;do
   echo $taiyakiurl
   curl -s -L $taiyakiurl --output taiyaki.apk
   mv -n taiyaki.apk $(aapt dump badging taiyaki.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2/g')-$(aapt dump badging taiyaki.apk|fgrep native-code|cut -d\' -f2).apk
 done
 
-echo
-echo Checking/Downloading AnimeGo-Re
-curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/HenryQuan/AnimeGo-Re/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output animego.apk
-mv -n animego.apk $(aapt dump badging animego.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+echo "Checking/Downloading Horrible (possible multiple apks)"
+curl -s $(curl -s 'https://api.github.com/repos/Sher1234/Horrible/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4|while read horribleurl;do
+  echo $horribleurl
+  curl -s -L $horribleurl --output horrible.apk
+  mv -n horrible.apk $(aapt dump badging horrible.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2/g')-$(aapt dump badging horrible.apk|fgrep native-code|cut -d\' -f2).apk
+done
 
-rm -f {meow,hentoid,adlr,hdlr,mdlr,kamuy,ranobe,taiyaki,animego}.apk
+
+
+rm -f {meow,hentoid,adlr,hdlr,mdlr,kamuy,ranobe,taiyaki,animego,aw,horrible,nekos,kotatsu}.apk
 
 #TODO: git stash before dl, and git diff here instead
 #no, that's a stupid idea. just dont leave stuff behind
