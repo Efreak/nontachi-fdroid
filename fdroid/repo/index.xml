@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="fdroid-icon.png" name="Unofficial Anime/Manga F-Droid Repo" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1592865141" url="https://animanga.efreakbnc.net/fdroid/repo" version="21">
+		<description>This is a repository of open and closed source anime/manga related apps. Applications in this repository are official binaries built and signed by their respective developers and copied to this directory. </description>
+		<mirror>https://animanga.netlify.com/fdroid/repo</mirror>
+		<mirror>https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/repo</mirror>
+	</repo>
+	<application id="com.crazyxacker.apps.anilabx3">
+		<id>com.crazyxacker.apps.anilabx3</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>AniLabX3</name>
+		<summary>AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels</summary>
+		<icon>com.crazyxacker.apps.anilabx3.166.png</icon>
+		<desc>&lt;p&gt;Notes:  - this app does not use github releases, thus it will not be updated automatically. - I haven't looked at the app at the time of writing. install at your own risk. sources are listed on website(?), unsure as website references a different app, and 'other apps' link does not work on mobile.&lt;/p&gt;&lt;p&gt;AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://mangawatcherx.com</web>
+		<source></source>
+		<tracker>https://github.com/CrazyXacker/anilabx/issues</tracker>
+		<author>CrazyXacker</author>
+		<marketversion></marketversion>
+		<marketvercode>166</marketvercode>
+		<antifeatures>Tracking,UpstreamNonFree,Ads,NoSourceSince</antifeatures>
+		<package>
+			<version>3.6.5-beta</version>
+			<versioncode>166</versioncode>
+			<apkname>com.crazyxacker.apps.anilabx3_v3.6.5-beta_166.apk</apkname>
+			<hash type="sha256">b6d70fdbecca8fdf9271063560842e4085e0f86a372ee94e1a00816af25b2060</hash>
+			<size>17501921</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>d8d80b25feb4c7616bf26dc8f28a0d77</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,GET_ACCOUNTS,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.CHECK_LICENSE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY</permissions>
+			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="net.android.adm">
+		<id>net.android.adm</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>AnimeDLR</name>
+		<summary>AnimeDLR is an anime downloader for android</summary>
+		<icon>net.android.adm.153.png</icon>
+		<desc>&lt;p&gt;AnimeDLR is an anime downloader for android&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Watch online without download&lt;/li&gt;&lt;li&gt; Watch offline downloaded animes&lt;/li&gt;&lt;li&gt; Search series by name, genres, authors, ...&lt;/li&gt;&lt;li&gt; Show latest episodes, popular series&lt;/li&gt;&lt;li&gt; Bookmarks series&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://cylonu87.github.io/androidapps/animedlr</web>
+		<source>https://bitbucket.org/cylonu87/animedlr/src</source>
+		<tracker>https://bitbucket.org/cylonu87/animedlr/issues</tracker>
+		<author>Cylon u87</author>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<antifeatures>Tracking,UpstreamNonFree,Ads,NoSourceSince</antifeatures>
+		<package>
+			<version>7.1.6</version>
+			<versioncode>153</versioncode>
+			<apkname>net.android.adm_v7.1.6_153.apk</apkname>
+			<hash type="sha256">639dddcb1f9b725c3dcdc1979c7371f99f83a8b161b98f3cb206ffb21929b5c4</hash>
+			<size>8142230</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>f928af2e4adcc563f8306f51ed36a866</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+		</package>
+	</application>
+	<application id="com.yihengquan.gogoanime">
+		<id>com.yihengquan.gogoanime</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>AnimeGo-Re</name>
+		<summary>GoGoAnime client</summary>
+		<icon>com.yihengquan.gogoanime.3156728.png</icon>
+		<desc>&lt;p&gt;Notes: This app seems to be an in-development replacement for an existing react-native app located at &lt;a href=&quot;https://github.com/HenryQuan/React-Native-GoGoAnime&quot;&gt;HenryQuan/React-Native-GoGoAnime&lt;/a&gt;. I've corrected some typos and links, but probably won't be updating the description.&lt;/p&gt;&lt;p&gt;= AnimeGo =&lt;/p&gt;&lt;p&gt;&lt;b&gt;This is not the official app&lt;/b&gt;&lt;/p&gt;&lt;p&gt;It has been rewritten with &amp;lt;code&amp;gt;Flutter&amp;lt;/code&amp;gt; to support IOS, tablets and web.&lt;/p&gt;&lt;p&gt;如果你喜歡中文字幕的話，可以嘗試&lt;a href=&quot;https://github.com/HenryQuan/AnimeOne&quot;&gt;AnimeOne&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;= Features =&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Latest anime&lt;/li&gt;&lt;li&gt; Seaonal anime&lt;/li&gt;&lt;li&gt; Movie &amp;amp;amp; Popular anime&lt;/li&gt;&lt;li&gt; Genre list&lt;/li&gt;&lt;li&gt; Search anime&lt;/li&gt;&lt;li&gt; Side drawer design&lt;/li&gt;&lt;li&gt; Watch history (wip)&lt;/li&gt;&lt;li&gt; Favourite anime list (wip)&lt;/li&gt;&lt;li&gt; Auto update (wip)&lt;/li&gt;&lt;li&gt; No popups while watching anime (IOS and Android only)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;I have abondoned this project for about 2 years but it is finally back. A complete rework is undergoing because &amp;lt;code&amp;gt;AnimeOne&amp;lt;/code&amp;gt; doesn’t have some old animes. Flutter is now used instead of React Native. Some features are still under development but it is now stable enough to use. You could try &lt;a href=&quot;https://henryquan.github.io/AnimeGo-Re&quot;&gt;the web version&lt;/a&gt; now.&lt;/p&gt;&lt;p&gt;= Downloads =&lt;/p&gt;&lt;p&gt;Only android build is available and you can download the apk from &lt;a href=&quot;https://github.com/HenryQuan/AnimeGo-Re/releases/latest&quot;&gt;releases/latest&lt;/a&gt; (currently still in preview). However, IOS version is being tested and it works fine. You could &lt;a href=&quot;https://github.com/HenryQuan/AnimeGo-Re/tree/master/AnimeGo/README.md&quot;&gt;compile&lt;/a&gt; it yourself.&lt;/p&gt;&lt;p&gt;= Screenshots =&lt;/p&gt;&lt;p&gt;New screenshots will be taken soon.&lt;/p&gt;</desc>
+		<license>MIT</license>
+		<categories>Manga/Anime,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://henryquan.github.io/AnimeGo-Re</web>
+		<source>https://github.com/HenryQuan/AnimeGo-Re</source>
+		<tracker>https://github.com/HenryQuan/AnimeGo-Re/issues</tracker>
+		<author>HenryQuan</author>
+		<marketversion></marketversion>
+		<marketvercode>3156728</marketvercode>
+		<package>
+			<version>1.1.0</version>
+			<versioncode>3156728</versioncode>
+			<apkname>com.yihengquan.gogoanime_v1.1.0_3156728.apk</apkname>
+			<hash type="sha256">421c543e575e5c8340cf0c6c22e83acdd560d6e880fc69d68610ae253c6abcb3</hash>
+			<size>8299176</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>c988da46079d491a1a813145bcd7e285</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="net.android.hdlr">
+		<id>net.android.hdlr</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>H-DLR</name>
+		<summary>Enjoy your Hentai collection anywhere and anytime</summary>
+		<icon>net.android.hdlr.25.png</icon>
+		<desc>&lt;p&gt;H-DLR is an application that allows you to grab hentai episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Multiple sources&lt;/li&gt;&lt;li&gt; Bookmark series&lt;/li&gt;&lt;li&gt; Stream or download videos&lt;/li&gt;&lt;li&gt; Download queue.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://cylonu87.github.io/HDLR/</web>
+		<source></source>
+		<tracker>https://www.reddit.com/r/AnimeDLR</tracker>
+		<author>Cylon u87</author>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<antifeatures>Tracking,UpstreamNonFree</antifeatures>
+		<package>
+			<version>3.0.0</version>
+			<versioncode>25</versioncode>
+			<apkname>net.android.hdlr_v3.0.0_25.apk</apkname>
+			<hash type="sha256">bafa67db45083956b1ae7559938ab0ac9d68fb541b0fa9b833306e9d664a7a11</hash>
+			<size>4265994</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>530dcea5e374ea6cae941517ec897363</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+		</package>
+	</application>
+	<application id="me.devsaki.hentoid">
+		<id>me.devsaki.hentoid</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>Hentoid</name>
+		<summary>Hentoid is an ad-free Doujinshi &amp; H-Manga archiving and viewing app.</summary>
+		<icon>me.devsaki.hentoid.236.png</icon>
+		<desc>&lt;p&gt;`Hentoid` is an ad-free Doujinshi &amp;amp; H-Manga archiving and viewing app. `Hentoid` currently supports: &lt;a href=&quot;https://nhentai.net/&quot;&gt;nhentai&lt;/a&gt;, &lt;a href=&quot;https://hentai.cafe/&quot;&gt;hentai cafe&lt;/a&gt;, &lt;a href=&quot;https://hitomi.la/&quot;&gt;hitomi&lt;/a&gt;, &lt;a href=&quot;http://asmhentai.com/&quot;&gt;asmhentai&lt;/a&gt;, &lt;a href=&quot;http://www.tsumino.com/&quot;&gt;tsumino&lt;/a&gt;, &lt;a href=&quot;https://pururin.io/&quot;&gt;pururin&lt;/a&gt;, &lt;a href=&quot;https://e-hentai.org/&quot;&gt;e-hentai&lt;/a&gt;, &lt;a href=&quot;https://hentainexus.com&quot;&gt;Hentai Nexus&lt;/a&gt;, &lt;a href=&quot;https://www.8muses.com&quot;&gt;8muses&lt;/a&gt;, &lt;a href=&quot;https://doujins.com&quot;&gt;Doujins.com&lt;/a&gt; and &lt;a href=&quot;https://www.luscious.net&quot;&gt;Luscious.net&lt;/a&gt;. Note: `Hentoid` can still import downloads from &lt;a href=&quot;https://www.fakku.net/&quot;&gt;FAKKU&lt;/a&gt; and &lt;a href=&quot;https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg&quot;&gt;Pururin&lt;/a&gt;. Check out the &lt;a href=&quot;https://github.com/AVnetWS/Hentoid/wiki&quot;&gt;Hentoid wiki&lt;/a&gt; if you need assistance installing `Hentoid` on your device. For the latest release, click &lt;a href=&quot;https://github.com/AVnetWS/Hentoid/releases/latest&quot;&gt;here&lt;/a&gt;.   Don't forget to check the &lt;a href=&quot;https://github.com/avluis/Hentoid/wiki/FAQ&quot;&gt;FAQ&lt;/a&gt; if you have any issue Visit our &lt;a href=&quot;https://discord.gg/QEZ3qk9&quot;&gt;Discord Server&lt;/a&gt; to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.&lt;/p&gt;</desc>
+		<license>Apache-2.0</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://github.com/avluis/Hentoid</web>
+		<source>https://github.com/avluis/Hentoid</source>
+		<tracker>https://github.com/avluis/Hentoid/issues</tracker>
+		<marketversion></marketversion>
+		<marketvercode>236</marketvercode>
+		<package>
+			<version>1.12.1</version>
+			<versioncode>236</versioncode>
+			<apkname>me.devsaki.hentoid_v1.12.1_236.apk</apkname>
+			<hash type="sha256">210010cc7ac6a5e0ff3fc2e108204b2b1b06abbe248591f65ffef1f2ab5b185f</hash>
+			<size>7449750</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="net.android.kamuy">
+		<id>net.android.kamuy</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>Kamuy</name>
+		<summary>Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList</summary>
+		<icon>net.android.kamuy.41.png</icon>
+		<desc>&lt;p&gt;Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Manage your anime and manga: progress, status, rate&lt;/li&gt;&lt;li&gt; Discover anime: top, popular, upcoming, airing, just added, seasonal&lt;/li&gt;&lt;li&gt; Search anime and manga by name&lt;/li&gt;&lt;li&gt; Manage your lists: Plan to watch/read, Watching/reading, On-hold, Dropped, Completed&lt;/li&gt;&lt;li&gt; MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList sync&lt;/li&gt;&lt;li&gt; Recommandations&lt;/li&gt;&lt;li&gt; Light or dark theme&lt;/li&gt;&lt;li&gt; Libraries can be accessed offline&lt;/li&gt;&lt;li&gt; List or grid view&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime</categories>
+		<category>Manga/Anime</category>
+		<web>https://cylonu87.github.io/androidapps/kamuy</web>
+		<source>https://bitbucket.org/cylonu87/kamuy/src/</source>
+		<tracker>https://bitbucket.org/cylonu87/kamuy/issues</tracker>
+		<author>Cylon u87</author>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<antifeatures>Tracking,UpstreamNonFree,Ads,NoSourceSince</antifeatures>
+		<package>
+			<version>4.0.2</version>
+			<versioncode>41</versioncode>
+			<apkname>net.android.kamuy_v4.0.2_41.apk</apkname>
+			<hash type="sha256">45361840636818a9635210f134eeb297fa2b9676a300a4306f8b3614ae8edefb</hash>
+			<size>5041969</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>ea3b0343873ff94021bb9b53f856a1dc</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY</permissions>
+		</package>
+	</application>
+	<application id="com.comikin.manhua3">
+		<id>com.comikin.manhua3</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>Manga Bird</name>
+		<summary></summary>
+		<icon>com.comikin.manhua3.42.png</icon>
+		<desc>&lt;p&gt;This app is NOT open source!&lt;/p&gt;&lt;p&gt;Biggest manga library&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Support 8 launguages, 20+ manga websites, 100k+ mangas.&lt;/li&gt;&lt;li&gt; Search for manga by title or author name&lt;/li&gt;&lt;li&gt; Stream mangas by genres&lt;/li&gt;&lt;li&gt; Manga updates notification&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Best manga viewer&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Features Page Scroll and Page Curl reading modes&lt;/li&gt;&lt;li&gt; Features Horizontal and Vertical reading modes&lt;/li&gt;&lt;li&gt; Features One page and Two pages reading modes in landscape for iPad&lt;/li&gt;&lt;li&gt; 2 reading directions: left to right and right to left&lt;/li&gt;&lt;li&gt; Support offline read&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fast Download&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Supports multiple concurrent download&lt;/li&gt;&lt;li&gt; Prioritize/Pause/Resume/Remove downloads&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Easy Management&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Support bookmark and last page read&lt;/li&gt;&lt;li&gt; One key clean-up in storages&lt;/li&gt;&lt;li&gt; Search mangas from all manga websites in the same time.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>http://mangabirdapp.com/</web>
+		<source></source>
+		<tracker></tracker>
+		<author>Kmanga Works</author>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<antifeatures>UpstreamNonFree,NoSourceSince,Tracking,Ads</antifeatures>
+		<package>
+			<version>1.274</version>
+			<versioncode>42</versioncode>
+			<apkname>com.comikin.manhua3_v1.274_42.apk</apkname>
+			<hash type="sha256">fbe9b1e65b35ff838bc29f693ba055760b3746f01acd86985aa2b8a12f3bdcfa</hash>
+			<size>11656503</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>91c047968f6f062704686299176f363f</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECEIVE_USER_PRESENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,com.comikin.manhua3.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="net.android.mdm">
+		<id>net.android.mdm</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>MangaDLR</name>
+		<summary>MangaDLR is an android manga reader and downloader that supports CBZ.</summary>
+		<icon>net.android.mdm.143.png</icon>
+		<desc>&lt;p&gt;MangaDLR is an android manga reader and downloader that helps you to download your manga, manhwa and comics from many online readers and save them in zip archives so you can read them offline. You can read them with its viewer or another image/picture viewer app without an internet connection, transfer these files to another device or computer,...&lt;/p&gt;&lt;p&gt;Disclaimer&lt;/p&gt;&lt;p&gt;&lt;i&gt;All of the free manga found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free online manga should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Choose the server where you want to read or download your manga.&lt;/li&gt;&lt;li&gt; Add manga to a download queue. The manga are downloaded in the background, you can continue to use the app while downloading.&lt;/li&gt;&lt;li&gt; Bookmark your preferred series, the last page read to continue later.&lt;/li&gt;&lt;li&gt; Read your downloaded manga online or offline with the manga reader or with your preferred image viewer.&lt;/li&gt;&lt;li&gt; Save your downloaded manga wherever you wish (internal memory, micro sd, ...)&lt;/li&gt;&lt;li&gt; Save multiple chapters in a single archive (to group them by volume)&lt;/li&gt;&lt;li&gt; Download selected chapters or all new chapters&lt;/li&gt;&lt;li&gt; Export your download in pdf, epub3.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://cylonu87.github.io/androidapps/mangadlr</web>
+		<source>https://bitbucket.org/cylonu87/mangadlr/src</source>
+		<tracker>https://bitbucket.org/cylonu87/mangadlr/issues</tracker>
+		<author>Cylon u87</author>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<antifeatures>Tracking,UpstreamNonFree,Ads,NoSourceSince</antifeatures>
+		<package>
+			<version>8.0.5</version>
+			<versioncode>143</versioncode>
+			<apkname>net.android.mdm_v8.0.5_143.apk</apkname>
+			<hash type="sha256">2d909f4ca2a7e01ed927c100317867933829b9fbc37628045cb0e7ca4d94f6cc</hash>
+			<size>16196286</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>6ee16f956a8defaa43ebb39b52e2b70e</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,SET_WALLPAPER,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES</permissions>
+		</package>
+	</application>
+	<application id="com.manga.ramt57.mangareader.trend">
+		<id>com.manga.ramt57.mangareader.trend</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>MangaTrend</name>
+		<summary>Abandoned(?) manga reader found on github, with unknown sources</summary>
+		<icon>com.manga.ramt57.mangareader.trend.2.png</icon>
+		<desc>&lt;p&gt;Notes:  - this app does not use github releases, thus it will not be updated automatically. - I haven't looked at the app at the time of writing. install at your own risk. sources are unknown.&lt;/p&gt;&lt;p&gt;Manga is the Japanese comics with a story line and style. In Japan people of all ages read it and does not target younger audiences like american comics. Here are more than 17000 titles translated into English to read online for free. Discover the world of Great Manga.Manga Trend is an Free Web-API based Application for reading manga online. Updated every day and easy to read.&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;p&gt;* Read thousand of manga titles -high quality images &amp;amp; constantly updated. * Enjoy a seamless reading experience. * Download any manga back to your device &amp;amp; read later without internet connection. * Really easy to use.&lt;/p&gt;&lt;p&gt;User Will be able to&lt;/p&gt;&lt;p&gt;* Access the latest manga as it becomes available in Japan! * View the entire series catalog anytime, anywhere. * Unlimited reading access.&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://github.com/ramt57/MangaTrend</web>
+		<source>https://github.com/ramt57/MangaTrend</source>
+		<tracker>https://github.com/ramt57/MangaTrend/issues</tracker>
+		<author>ramt57</author>
+		<marketversion></marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>2.0</version>
+			<versioncode>2</versioncode>
+			<apkname>com.manga.ramt57.mangareader.trend_v2.0_2.apk</apkname>
+			<hash type="sha256">ac67649429ea41b2b1fdc10b48f6421c489d8f8b34d6f79a6df8b7c1627cebd5</hash>
+			<size>2600574</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>9746e2c73c5f63d6385c83fc477f9c5c</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+	</application>
+	<application id="top.rechinx.meow">
+		<id>top.rechinx.meow</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>Meow</name>
+		<summary>Yet another free and open source manga reader</summary>
+		<icon>top.rechinx.meow.8.png</icon>
+		<desc>&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Page reading&lt;/li&gt;&lt;li&gt; Scroll reading&lt;/li&gt;&lt;li&gt; Auto update&lt;/li&gt;&lt;li&gt; Login support&lt;/li&gt;&lt;li&gt; Plugin-like comic source.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Apologies for the dual versions. One of the versions is a forked  version released by mabDc on github; the other is official version  1.0.6 by rechinx; the mabDc version did not include a version bump or  a different package name, so the only way to know which is which on  version 1.0.6 (via fdroid) is to install an older version and see if  the signature check fails during install. At the current time, the  forked version is at 1.0.8 while the official version is at 1.0.6.  Since I'm not actually using Meow at the moment, I will not be fixing  this issue (I've been too lazy to look up the differences in the  forked version, and intend to check it out eventually).&lt;/p&gt;</desc>
+		<license>GPL-3.0-only</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://github.com/neverfelly/Meow</web>
+		<source>https://github.com/neverfelly/Meow</source>
+		<tracker>https://github.com/neverfelly/Meow/issues</tracker>
+		<author>ReChinX</author>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.0.8</version>
+			<versioncode>8</versioncode>
+			<apkname>top.rechinx.meow_1.0.8_8_mabDc.apk</apkname>
+			<hash type="sha256">732081339998e679d7a3ac6243ca4f82c9c6184a2d8eba17c9b24d98d43c9337</hash>
+			<size>5648655</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>24a221ac91bc9209f85e378bbbe6fb30</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>1.0.6</version>
+			<versioncode>6</versioncode>
+			<apkname>top.rechinx.meow_v1.0.6_6.apk</apkname>
+			<hash type="sha256">47ec831d44d677dad94925345c7b4de443c56826140ca9392b6da039793b7d7c</hash>
+			<size>5579647</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>c2fb0bebe0059d54efef2952b8cde1a0</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+	</application>
+	<application id="com.sketchpunk.ocomicreader">
+		<id>com.sketchpunk.ocomicreader</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>Open ComicReader</name>
+		<summary>Comic/Manga viewer for Android devices</summary>
+		<icon>com.sketchpunk.ocomicreader.14.png</icon>
+		<desc>&lt;p&gt;Open Comic Reader&lt;/p&gt;&lt;p&gt;Purpose:&lt;/p&gt;&lt;p&gt;The point of this project is to create a really great app for reading comics. I’ve used a few, while some are good none of them feel perfect. Either it’s a bit slow, the interface isn’t well put together, lacking good features, etc. Then there are ads, which I hate the most&lt;/p&gt;&lt;p&gt;I want the development of the app to be fun, something that can be built together with people who really love reading comics and want the best possible app to make it easy and fun to do&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.sketchpunk.ocomicreader&quot;&gt;Google Play Store Link&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Feature list:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Bare minimum permissions&lt;/li&gt;&lt;li&gt; Opens ZIP/CBZ, RAR/CBR and Image Folders.&lt;/li&gt;&lt;li&gt; Save reading progress and resume last read page&lt;/li&gt;&lt;li&gt; Page preloading&lt;/li&gt;&lt;li&gt; Choose to read from Left -&amp;gt; Right or Right -&amp;gt; Left&lt;/li&gt;&lt;li&gt; Side taps on the screen to progress through the pages&lt;/li&gt;&lt;li&gt; Comic library with grid of covers that can be customized&lt;/li&gt;&lt;li&gt; Pinch to zoom comic pages (one finger zoom, tap and hold to activate)&lt;/li&gt;&lt;li&gt; Double tap to zoom in, do it again to reset.&lt;/li&gt;&lt;li&gt; Two folders can be selected to sync comics from&lt;/li&gt;&lt;li&gt; Tap the left or Right side of a page for next/prev, Or Swipe from edge&lt;/li&gt;&lt;li&gt; Library Filtering&lt;/li&gt;&lt;li&gt; Group issues by Series, can even edit series&lt;/li&gt;&lt;li&gt; ComicRack Meta Data support for Folders and Zip/Cbz.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://github.com/sketchpunk/opencomicreader</web>
+		<source>https://github.com/sketchpunk/opencomicreader</source>
+		<tracker>https://github.com/sketchpunk/opencomicreader/issues</tracker>
+		<author>sketchpunk</author>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>0.2.1.1 beta</version>
+			<versioncode>14</versioncode>
+			<apkname>com.sketchpunk.ocomicreader_14.apk</apkname>
+			<hash type="sha256">3dec2a1d7926932bc355aee6ac1fff92385a866e9795d14b25bf1576a7c1b809</hash>
+			<size>835700</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>19</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>a80d5d73350533833732ab3cc04b71ca</sig>
+			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
+		</package>
+	</application>
+	<application id="net.cyl.ranobe">
+		<id>net.cyl.ranobe</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>Ranobe</name>
+		<summary>Ranobe is an app to read and download light novels</summary>
+		<icon>net.cyl.ranobe.34.png</icon>
+		<desc>&lt;p&gt;Ranobe&lt;/p&gt;&lt;p&gt;Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites&lt;/p&gt;&lt;p&gt;Disclaimer&lt;/p&gt;&lt;p&gt;&lt;i&gt;All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Choose the server where you want to read or download your Light Novel&lt;/li&gt;&lt;li&gt; Add LN into your library&lt;/li&gt;&lt;li&gt; Bookmark your preferred series&lt;/li&gt;&lt;li&gt; Read online or offline&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel</web>
+		<source></source>
+		<tracker>https://bitbucket.org/cylonu87/ranobe/issues</tracker>
+		<author>Cylon u87</author>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<antifeatures>Tracking,UpstreamNonFree,Ads,NoSourceSince</antifeatures>
+		<package>
+			<version>3.1.2</version>
+			<versioncode>34</versioncode>
+			<apkname>net.cyl.ranobe_v3.1.2_34.apk</apkname>
+			<hash type="sha256">0327b899230e08ba25b20d21f00785bb1169a4431c748ee9ac914fd6452b9c12</hash>
+			<size>4764660</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>7bfa959fb9b2201371a7b1f06f6522d2</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<features>android.hardware.touchscreen</features>
+		</package>
+	</application>
+	<application id="com.whatthefuck">
+		<id>com.whatthefuck</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>React Native NHentai Reader</name>
+		<summary>Abandoned(?) manga reader found on github, with unknown sources</summary>
+		<icon>com.whatthefuck.1.png</icon>
+		<desc>&lt;p&gt;Notes:  - this app will not be updated automatically. - I haven't looked at the app at the time of writing. install at your own risk. sources are unknown.&lt;/p&gt;&lt;p&gt;&lt;b&gt;React Native NHentai Reader&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;This project is kinda NSFW&lt;/b&gt; &lt;b&gt;Only for Android. I haven't touch anything on the ios folder yet&lt;/b&gt;&lt;/p&gt;&lt;p&gt;A very simple app to read NHentai based on React Native. This is my very first RN app, so I apologize for any crappy codes on it.&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://github.com/dickydick69/rn-nhentai-reader</web>
+		<source>https://github.com/dickydick69/rn-nhentai-reader</source>
+		<tracker>https://github.com/dickydick69/rn-nhentai-reader/issues</tracker>
+		<author>dickydick69 aka Paul</author>
+		<marketversion></marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>com.whatthefuck_v1.0_1.apk</apkname>
+			<hash type="sha256">96f8d3c352c6be4549e8fed123efa5802fc6fd0f0aaf82422df054072f0d6d7a</hash>
+			<size>13856100</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.CHECK_LICENSE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.example.taiyaki_anime">
+		<id>com.example.taiyaki_anime</id>
+		<added>2020-06-22</added>
+		<lastupdated>2020-06-22</lastupdated>
+		<name>TaiYakiAnime</name>
+		<summary>Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL</summary>
+		<icon>com.example.taiyaki_anime.1001.png</icon>
+		<desc>&lt;p&gt;Notes: This app is in beta, and seems to be in active development.&lt;/p&gt;&lt;p&gt;= TaiYaKi =&lt;/p&gt;&lt;p&gt;Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi&lt;/p&gt;&lt;p&gt;=== App is Currently in Beta ===&lt;/p&gt;&lt;p&gt;=== Compatible with iPhone and iPad =&amp;amp;gt; iOS 11.3+ &amp;amp;amp; Android 5.0+ ===&lt;/p&gt;&lt;p&gt;=== Features ===&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary&lt;/li&gt;&lt;li&gt; Multiple sources to choose from&lt;/li&gt;&lt;li&gt; Uses the Jikan &amp;amp;amp; the SIMKL API&lt;/li&gt;&lt;li&gt; Progress automatically updates to your MAL/SIMKL list as you watch&lt;/li&gt;&lt;li&gt; Binge Watching(coming soon!)&lt;/li&gt;&lt;li&gt; Constantly updated!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<categories>Multimedia,Manga/Anime</categories>
+		<category>Multimedia</category>
+		<web>https://michael24884.github.io/TaiYaKiAnime/</web>
+		<source></source>
+		<tracker>https://github.com/Michael24884/TaiYaKiAnime/issues</tracker>
+		<author>Michael24884</author>
+		<marketversion></marketversion>
+		<marketvercode>1001</marketvercode>
+		<antifeatures>Tracking,UpstreamNonFree,NoSourceSince</antifeatures>
+		<package>
+			<version>1.1.1</version>
+			<versioncode>1001</versioncode>
+			<apkname>com.example.taiyaki_anime_v1.1.1_1001-armeabi-v7a.apk</apkname>
+			<hash type="sha256">e10f5f6e6908207ef3ba6550784d0e1197a044d529d0358e3ea76f034a245a94</hash>
+			<size>29868749</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>c3f760e0c482d112a53f9fc7d3841203</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,RECEIVE_BOOT_COMPLETED</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
+</fdroid>

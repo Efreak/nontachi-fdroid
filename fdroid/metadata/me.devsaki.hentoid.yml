@@ -1,0 +1,24 @@
+Categories:
+  - Manga/Anime
+  - Reading
+  - Multimedia
+License: Apache-2.0
+WebSite: https://github.com/avluis/Hentoid
+SourceCode: https://github.com/avluis/Hentoid
+IssueTracker: https://github.com/avluis/Hentoid/issues
+
+Name: Hentoid
+Summary: Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.
+Description: |-
+    `Hentoid` is an ad-free Doujinshi & H-Manga archiving and viewing app.
+    `Hentoid` currently supports:
+    [https://nhentai.net/ nhentai], [https://hentai.cafe/ hentai cafe], [https://hitomi.la/ hitomi], [http://asmhentai.com/ asmhentai], [http://www.tsumino.com/ tsumino], [https://pururin.io/ pururin], [https://e-hentai.org/ e-hentai], [https://hentainexus.com Hentai Nexus], [https://www.8muses.com 8muses], [https://doujins.com Doujins.com] and [https://www.luscious.net Luscious.net].
+    Note: `Hentoid` can still import downloads from [https://www.fakku.net/ FAKKU] and [https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg Pururin].
+    Check out the [https://github.com/AVnetWS/Hentoid/wiki Hentoid wiki] if you need assistance installing `Hentoid` on your device.
+    For the latest release, click [https://github.com/AVnetWS/Hentoid/releases/latest here].
+     
+    Don't forget to check the [https://github.com/avluis/Hentoid/wiki/FAQ FAQ] if you have any issue
+    Visit our [https://discord.gg/QEZ3qk9 Discord Server] to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.
+
+AutoUpdateMode: None
+UpdateCheckMode: None

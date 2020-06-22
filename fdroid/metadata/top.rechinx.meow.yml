@@ -1,0 +1,35 @@
+Categories:
+  - Manga/Anime
+  - Reading
+  - Multimedia
+License: GPL-3.0-only
+AuthorName: ReChinX
+WebSite: https://github.com/neverfelly/Meow
+SourceCode: https://github.com/neverfelly/Meow
+IssueTracker: https://github.com/neverfelly/Meow/issues
+
+Name: Meow
+Summary: Yet another free and open source manga reader
+Description: |-
+    Features
+    * Page reading
+    * Scroll reading
+    * Auto update
+    * Login support
+    * Plugin-like comic source.
+
+    Apologies for the dual versions. One of the versions is a forked 
+    version released by mabDc on github; the other is official version 
+    1.0.6 by rechinx; the mabDc version did not include a version bump or 
+    a different package name, so the only way to know which is which on 
+    version 1.0.6 (via fdroid) is to install an older version and see if 
+    the signature check fails during install. At the current time, the 
+    forked version is at 1.0.8 while the official version is at 1.0.6. 
+    Since I'm not actually using Meow at the moment, I will not be fixing 
+    this issue (I've been too lazy to look up the differences in the 
+    forked version, and intend to check it out eventually).
+
+ArchivePolicy: 2 versions
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
