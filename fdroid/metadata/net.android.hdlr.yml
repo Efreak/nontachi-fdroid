@@ -1,0 +1,25 @@
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
+Categories:
+  - Manga/Anime
+  - Multimedia
+License: Unknown
+AuthorName: Cylon u87
+WebSite: https://cylonu87.github.io/HDLR/
+IssueTracker: https://www.reddit.com/r/AnimeDLR
+
+Name: H-DLR
+Summary: Enjoy your Hentai collection anywhere and anytime
+Description: |-
+    H-DLR is an application that allows you to grab hentai episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.
+
+    Features
+    * Multiple sources
+    * Bookmark series
+    * Stream or download videos
+    * Download queue.
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

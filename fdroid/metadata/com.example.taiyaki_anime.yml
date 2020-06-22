@@ -1,0 +1,38 @@
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
+  - NoSourceSince
+Categories:
+  - Multimedia
+  - Manga/Anime
+License: Unknown
+AuthorName: Michael24884
+WebSite: https://michael24884.github.io/TaiYaKiAnime/
+IssueTracker: https://github.com/Michael24884/TaiYaKiAnime/issues
+
+Name: TaiYakiAnime
+Summary: Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL
+Description: |-
+    Notes: This app is in beta, and seems to be in active development.
+
+    = TaiYaKi =
+
+    Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi
+
+    === App is Currently in Beta ===
+
+    === Compatible with iPhone and iPad =&gt; iOS 11.3+ &amp; Android 5.0+ ===
+
+    === Features ===
+
+    * Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary
+    * Multiple sources to choose from
+    * Uses the Jikan &amp; the SIMKL API
+    * Progress automatically updates to your MAL/SIMKL list as you watch
+    * Binge Watching(coming soon!)
+    * Constantly updated!
+
+    The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson
+
+AutoUpdateMode: None
+UpdateCheckMode: None

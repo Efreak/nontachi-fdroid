@@ -1,0 +1,27 @@
+Categories:
+  - Manga/Anime
+  - Reading
+  - Multimedia
+License: Unknown
+AuthorName: dickydick69 aka Paul
+WebSite: https://github.com/dickydick69/rn-nhentai-reader
+SourceCode: https://github.com/dickydick69/rn-nhentai-reader
+IssueTracker: https://github.com/dickydick69/rn-nhentai-reader/issues
+
+Name: React Native NHentai Reader
+Summary: Abandoned(?) manga reader found on github, with unknown sources
+Description: |-
+    Notes: 
+    - this app will not be updated automatically.
+    - I haven't looked at the app at the time of writing. install at your own risk. sources are unknown.
+
+    '''React Native NHentai Reader'''
+
+    '''This project is kinda NSFW'''
+    '''Only for Android. I haven't touch anything on the ios folder yet'''
+
+    A very simple app to read NHentai based on React Native. This is my very first RN app,
+    so I apologize for any crappy codes on it.
+
+AutoUpdateMode: None
+UpdateCheckMode: None

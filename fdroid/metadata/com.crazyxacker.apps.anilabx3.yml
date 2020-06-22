@@ -1,0 +1,26 @@
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
+  - Ads
+  - NoSourceSince
+Categories:
+  - Manga/Anime
+  - Reading
+  - Multimedia
+License: Unknown
+AuthorName: CrazyXacker
+WebSite: https://mangawatcherx.com
+IssueTracker: https://github.com/CrazyXacker/anilabx/issues
+
+Name: AniLabX3
+Summary: AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light
+    novels
+Description: |-
+    Notes: 
+    - this app does not use github releases, thus it will not be updated automatically.
+    - I haven't looked at the app at the time of writing. install at your own risk. sources are listed on website(?), unsure as website references a different app, and 'other apps' link does not work on mobile.
+
+    AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels
+
+AutoUpdateMode: None
+UpdateCheckMode: None

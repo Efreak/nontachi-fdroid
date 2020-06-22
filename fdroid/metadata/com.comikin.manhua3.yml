@@ -1,0 +1,46 @@
+AntiFeatures:
+  - UpstreamNonFree
+  - NoSourceSince
+  - Tracking
+  - Ads
+Categories:
+  - Manga/Anime
+  - Reading
+  - Multimedia
+License: Unknown
+AuthorName: Kmanga Works
+WebSite: http://mangabirdapp.com/
+
+Name: Manga Bird
+Description: |-
+    This app is NOT open source!
+
+    Biggest manga library
+
+    * Support 8 launguages, 20+ manga websites, 100k+ mangas.
+    * Search for manga by title or author name
+    * Stream mangas by genres
+    * Manga updates notification
+
+    Best manga viewer
+
+    * Features Page Scroll and Page Curl reading modes
+    * Features Horizontal and Vertical reading modes
+    * Features One page and Two pages reading modes in landscape for iPad
+    * 2 reading directions: left to right and right to left
+    * Support offline read
+
+    Fast Download
+
+    * Supports multiple concurrent download
+    * Prioritize/Pause/Resume/Remove downloads
+
+    Easy Management
+
+    * Support bookmark and last page read
+    * One key clean-up in storages
+    * Search mangas from all manga websites in the same time.
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
