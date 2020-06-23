@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1592865141000,
+    "timestamp": 1592871560000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -16,6 +16,29 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "Ads"
+      ],
+      "authorName": "Sher1234",
+      "categories": [
+        "Manga/Anime",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.</p><p>Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.</p><p>an!me - better ongoing is an android application with notification support for newer releases Not affiliated to source i.e. horriblesubs.info in any way Support the official site horriblesubs.info Tech</p><p>an!me implements number of open source projects listed bellow:</p><ul><li> Androidx Libraries</li><li> Glide for Displaying images</li><li> Retrofit networking libraries</li><li> SimpleHtmlDom for HTML parsing</li><li> Firebase for FCM notifications &amp; google ads</li></ul><p>Notes:</p><ul><li> <a href=\"Supported\">Supported</a> Versions 0.9.0 (and above) (Api-v7)</li><li> <a href=\"Supported\">Supported</a> Versions 0.8.0 (and above) (Api-v6)</li><li> <a href=\"Supported\">Supported</a> Versions 0.7.0 - 0.7.9 (Api-v5)</li></ul><p>    * <a href=\"Changed\">Signing Keys</a> Versions 0.7.5 - 0.7.9     * <a href=\"Changed\">Signing Keys</a> Versions 0.7.0 - 0.7.4</p><ul><li> <a href=\"Unsupported\">Unsupported</a> Versions 0.6.5 and earlier</li></ul><p>Features</p><ul><li> Lists New/Latest Releases from HorribleSubs Website,</li><li> Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),</li><li> Notification Support for every new release available on HorribleSubs</li></ul><p>    * Needs to be enabled in the Settings,     * Notification might get delayed (30 min at max),</p><ul><li> Bookmark a Show for faster &amp; easier access,</li><li> Detailed Show page,</li><li> Lists Search for the shows/release.</li><li> Views All as well as Current Shows with Search option.</li><li> Show Activity for viewing previous show releases and show description.</li></ul>",
+      "issueTracker": "https://github.com/Sher1234/Horrible/issues",
+      "license": "GPL-3.0-only",
+      "name": "an!me",
+      "sourceCode": "https://github.com/Sher1234/Horrible",
+      "summary": "an!me - better ongoing, android application",
+      "added": 1592868308000,
+      "icon": "info.horriblesubs.sher.88.png",
+      "packageName": "info.horriblesubs.sher",
+      "lastUpdated": 1592868308000
+    },
     {
       "antiFeatures": [
         "Tracking",
@@ -40,6 +63,38 @@
       "icon": "com.crazyxacker.apps.anilabx3.166.png",
       "packageName": "com.crazyxacker.apps.anilabx3",
       "lastUpdated": 1592865127000
+    },
+    {
+      "authorName": "balvinderz",
+      "categories": [
+        "Manga/Anime",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Note: I have not bothered with antifeatures in this app. Assume no ads, but also assume tracking and upstream-nonfree, since I'm not bothering to check.</p><p>AnimeWatcher</p><p>A simple app to watch anime without any ads.</p><p>It uses Jsoup to extract information from gogoanime website.</p><p>Features</p><ul><li> Picture in Picture mode</li><li> Search Anime</li><li> Check recent anime you have watched</li><li> Anime List - Contains 6142 Anime</li></ul><p>Libraries Used</p><ul><li> Exoplayer- To show videos</li><li> Jsoup- for webscraping</li><li> Picasso - for displaying images and caching</li><li> Cast</li><li> Connect SDK - for casting</li></ul>",
+      "issueTracker": "https://github.com/balvinderz/animewatcher/issues",
+      "license": "Unknown",
+      "name": "Anime Watcher",
+      "sourceCode": "https://github.com/balvinderz/animewatcher",
+      "summary": "The goal of this project/app is to let the user watch anime without ads",
+      "added": 1592868306000,
+      "icon": "com.stuffbox.webscraper.1.png",
+      "packageName": "com.stuffbox.webscraper",
+      "lastUpdated": 1592868306000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "animelist.jpg",
+            "animesearchlsit.jpg",
+            "dub.jpg",
+            "fight.jpg",
+            "pip.jpg",
+            "recent.jpg",
+            "search.jpg",
+            "subfinal.jpg"
+          ]
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -151,6 +206,38 @@
       "lastUpdated": 1592865135000
     },
     {
+      "authorName": "nv95",
+      "categories": [
+        "Manga/Anime",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Note: I have not bothered with antifeatures in this app. Assume no ads (based on description only), but also assume tracking and upstream-nonfree, since I'm not bothering to check.</p><p>Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.</p><p>Kotatsu is a free and open source manga reader for Android.</p><p>Android 5.0 Kotlin Build Status License 4pda</p><p>Legacy build (Android 4.1+): available https://github.com/nv95/Kotatsu/releases/tag/v0.4-legacy</p><p>Main Features</p><ul><li> Online manga catalogues</li><li> Search manga by name and genre</li><li> Reading history</li><li> Favourites with custom categories</li><li> Saving manga and reading it offline</li><li> Tablet-optimized modern UI</li><li> Reading third-party comics from CBZ</li><li> Standard and Webtoon-optimized reader</li><li> Notifications about new chapters</li></ul><p>Coming Features</p><ul><li> Updates feed</li><li> Global search</li></ul>",
+      "donate": "https://money.yandex.ru/to/410012543938752",
+      "issueTracker": "https://github.com/nv95/Kotatsu/issues",
+      "license": "GPL-3.0-only",
+      "name": "Kotatsu",
+      "sourceCode": "https://github.com/nv95/Kotatsu",
+      "summary": "Kotatsu is a free and open source manga reader for Android",
+      "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
+      "added": 1592868310000,
+      "icon": "org.koitharu.kotatsu.210.png",
+      "packageName": "org.koitharu.kotatsu",
+      "lastUpdated": 1592868310000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "details.png",
+            "left-sidebar.png",
+            "right-sidebar.png",
+            "settings.png",
+            "storage.png",
+            "viewer.png"
+          ]
+        }
+      }
+    },
+    {
       "antiFeatures": [
         "UpstreamNonFree",
         "NoSourceSince",
@@ -240,6 +327,38 @@
       "lastUpdated": 1592865141000
     },
     {
+      "authorName": "KurozeroPB",
+      "categories": [
+        "Multimedia",
+        "Manga/Anime",
+        "Graphics",
+        "Internet"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Note: I have not bothered with antifeatures in this app. Start using it assuming ads, tracking and upstream-nonfree, since I'm not bothering to check. It is listed on google play, if that matters to you.</p><p>Nekos implements the nekos.moe api making all the high-quality images easily accessible on your mobile device, lovely neko/catgirl images and anything with animal-like features. It has features like logging in with your account, liking, favoriting, uploading images, downloading images and sharing images. It's time to fill your phones memory with cute catgirls.</p>",
+      "donate": "https://github.com/sponsors/KurozeroPB",
+      "issueTracker": "https://github.com/KurozeroPB/Nekos/issues",
+      "license": "MIT",
+      "name": "Nekos",
+      "sourceCode": "https://github.com/KurozeroPB/Nekos",
+      "summary": "Nekos - Search, Download and Share catgirls",
+      "added": 1592868311000,
+      "icon": "xyz.kurozero.nekosmoe.20.png",
+      "packageName": "xyz.kurozero.nekosmoe",
+      "lastUpdated": 1592868311000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "image-details.png",
+            "login.png",
+            "main.png",
+            "sidebar.png",
+            "user-details.png"
+          ]
+        }
+      }
+    },
+    {
       "authorName": "sketchpunk",
       "categories": [
         "Manga/Anime",
@@ -315,7 +434,7 @@
         "Multimedia",
         "Manga/Anime"
       ],
-      "suggestedVersionCode": "1001",
+      "suggestedVersionCode": "4001",
       "description": "<p>Notes: This app is in beta, and seems to be in active development.</p><p>= TaiYaKi =</p><p>Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi</p><p>=== App is Currently in Beta ===</p><p>=== Compatible with iPhone and iPad =&amp;gt; iOS 11.3+ &amp;amp; Android 5.0+ ===</p><p>=== Features ===</p><ul><li> Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary</li><li> Multiple sources to choose from</li><li> Uses the Jikan &amp;amp; the SIMKL API</li><li> Progress automatically updates to your MAL/SIMKL list as you watch</li><li> Binge Watching(coming soon!)</li><li> Constantly updated!</li></ul><p>The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson</p>",
       "issueTracker": "https://github.com/Michael24884/TaiYaKiAnime/issues",
       "license": "Unknown",
@@ -323,9 +442,9 @@
       "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
       "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
       "added": 1592865101000,
-      "icon": "com.example.taiyaki_anime.1001.png",
+      "icon": "com.example.taiyaki_anime.4001.png",
       "packageName": "com.example.taiyaki_anime",
-      "lastUpdated": 1592865101000,
+      "lastUpdated": 1592868304000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -517,18 +636,18 @@
     ],
     "com.example.taiyaki_anime": [
       {
-        "added": 1592865101000,
-        "apkName": "com.example.taiyaki_anime_v1.1.1_1001-armeabi-v7a.apk",
-        "hash": "e10f5f6e6908207ef3ba6550784d0e1197a044d529d0358e3ea76f034a245a94",
+        "added": 1592868304000,
+        "apkName": "com.example.taiyaki_anime_v1.1.1_4001-x86_64.apk",
+        "hash": "11e23e8d28c8a762979190b137cf2b150f750d231159987b91cdb4a1fa2feb4c",
         "hashType": "sha256",
         "minSdkVersion": 17,
         "nativecode": [
-          "armeabi-v7a"
+          "x86_64"
         ],
         "packageName": "com.example.taiyaki_anime",
         "sig": "c3f760e0c482d112a53f9fc7d3841203",
         "signer": "403e348ff7e3650c9d85bbc0401a9a0bede1a1add88081e34ee0ee88290a57bd",
-        "size": 29868749,
+        "size": 32396820,
         "targetSdkVersion": 28,
         "uses-permission": [
           [
@@ -552,7 +671,7 @@
             null
           ]
         ],
-        "versionCode": 1001,
+        "versionCode": 4001,
         "versionName": "1.1.1"
       }
     ],
@@ -620,6 +739,44 @@
         ],
         "versionCode": 14,
         "versionName": "0.2.1.1 beta"
+      }
+    ],
+    "com.stuffbox.webscraper": [
+      {
+        "added": 1592868306000,
+        "apkName": "com.stuffbox.webscraper_v6_1.apk",
+        "hash": "5ace2a3fa6aa41a0e66bd3a1a6425f539186d018d7c2a39936682ff5c039fe5a",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.stuffbox.webscraper",
+        "sig": "973889f9c1ef021bbd0c06b254523caa",
+        "signer": "a6b885f77b58b9052eee72eb6ecad97431608f7d45bc5ea80c62e089a41d5e58",
+        "size": 4249473,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "6"
       }
     ],
     "com.whatthefuck": [
@@ -697,6 +854,48 @@
         ],
         "versionCode": 3156728,
         "versionName": "1.1.0"
+      }
+    ],
+    "info.horriblesubs.sher": [
+      {
+        "added": 1592868308000,
+        "apkName": "info.horriblesubs.sher_v0.8.8.release_88-.apk",
+        "hash": "ac25a57396e2a8f06fbfdff9b5543118a1a8a5ad0b5484bfefe98f41ad4fc38a",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "info.horriblesubs.sher",
+        "sig": "5d20c70dea2bef35b913242683e5d771",
+        "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
+        "size": 11387924,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 88,
+        "versionName": "0.8.8.release"
       }
     ],
     "me.devsaki.hentoid": [
@@ -1124,6 +1323,56 @@
         "versionName": "3.1.2"
       }
     ],
+    "org.koitharu.kotatsu": [
+      {
+        "added": 1592868310000,
+        "apkName": "org.koitharu.kotatsu_v0.5-b1_210.apk",
+        "hash": "8faac3959c70e7389dcdab50e4c82ed80c1500c9f30c175e1b0562788550e9cd",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "org.koitharu.kotatsu",
+        "sig": "dd481767ec88795ce0a97b82ecfae931",
+        "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+        "size": 2940572,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 210,
+        "versionName": "0.5-b1"
+      }
+    ],
     "top.rechinx.meow": [
       {
         "added": 1592865122000,
@@ -1228,6 +1477,59 @@
         ],
         "versionCode": 8,
         "versionName": "1.0.8"
+      }
+    ],
+    "xyz.kurozero.nekosmoe": [
+      {
+        "added": 1592868311000,
+        "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
+        "hash": "8a191d8a2095d7fe47b97fc1ae984c42f0ab347a6650bb94615bee8748a955bb",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.kurozero.nekosmoe",
+        "sig": "e8a0a467634099a008f330890e2a9b1a",
+        "signer": "06327d127edf9a4fb4b68e2e84ab06a0c4ff262d8348194dfa668f070099c9ed",
+        "size": 7794960,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 20,
+        "versionName": "1.0.0"
       }
     ]
   }

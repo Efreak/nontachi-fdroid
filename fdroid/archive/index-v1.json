@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1592865147000,
+    "timestamp": 1592871565000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -201,6 +201,39 @@
       "icon": "net.cyl.ranobe.33.png",
       "packageName": "net.cyl.ranobe",
       "lastUpdated": 1592865139000
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "NoSourceSince"
+      ],
+      "authorName": "Michael24884",
+      "categories": [
+        "Multimedia",
+        "Manga/Anime"
+      ],
+      "suggestedVersionCode": "4001",
+      "description": "<p>Notes: This app is in beta, and seems to be in active development.</p><p>= TaiYaKi =</p><p>Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi</p><p>=== App is Currently in Beta ===</p><p>=== Compatible with iPhone and iPad =&amp;gt; iOS 11.3+ &amp;amp; Android 5.0+ ===</p><p>=== Features ===</p><ul><li> Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary</li><li> Multiple sources to choose from</li><li> Uses the Jikan &amp;amp; the SIMKL API</li><li> Progress automatically updates to your MAL/SIMKL list as you watch</li><li> Binge Watching(coming soon!)</li><li> Constantly updated!</li></ul><p>The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson</p>",
+      "issueTracker": "https://github.com/Michael24884/TaiYaKiAnime/issues",
+      "license": "Unknown",
+      "name": "TaiYakiAnime",
+      "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
+      "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
+      "added": 1592865101000,
+      "icon": "com.example.taiyaki_anime.2001.png",
+      "packageName": "com.example.taiyaki_anime",
+      "lastUpdated": 1592868304000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "banner.jpg",
+            "discover.jpg",
+            "mal.jpg",
+            "stream.jpg"
+          ]
+        }
+      }
     }
   ],
   "packages": {
@@ -270,6 +303,86 @@
         ],
         "versionCode": 160,
         "versionName": "3.5.22"
+      }
+    ],
+    "com.example.taiyaki_anime": [
+      {
+        "added": 1592868301000,
+        "apkName": "com.example.taiyaki_anime_v1.1.1_2001-arm64-v8a.apk",
+        "hash": "826a22c4031605f3e30bd00b703991aedc98452cbd96b7e7a8d2e37c46b338f8",
+        "hashType": "sha256",
+        "minSdkVersion": 17,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.example.taiyaki_anime",
+        "sig": "c3f760e0c482d112a53f9fc7d3841203",
+        "signer": "403e348ff7e3650c9d85bbc0401a9a0bede1a1add88081e34ee0ee88290a57bd",
+        "size": 30575854,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 2001,
+        "versionName": "1.1.1"
+      },
+      {
+        "added": 1592865101000,
+        "apkName": "com.example.taiyaki_anime_v1.1.1_1001-armeabi-v7a.apk",
+        "hash": "e10f5f6e6908207ef3ba6550784d0e1197a044d529d0358e3ea76f034a245a94",
+        "hashType": "sha256",
+        "minSdkVersion": 17,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.example.taiyaki_anime",
+        "sig": "c3f760e0c482d112a53f9fc7d3841203",
+        "signer": "403e348ff7e3650c9d85bbc0401a9a0bede1a1add88081e34ee0ee88290a57bd",
+        "size": 29868749,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 1001,
+        "versionName": "1.1.1"
       }
     ],
     "me.devsaki.hentoid": [
