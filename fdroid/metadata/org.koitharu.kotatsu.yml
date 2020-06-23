@@ -1,0 +1,40 @@
+AuthorName: 'nv95'
+Categories:
+- Manga/Anime
+- Multimedia
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/nv95/Kotatsu/issues'
+Name: Kotatsu
+WebSite: 'https://4pda.ru/forum/index.php?showtopic=697669'
+SourceCode: 'https://github.com/nv95/Kotatsu'
+Summary: 'Kotatsu is a free and open source manga reader for Android'
+License: GPL-3.0-only
+Donate: https://money.yandex.ru/to/410012543938752
+Description: |-
+    Note: I have not bothered with antifeatures in this app. Assume no ads (based on description only), but also assume tracking and upstream-nonfree, since I'm not bothering to check.
+    
+    Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.
+    
+    Kotatsu is a free and open source manga reader for Android.
+    
+    Android 5.0 Kotlin Build Status License 4pda
+    
+    Legacy build (Android 4.1+): available https://github.com/nv95/Kotatsu/releases/tag/v0.4-legacy
+    
+    Main Features
+    
+    * Online manga catalogues
+    * Search manga by name and genre
+    * Reading history
+    * Favourites with custom categories
+    * Saving manga and reading it offline
+    * Tablet-optimized modern UI
+    * Reading third-party comics from CBZ
+    * Standard and Webtoon-optimized reader
+    * Notifications about new chapters
+    
+    Coming Features
+    
+    * Updates feed
+    * Global search
+

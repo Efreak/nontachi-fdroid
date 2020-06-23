@@ -1,0 +1,53 @@
+AuthorName: 'Sher1234'
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
+  - Ads
+Categories:
+- Manga/Anime
+- Multimedia
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/Sher1234/Horrible/issues'
+Name: an!me
+SourceCode: 'https://github.com/Sher1234/Horrible'
+Summary: 'an!me - better ongoing, android application'
+License: GPL-3.0-only
+Description: |-
+    Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.
+
+    Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.
+
+    an!me - better ongoing is an android application with notification support for newer releases
+    Not affiliated to source i.e. horriblesubs.info in any way
+    Support the official site horriblesubs.info
+    Tech
+    
+    an!me implements number of open source projects listed bellow:
+    
+    * Androidx Libraries
+    * Glide for Displaying images
+    * Retrofit networking libraries
+    * SimpleHtmlDom for HTML parsing
+    * Firebase for FCM notifications & google ads
+    
+    Notes:
+    
+    * [Supported] Versions 0.9.0 (and above) (Api-v7)
+    * [Supported] Versions 0.8.0 (and above) (Api-v6)
+    * [Supported] Versions 0.7.0 - 0.7.9 (Api-v5)
+        * [Changed Signing Keys] Versions 0.7.5 - 0.7.9
+        * [Changed Signing Keys] Versions 0.7.0 - 0.7.4
+    * [Unsupported] Versions 0.6.5 and earlier
+    
+    Features
+    
+    * Lists New/Latest Releases from HorribleSubs Website,
+    * Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),
+    * Notification Support for every new release available on HorribleSubs
+        * Needs to be enabled in the Settings,
+        * Notification might get delayed (30 min at max),
+    * Bookmark a Show for faster & easier access,
+    * Detailed Show page,
+    * Lists Search for the shows/release.
+    * Views All as well as Current Shows with Search option.
+    * Show Activity for viewing previous show releases and show description.

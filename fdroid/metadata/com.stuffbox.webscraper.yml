@@ -1,0 +1,32 @@
+AuthorName: 'balvinderz'
+Categories:
+- Manga/Anime
+- Multimedia
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/balvinderz/animewatcher/issues'
+Name: Anime Watcher
+SourceCode: 'https://github.com/balvinderz/animewatcher'
+Summary: 'The goal of this project/app is to let the user watch anime without ads'
+Description: |-
+    Note: I have not bothered with antifeatures in this app. Assume no ads, but also assume tracking and upstream-nonfree, since I'm not bothering to check.
+    
+    AnimeWatcher
+    
+    A simple app to watch anime without any ads.
+    
+    It uses Jsoup to extract information from gogoanime website.
+    
+    Features
+    
+    * Picture in Picture mode
+    * Search Anime
+    * Check recent anime you have watched
+    * Anime List - Contains 6142 Anime
+    
+    Libraries Used
+    
+    * Exoplayer- To show videos
+    * Jsoup- for webscraping
+    * Picasso - for displaying images and caching
+    * Cast
+    * Connect SDK - for casting
