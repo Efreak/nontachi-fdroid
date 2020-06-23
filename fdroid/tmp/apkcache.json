@@ -1899,5 +1899,383 @@
     "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
     "icon": "top.rechinx.meow.6.png",
     "added": 1592890341.52468
+  },
+  "com.example.taiyaki_anime_v1.1.1_2001-arm64-v8a.apk": {
+    "hash": "826a22c4031605f3e30bd00b703991aedc98452cbd96b7e7a8d2e37c46b338f8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.example.taiyaki_anime.2001.png",
+      "480": "com.example.taiyaki_anime.2001.png",
+      "320": "com.example.taiyaki_anime.2001.png",
+      "240": "com.example.taiyaki_anime.2001.png",
+      "160": "com.example.taiyaki_anime.2001.png",
+      "0": "com.example.taiyaki_anime.2001.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.example.taiyaki_anime",
+    "versionCode": 2001,
+    "name": "Taiyaki",
+    "versionName": "1.1.1",
+    "minSdkVersion": 17,
+    "targetSdkVersion": 28,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "c3f760e0c482d112a53f9fc7d3841203",
+    "signer": "403e348ff7e3650c9d85bbc0401a9a0bede1a1add88081e34ee0ee88290a57bd",
+    "size": 30575854,
+    "apkName": "com.example.taiyaki_anime_v1.1.1_2001-arm64-v8a.apk",
+    "icon": "com.example.taiyaki_anime.2001.png",
+    "added": 1592893501.875203
+  },
+  "com.example.taiyaki_anime_v1.1.1_4001-x86_64.apk": {
+    "hash": "11e23e8d28c8a762979190b137cf2b150f750d231159987b91cdb4a1fa2feb4c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.example.taiyaki_anime.4001.png",
+      "480": "com.example.taiyaki_anime.4001.png",
+      "320": "com.example.taiyaki_anime.4001.png",
+      "240": "com.example.taiyaki_anime.4001.png",
+      "160": "com.example.taiyaki_anime.4001.png",
+      "0": "com.example.taiyaki_anime.4001.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.example.taiyaki_anime",
+    "versionCode": 4001,
+    "name": "Taiyaki",
+    "versionName": "1.1.1",
+    "minSdkVersion": 17,
+    "targetSdkVersion": 28,
+    "nativecode": [
+      "x86_64"
+    ],
+    "sig": "c3f760e0c482d112a53f9fc7d3841203",
+    "signer": "403e348ff7e3650c9d85bbc0401a9a0bede1a1add88081e34ee0ee88290a57bd",
+    "size": 32396820,
+    "apkName": "com.example.taiyaki_anime_v1.1.1_4001-x86_64.apk",
+    "icon": "com.example.taiyaki_anime.4001.png",
+    "added": 1592893504.462084
+  },
+  "com.stuffbox.webscraper_v6_1.apk": {
+    "hash": "5ace2a3fa6aa41a0e66bd3a1a6425f539186d018d7c2a39936682ff5c039fe5a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "160": "res/drawable/psyduck.png",
+      "-1": "res/drawable/psyduck.png"
+    },
+    "icons": {
+      "160": "com.stuffbox.webscraper.1.png",
+      "640": "com.stuffbox.webscraper.1.png",
+      "0": "com.stuffbox.webscraper.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.stuffbox.webscraper",
+    "versionCode": 1,
+    "name": "Anime Watcher",
+    "versionName": "6",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 28,
+    "sig": "973889f9c1ef021bbd0c06b254523caa",
+    "signer": "a6b885f77b58b9052eee72eb6ecad97431608f7d45bc5ea80c62e089a41d5e58",
+    "size": 4249473,
+    "apkName": "com.stuffbox.webscraper_v6_1.apk",
+    "icon": "com.stuffbox.webscraper.1.png",
+    "added": 1592893506.277023
+  },
+  "info.horriblesubs.sher_v0.8.8.release_88-.apk": {
+    "hash": "ac25a57396e2a8f06fbfdff9b5543118a1a8a5ad0b5484bfefe98f41ad4fc38a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "info.horriblesubs.sher.88.xml",
+      "640": "info.horriblesubs.sher.88.png",
+      "480": "info.horriblesubs.sher.88.png",
+      "320": "info.horriblesubs.sher.88.png",
+      "240": "info.horriblesubs.sher.88.png",
+      "160": "info.horriblesubs.sher.88.png",
+      "0": "info.horriblesubs.sher.88.png"
+    },
+    "antiFeatures": [],
+    "packageName": "info.horriblesubs.sher",
+    "versionCode": 88,
+    "name": "an!me",
+    "versionName": "0.8.8.release",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "5d20c70dea2bef35b913242683e5d771",
+    "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
+    "size": 11387924,
+    "apkName": "info.horriblesubs.sher_v0.8.8.release_88-.apk",
+    "icon": "info.horriblesubs.sher.88.png",
+    "added": 1592893508.662507
+  },
+  "org.koitharu.kotatsu_v0.5-b1_210.apk": {
+    "hash": "8faac3959c70e7389dcdab50e4c82ed80c1500c9f30c175e1b0562788550e9cd",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "org.koitharu.kotatsu.210.xml",
+      "640": "org.koitharu.kotatsu.210.png",
+      "480": "org.koitharu.kotatsu.210.png",
+      "320": "org.koitharu.kotatsu.210.png",
+      "240": "org.koitharu.kotatsu.210.png",
+      "160": "org.koitharu.kotatsu.210.png",
+      "0": "org.koitharu.kotatsu.210.png"
+    },
+    "antiFeatures": [],
+    "packageName": "org.koitharu.kotatsu",
+    "versionCode": 210,
+    "name": "Kotatsu",
+    "versionName": "0.5-b1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "dd481767ec88795ce0a97b82ecfae931",
+    "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+    "size": 2940572,
+    "apkName": "org.koitharu.kotatsu_v0.5-b1_210.apk",
+    "icon": "org.koitharu.kotatsu.210.png",
+    "added": 1592893510.538934
+  },
+  "xyz.kurozero.nekosmoe_v1.0.0_20.apk": {
+    "hash": "8a191d8a2095d7fe47b97fc1ae984c42f0ab347a6650bb94615bee8748a955bb",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "xyz.kurozero.nekosmoe.20.xml",
+      "640": "xyz.kurozero.nekosmoe.20.png",
+      "480": "xyz.kurozero.nekosmoe.20.png",
+      "320": "xyz.kurozero.nekosmoe.20.png",
+      "240": "xyz.kurozero.nekosmoe.20.png",
+      "160": "xyz.kurozero.nekosmoe.20.png",
+      "0": "xyz.kurozero.nekosmoe.20.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.kurozero.nekosmoe",
+    "versionCode": 20,
+    "name": "Nekos",
+    "versionName": "1.0.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 28,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "e8a0a467634099a008f330890e2a9b1a",
+    "signer": "06327d127edf9a4fb4b68e2e84ab06a0c4ff262d8348194dfa668f070099c9ed",
+    "size": 7794960,
+    "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
+    "icon": "xyz.kurozero.nekosmoe.20.png",
+    "added": 1592893511.88617
   }
 }
