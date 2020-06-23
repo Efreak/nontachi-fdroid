@@ -1,21 +1,25 @@
-AuthorName: 'KurozeroPB'
 Categories:
-- Multimedia
-- Manga/Anime
-- Graphics
-- Internet
-CurrentVersionCode: 2147483647
-IssueTracker: 'https://github.com/KurozeroPB/Nekos/issues'
-Name: Nekos
-SourceCode: 'https://github.com/KurozeroPB/Nekos'
-Summary: 'Nekos - Search, Download and Share catgirls'
+  - Multimedia
+  - Manga/Anime
+  - Graphics
+  - Internet
 License: MIT
-Description: |-
-    Note: I have not bothered with antifeatures in this app. Start using it assuming ads, tracking and upstream-nonfree, since I'm not bothering to check. It is listed on google play, if that matters to you.
-    
-    Nekos implements the nekos.moe api making all the high-quality images easily accessible on your mobile device, lovely neko/catgirl images and anything with animal-like features. It has features like logging in with your account, liking, favoriting, uploading images, downloading images and sharing images. It's time to fill your phones memory with cute catgirls.
+AuthorName: KurozeroPB
+SourceCode: https://github.com/KurozeroPB/Nekos
+IssueTracker: https://github.com/KurozeroPB/Nekos/issues
 Donate: https://www.paypal.me/pvdbroek
 Donate: https://donatebot.io/checkout/240059867744698368
 Donate: https://patreon.com/Kurozero
 Donate: https://ko-fi.com/kurozero
 Donate: https://github.com/sponsors/KurozeroPB
+
+Name: Nekos
+Summary: Nekos - Search, Download and Share catgirls
+Description: |-
+    Note: I have not bothered with antifeatures in this app. Start using it assuming ads, tracking and upstream-nonfree, since I'm not bothering to check. It is listed on google play, if that matters to you.
+
+    Nekos implements the nekos.moe api making all the high-quality images easily accessible on your mobile device, lovely neko/catgirl images and anything with animal-like features. It has features like logging in with your account, liking, favoriting, uploading images, downloading images and sharing images. It's time to fill your phones memory with cute catgirls.
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
