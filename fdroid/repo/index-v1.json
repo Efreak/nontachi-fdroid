@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1592871560000,
+    "timestamp": 1593541209000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -35,9 +35,9 @@
       "sourceCode": "https://github.com/Sher1234/Horrible",
       "summary": "an!me - better ongoing, android application",
       "added": 1592868308000,
-      "icon": "info.horriblesubs.sher.88.png",
+      "icon": "info.horriblesubs.sher.90.png",
       "packageName": "info.horriblesubs.sher",
-      "lastUpdated": 1592868308000
+      "lastUpdated": 1593541205000
     },
     {
       "antiFeatures": [
@@ -138,7 +138,7 @@
       "added": 1592865106000,
       "icon": "com.yihengquan.gogoanime.3156728.png",
       "packageName": "com.yihengquan.gogoanime",
-      "lastUpdated": 1592865106000
+      "lastUpdated": 1593541199000
     },
     {
       "antiFeatures": [
@@ -221,9 +221,9 @@
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
       "added": 1592868310000,
-      "icon": "org.koitharu.kotatsu.210.png",
+      "icon": "org.koitharu.kotatsu.217.png",
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1592868310000,
+      "lastUpdated": 1593541208000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -858,15 +858,15 @@
     ],
     "info.horriblesubs.sher": [
       {
-        "added": 1592868308000,
-        "apkName": "info.horriblesubs.sher_v0.8.8.release_88-.apk",
-        "hash": "ac25a57396e2a8f06fbfdff9b5543118a1a8a5ad0b5484bfefe98f41ad4fc38a",
+        "added": 1593541205000,
+        "apkName": "info.horriblesubs.sher_v0.9.0-beta4_90-.apk",
+        "hash": "73be5c4d5774abb35c13d59988162c977bbf1dfbc891d502139216e0fa9f5aa0",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "packageName": "info.horriblesubs.sher",
         "sig": "5d20c70dea2bef35b913242683e5d771",
         "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
-        "size": 11387924,
+        "size": 11484329,
         "targetSdkVersion": 30,
         "uses-permission": [
           [
@@ -894,8 +894,8 @@
             null
           ]
         ],
-        "versionCode": 88,
-        "versionName": "0.8.8.release"
+        "versionCode": 90,
+        "versionName": "0.9.0-beta4"
       }
     ],
     "me.devsaki.hentoid": [
@@ -1325,15 +1325,15 @@
     ],
     "org.koitharu.kotatsu": [
       {
-        "added": 1592868310000,
-        "apkName": "org.koitharu.kotatsu_v0.5-b1_210.apk",
-        "hash": "8faac3959c70e7389dcdab50e4c82ed80c1500c9f30c175e1b0562788550e9cd",
+        "added": 1593541208000,
+        "apkName": "org.koitharu.kotatsu_v0.5-b2_217.apk",
+        "hash": "a6163bd1529d4a3b053f6be9db45ae2d2ec7c95905797d97683546284baa71f5",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "packageName": "org.koitharu.kotatsu",
         "sig": "dd481767ec88795ce0a97b82ecfae931",
         "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
-        "size": 2940572,
+        "size": 2936993,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1369,8 +1369,8 @@
             null
           ]
         ],
-        "versionCode": 210,
-        "versionName": "0.5-b1"
+        "versionCode": 217,
+        "versionName": "0.5-b2"
       }
     ],
     "top.rechinx.meow": [
