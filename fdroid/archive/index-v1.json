@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1592871565000,
+    "timestamp": 1593541216000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -16,6 +16,29 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "Ads"
+      ],
+      "authorName": "Sher1234",
+      "categories": [
+        "Manga/Anime",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.</p><p>Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.</p><p>an!me - better ongoing is an android application with notification support for newer releases Not affiliated to source i.e. horriblesubs.info in any way Support the official site horriblesubs.info Tech</p><p>an!me implements number of open source projects listed bellow:</p><ul><li> Androidx Libraries</li><li> Glide for Displaying images</li><li> Retrofit networking libraries</li><li> SimpleHtmlDom for HTML parsing</li><li> Firebase for FCM notifications &amp; google ads</li></ul><p>Notes:</p><ul><li> <a href=\"Supported\">Supported</a> Versions 0.9.0 (and above) (Api-v7)</li><li> <a href=\"Supported\">Supported</a> Versions 0.8.0 (and above) (Api-v6)</li><li> <a href=\"Supported\">Supported</a> Versions 0.7.0 - 0.7.9 (Api-v5)</li></ul><p>    * <a href=\"Changed\">Signing Keys</a> Versions 0.7.5 - 0.7.9     * <a href=\"Changed\">Signing Keys</a> Versions 0.7.0 - 0.7.4</p><ul><li> <a href=\"Unsupported\">Unsupported</a> Versions 0.6.5 and earlier</li></ul><p>Features</p><ul><li> Lists New/Latest Releases from HorribleSubs Website,</li><li> Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),</li><li> Notification Support for every new release available on HorribleSubs</li></ul><p>    * Needs to be enabled in the Settings,     * Notification might get delayed (30 min at max),</p><ul><li> Bookmark a Show for faster &amp; easier access,</li><li> Detailed Show page,</li><li> Lists Search for the shows/release.</li><li> Views All as well as Current Shows with Search option.</li><li> Show Activity for viewing previous show releases and show description.</li></ul>",
+      "issueTracker": "https://github.com/Sher1234/Horrible/issues",
+      "license": "GPL-3.0-only",
+      "name": "an!me",
+      "sourceCode": "https://github.com/Sher1234/Horrible",
+      "summary": "an!me - better ongoing, android application",
+      "added": 1592868308000,
+      "icon": "info.horriblesubs.sher.89.png",
+      "packageName": "info.horriblesubs.sher",
+      "lastUpdated": 1593541205000
+    },
     {
       "antiFeatures": [
         "Tracking",
@@ -65,6 +88,25 @@
       "icon": "net.android.adm.152.png",
       "packageName": "net.android.adm",
       "lastUpdated": 1592865131000
+    },
+    {
+      "authorName": "HenryQuan",
+      "categories": [
+        "Manga/Anime",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "3156728",
+      "description": "<p>Notes: This app seems to be an in-development replacement for an existing react-native app located at <a href=\"https://github.com/HenryQuan/React-Native-GoGoAnime\">HenryQuan/React-Native-GoGoAnime</a>. I've corrected some typos and links, but probably won't be updating the description.</p><p>= AnimeGo =</p><p><b>This is not the official app</b></p><p>It has been rewritten with &lt;code&gt;Flutter&lt;/code&gt; to support IOS, tablets and web.</p><p>\u5982\u679c\u4f60\u559c\u6b61\u4e2d\u6587\u5b57\u5e55\u7684\u8a71\uff0c\u53ef\u4ee5\u5617\u8a66<a href=\"https://github.com/HenryQuan/AnimeOne\">AnimeOne</a>\u3002</p><p>= Features =</p><ul><li> Latest anime</li><li> Seaonal anime</li><li> Movie &amp;amp; Popular anime</li><li> Genre list</li><li> Search anime</li><li> Side drawer design</li><li> Watch history (wip)</li><li> Favourite anime list (wip)</li><li> Auto update (wip)</li><li> No popups while watching anime (IOS and Android only)</li></ul><p>I have abondoned this project for about 2 years but it is finally back. A complete rework is undergoing because &lt;code&gt;AnimeOne&lt;/code&gt; doesn\u2019t have some old animes. Flutter is now used instead of React Native. Some features are still under development but it is now stable enough to use. You could try <a href=\"https://henryquan.github.io/AnimeGo-Re\">the web version</a> now.</p><p>= Downloads =</p><p>Only android build is available and you can download the apk from <a href=\"https://github.com/HenryQuan/AnimeGo-Re/releases/latest\">releases/latest</a> (currently still in preview). However, IOS version is being tested and it works fine. You could <a href=\"https://github.com/HenryQuan/AnimeGo-Re/tree/master/AnimeGo/README.md\">compile</a> it yourself.</p><p>= Screenshots =</p><p>New screenshots will be taken soon.</p>",
+      "issueTracker": "https://github.com/HenryQuan/AnimeGo-Re/issues",
+      "license": "MIT",
+      "name": "AnimeGo-Re",
+      "sourceCode": "https://github.com/HenryQuan/AnimeGo-Re",
+      "summary": "GoGoAnime client",
+      "webSite": "https://henryquan.github.io/AnimeGo-Re",
+      "added": 1592865106000,
+      "icon": "com.yihengquan.gogoanime.3.png",
+      "packageName": "com.yihengquan.gogoanime",
+      "lastUpdated": 1593541199000
     },
     {
       "antiFeatures": [
@@ -130,6 +172,38 @@
       "icon": "net.android.kamuy.38.png",
       "packageName": "net.android.kamuy",
       "lastUpdated": 1592865135000
+    },
+    {
+      "authorName": "nv95",
+      "categories": [
+        "Manga/Anime",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Note: I have not bothered with antifeatures in this app. Assume no ads (based on description only), but also assume tracking and upstream-nonfree, since I'm not bothering to check.</p><p>Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.</p><p>Kotatsu is a free and open source manga reader for Android.</p><p>Android 5.0 Kotlin Build Status License 4pda</p><p>Legacy build (Android 4.1+): available https://github.com/nv95/Kotatsu/releases/tag/v0.4-legacy</p><p>Main Features</p><ul><li> Online manga catalogues</li><li> Search manga by name and genre</li><li> Reading history</li><li> Favourites with custom categories</li><li> Saving manga and reading it offline</li><li> Tablet-optimized modern UI</li><li> Reading third-party comics from CBZ</li><li> Standard and Webtoon-optimized reader</li><li> Notifications about new chapters</li></ul><p>Coming Features</p><ul><li> Updates feed</li><li> Global search</li></ul>",
+      "donate": "https://money.yandex.ru/to/410012543938752",
+      "issueTracker": "https://github.com/nv95/Kotatsu/issues",
+      "license": "GPL-3.0-only",
+      "name": "Kotatsu",
+      "sourceCode": "https://github.com/nv95/Kotatsu",
+      "summary": "Kotatsu is a free and open source manga reader for Android",
+      "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
+      "added": 1592868310000,
+      "icon": "org.koitharu.kotatsu.210.png",
+      "packageName": "org.koitharu.kotatsu",
+      "lastUpdated": 1593541208000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "details.png",
+            "left-sidebar.png",
+            "right-sidebar.png",
+            "settings.png",
+            "storage.png",
+            "viewer.png"
+          ]
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -383,6 +457,114 @@
         ],
         "versionCode": 1001,
         "versionName": "1.1.1"
+      }
+    ],
+    "com.yihengquan.gogoanime": [
+      {
+        "added": 1593541199000,
+        "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
+        "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.yihengquan.gogoanime",
+        "sig": "0340aa9cc2cf98487881a52c439b5c37",
+        "signer": "4c644ecdd02803d0a441e4b2704ca3ababac9be6aab77c3d39e55e53db051c74",
+        "size": 14474463,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "1.2.1"
+      }
+    ],
+    "info.horriblesubs.sher": [
+      {
+        "added": 1593541202000,
+        "apkName": "info.horriblesubs.sher_v0.9.0-beta3_89-.apk",
+        "hash": "ff054d0088f9acbfe3230109e0365a163d06c813d3603d1d7c066aa3f4df20da",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "info.horriblesubs.sher",
+        "sig": "5d20c70dea2bef35b913242683e5d771",
+        "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
+        "size": 11446643,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 89,
+        "versionName": "0.9.0-beta3"
+      },
+      {
+        "added": 1592868308000,
+        "apkName": "info.horriblesubs.sher_v0.8.8.release_88-.apk",
+        "hash": "ac25a57396e2a8f06fbfdff9b5543118a1a8a5ad0b5484bfefe98f41ad4fc38a",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "info.horriblesubs.sher",
+        "sig": "5d20c70dea2bef35b913242683e5d771",
+        "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
+        "size": 11387924,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 88,
+        "versionName": "0.8.8.release"
       }
     ],
     "me.devsaki.hentoid": [
@@ -808,6 +990,56 @@
         ],
         "versionCode": 33,
         "versionName": "3.1.1"
+      }
+    ],
+    "org.koitharu.kotatsu": [
+      {
+        "added": 1592868310000,
+        "apkName": "org.koitharu.kotatsu_v0.5-b1_210.apk",
+        "hash": "8faac3959c70e7389dcdab50e4c82ed80c1500c9f30c175e1b0562788550e9cd",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "org.koitharu.kotatsu",
+        "sig": "dd481767ec88795ce0a97b82ecfae931",
+        "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+        "size": 2940572,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 210,
+        "versionName": "0.5-b1"
       }
     ],
     "top.rechinx.meow": [

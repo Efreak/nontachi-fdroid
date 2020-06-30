@@ -2277,5 +2277,249 @@
     "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
     "icon": "xyz.kurozero.nekosmoe.20.png",
     "added": 1592893511.88617
+  },
+  "com.yihengquan.gogoanime_v1.2.1_3.apk": {
+    "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "com.yihengquan.gogoanime.3.xml",
+      "640": "com.yihengquan.gogoanime.3.png",
+      "480": "com.yihengquan.gogoanime.3.png",
+      "320": "com.yihengquan.gogoanime.3.png",
+      "240": "com.yihengquan.gogoanime.3.png",
+      "160": "com.yihengquan.gogoanime.3.png",
+      "0": "com.yihengquan.gogoanime.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.yihengquan.gogoanime",
+    "versionCode": 3,
+    "name": "AnimeGo",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "0340aa9cc2cf98487881a52c439b5c37",
+    "signer": "4c644ecdd02803d0a441e4b2704ca3ababac9be6aab77c3d39e55e53db051c74",
+    "size": 14474463,
+    "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
+    "icon": "com.yihengquan.gogoanime.3.png",
+    "added": 1593566399.9653
+  },
+  "info.horriblesubs.sher_v0.9.0-beta3_89-.apk": {
+    "hash": "ff054d0088f9acbfe3230109e0365a163d06c813d3603d1d7c066aa3f4df20da",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "info.horriblesubs.sher.89.xml",
+      "640": "info.horriblesubs.sher.89.png",
+      "480": "info.horriblesubs.sher.89.png",
+      "320": "info.horriblesubs.sher.89.png",
+      "240": "info.horriblesubs.sher.89.png",
+      "160": "info.horriblesubs.sher.89.png",
+      "0": "info.horriblesubs.sher.89.png"
+    },
+    "antiFeatures": [],
+    "packageName": "info.horriblesubs.sher",
+    "versionCode": 89,
+    "name": "an!me",
+    "versionName": "0.9.0-beta3",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "5d20c70dea2bef35b913242683e5d771",
+    "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
+    "size": 11446643,
+    "apkName": "info.horriblesubs.sher_v0.9.0-beta3_89-.apk",
+    "icon": "info.horriblesubs.sher.89.png",
+    "added": 1593566402.864835
+  },
+  "info.horriblesubs.sher_v0.9.0-beta4_90-.apk": {
+    "hash": "73be5c4d5774abb35c13d59988162c977bbf1dfbc891d502139216e0fa9f5aa0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "info.horriblesubs.sher.90.xml",
+      "640": "info.horriblesubs.sher.90.png",
+      "480": "info.horriblesubs.sher.90.png",
+      "320": "info.horriblesubs.sher.90.png",
+      "240": "info.horriblesubs.sher.90.png",
+      "160": "info.horriblesubs.sher.90.png",
+      "0": "info.horriblesubs.sher.90.png"
+    },
+    "antiFeatures": [],
+    "packageName": "info.horriblesubs.sher",
+    "versionCode": 90,
+    "name": "an!me",
+    "versionName": "0.9.0-beta4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "5d20c70dea2bef35b913242683e5d771",
+    "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
+    "size": 11484329,
+    "apkName": "info.horriblesubs.sher_v0.9.0-beta4_90-.apk",
+    "icon": "info.horriblesubs.sher.90.png",
+    "added": 1593566405.66102
+  },
+  "org.koitharu.kotatsu_v0.5-b2_217.apk": {
+    "hash": "a6163bd1529d4a3b053f6be9db45ae2d2ec7c95905797d97683546284baa71f5",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "org.koitharu.kotatsu.217.xml",
+      "640": "org.koitharu.kotatsu.217.png",
+      "480": "org.koitharu.kotatsu.217.png",
+      "320": "org.koitharu.kotatsu.217.png",
+      "240": "org.koitharu.kotatsu.217.png",
+      "160": "org.koitharu.kotatsu.217.png",
+      "0": "org.koitharu.kotatsu.217.png"
+    },
+    "antiFeatures": [],
+    "packageName": "org.koitharu.kotatsu",
+    "versionCode": 217,
+    "name": "Kotatsu",
+    "versionName": "0.5-b2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "dd481767ec88795ce0a97b82ecfae931",
+    "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+    "size": 2936993,
+    "apkName": "org.koitharu.kotatsu_v0.5-b2_217.apk",
+    "icon": "org.koitharu.kotatsu.217.png",
+    "added": 1593566408.324677
   }
 }
