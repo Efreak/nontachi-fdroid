@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1593541216000,
+    "timestamp": 1594252266000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -87,7 +87,20 @@
       "added": 1592865110000,
       "icon": "net.android.adm.152.png",
       "packageName": "net.android.adm",
-      "lastUpdated": 1592865131000
+      "lastUpdated": 1592865131000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png"
+          ]
+        }
+      }
     },
     {
       "authorName": "HenryQuan",
@@ -128,7 +141,14 @@
       "added": 1592865112000,
       "icon": "net.android.hdlr.24.png",
       "packageName": "net.android.hdlr",
-      "lastUpdated": 1592865133000
+      "lastUpdated": 1592865133000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "app.png"
+          ]
+        }
+      }
     },
     {
       "categories": [
@@ -136,7 +156,7 @@
         "Reading",
         "Multimedia"
       ],
-      "suggestedVersionCode": "236",
+      "suggestedVersionCode": "239",
       "description": "<p>`Hentoid` is an ad-free Doujinshi &amp; H-Manga archiving and viewing app. `Hentoid` currently supports: <a href=\"https://nhentai.net/\">nhentai</a>, <a href=\"https://hentai.cafe/\">hentai cafe</a>, <a href=\"https://hitomi.la/\">hitomi</a>, <a href=\"http://asmhentai.com/\">asmhentai</a>, <a href=\"http://www.tsumino.com/\">tsumino</a>, <a href=\"https://pururin.io/\">pururin</a>, <a href=\"https://e-hentai.org/\">e-hentai</a>, <a href=\"https://hentainexus.com\">Hentai Nexus</a>, <a href=\"https://www.8muses.com\">8muses</a>, <a href=\"https://doujins.com\">Doujins.com</a> and <a href=\"https://www.luscious.net\">Luscious.net</a>. Note: `Hentoid` can still import downloads from <a href=\"https://www.fakku.net/\">FAKKU</a> and <a href=\"https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg\">Pururin</a>. Check out the <a href=\"https://github.com/AVnetWS/Hentoid/wiki\">Hentoid wiki</a> if you need assistance installing `Hentoid` on your device. For the latest release, click <a href=\"https://github.com/AVnetWS/Hentoid/releases/latest\">here</a>.   Don't forget to check the <a href=\"https://github.com/avluis/Hentoid/wiki/FAQ\">FAQ</a> if you have any issue Visit our <a href=\"https://discord.gg/QEZ3qk9\">Discord Server</a> to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.</p>",
       "issueTracker": "https://github.com/avluis/Hentoid/issues",
       "license": "Apache-2.0",
@@ -145,9 +165,9 @@
       "summary": "Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.",
       "webSite": "https://github.com/avluis/Hentoid",
       "added": 1592865108000,
-      "icon": "me.devsaki.hentoid.233.png",
+      "icon": "me.devsaki.hentoid.236.png",
       "packageName": "me.devsaki.hentoid",
-      "lastUpdated": 1592865129000
+      "lastUpdated": 1594252251000
     },
     {
       "antiFeatures": [
@@ -171,7 +191,21 @@
       "added": 1592865114000,
       "icon": "net.android.kamuy.38.png",
       "packageName": "net.android.kamuy",
-      "lastUpdated": 1592865135000
+      "lastUpdated": 1592865135000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png"
+          ]
+        }
+      }
     },
     {
       "authorName": "nv95",
@@ -189,9 +223,9 @@
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
       "added": 1592868310000,
-      "icon": "org.koitharu.kotatsu.210.png",
+      "icon": "org.koitharu.kotatsu.225.png",
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1593541208000,
+      "lastUpdated": 1594252257000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -229,7 +263,21 @@
       "added": 1592865116000,
       "icon": "net.android.mdm.142.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1592865137000
+      "lastUpdated": 1592865137000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png"
+          ]
+        }
+      }
     },
     {
       "authorName": "ReChinX",
@@ -274,7 +322,17 @@
       "added": 1592865118000,
       "icon": "net.cyl.ranobe.33.png",
       "packageName": "net.cyl.ranobe",
-      "lastUpdated": 1592865139000
+      "lastUpdated": 1592865139000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "5YkvRUb.png",
+            "AQ4Ss2D.png",
+            "ipjP1qB.png",
+            "rihMCHI.png"
+          ]
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -483,6 +541,30 @@
         ],
         "versionCode": 3,
         "versionName": "1.2.1"
+      },
+      {
+        "added": 1593541199000,
+        "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
+        "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.yihengquan.gogoanime",
+        "sig": "0340aa9cc2cf98487881a52c439b5c37",
+        "signer": "4c644ecdd02803d0a441e4b2704ca3ababac9be6aab77c3d39e55e53db051c74",
+        "size": 14474463,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "1.2.1"
       }
     ],
     "info.horriblesubs.sher": [
@@ -568,6 +650,76 @@
       }
     ],
     "me.devsaki.hentoid": [
+      {
+        "added": 1592865108000,
+        "apkName": "me.devsaki.hentoid_v1.12.1_236.apk",
+        "hash": "210010cc7ac6a5e0ff3fc2e108204b2b1b06abbe248591f65ffef1f2ab5b185f",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "me.devsaki.hentoid",
+        "sig": "6bbfea03161591765c4ae69fbe1e36bd",
+        "signer": "763ccebf10274ca1f4325b050aad6727a977070b35ec65319bf5f5e95dcbec71",
+        "size": 7449750,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ]
+        ],
+        "versionCode": 236,
+        "versionName": "1.12.1"
+      },
       {
         "added": 1592865129000,
         "apkName": "me.devsaki.hentoid_v1.12.0_233.apk",
@@ -993,6 +1145,102 @@
       }
     ],
     "org.koitharu.kotatsu": [
+      {
+        "added": 1594252254000,
+        "apkName": "org.koitharu.kotatsu_v0.5-rc1_225.apk",
+        "hash": "e8a9b0703dfce812982eb2714615108032d64b33061a0b9d5822aef1b42c8ed4",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "org.koitharu.kotatsu",
+        "sig": "dd481767ec88795ce0a97b82ecfae931",
+        "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+        "size": 2938214,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 225,
+        "versionName": "0.5-rc1"
+      },
+      {
+        "added": 1593541208000,
+        "apkName": "org.koitharu.kotatsu_v0.5-b2_217.apk",
+        "hash": "a6163bd1529d4a3b053f6be9db45ae2d2ec7c95905797d97683546284baa71f5",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "org.koitharu.kotatsu",
+        "sig": "dd481767ec88795ce0a97b82ecfae931",
+        "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+        "size": 2936993,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 217,
+        "versionName": "0.5-b2"
+      },
       {
         "added": 1592868310000,
         "apkName": "org.koitharu.kotatsu_v0.5-b1_210.apk",
