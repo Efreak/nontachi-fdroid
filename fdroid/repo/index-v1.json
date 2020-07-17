@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1594252260000,
+    "timestamp": 1594968284000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -255,9 +255,9 @@
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
       "added": 1592868310000,
-      "icon": "org.koitharu.kotatsu.227.png",
+      "icon": "org.koitharu.kotatsu.231.png",
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1594252257000,
+      "lastUpdated": 1594968279000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -391,9 +391,9 @@
       "sourceCode": "https://github.com/KurozeroPB/Nekos",
       "summary": "Nekos - Search, Download and Share catgirls",
       "added": 1592868311000,
-      "icon": "xyz.kurozero.nekosmoe.20.png",
+      "icon": "xyz.kurozero.nekosmoe.240010100.png",
       "packageName": "xyz.kurozero.nekosmoe",
-      "lastUpdated": 1592868311000,
+      "lastUpdated": 1594968281000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -1383,15 +1383,15 @@
     ],
     "org.koitharu.kotatsu": [
       {
-        "added": 1594252257000,
-        "apkName": "org.koitharu.kotatsu_v0.5-rc2_227.apk",
-        "hash": "2d229d6577ebf40025ecda77242cb643ae74256d7cc37adf8a7971033d3cb476",
+        "added": 1594968279000,
+        "apkName": "org.koitharu.kotatsu_v0.5-rc3_231.apk",
+        "hash": "7483d762f2bfc8e78fcbcc941abcc9234e718ac948fc509b6c4a59eb66beb610",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "packageName": "org.koitharu.kotatsu",
         "sig": "dd481767ec88795ce0a97b82ecfae931",
         "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
-        "size": 2937383,
+        "size": 2937564,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1427,8 +1427,8 @@
             null
           ]
         ],
-        "versionCode": 227,
-        "versionName": "0.5-rc2"
+        "versionCode": 231,
+        "versionName": "0.5-rc3"
       }
     ],
     "top.rechinx.meow": [
@@ -1539,9 +1539,9 @@
     ],
     "xyz.kurozero.nekosmoe": [
       {
-        "added": 1592868311000,
-        "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
-        "hash": "8a191d8a2095d7fe47b97fc1ae984c42f0ab347a6650bb94615bee8748a955bb",
+        "added": 1594968281000,
+        "apkName": "xyz.kurozero.nekosmoe_v1.1.0_240010100.apk",
+        "hash": "55d525173e3ddf6b6a0b6dd5fb80cfadf6ed5e054ccb1b9415f89dd426c50547",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -1552,10 +1552,10 @@
           "x86_64"
         ],
         "packageName": "xyz.kurozero.nekosmoe",
-        "sig": "e8a0a467634099a008f330890e2a9b1a",
-        "signer": "06327d127edf9a4fb4b68e2e84ab06a0c4ff262d8348194dfa668f070099c9ed",
-        "size": 7794960,
-        "targetSdkVersion": 28,
+        "sig": "ddd710067d4436e6d530456dc624240b",
+        "signer": "3df66e811eccb84492e78b61e3d73589dce7a151818017ea18ce5afa6779e4d9",
+        "size": 8225346,
+        "targetSdkVersion": 29,
         "uses-permission": [
           [
             "android.permission.INTERNET",
@@ -1586,8 +1586,8 @@
             null
           ]
         ],
-        "versionCode": 20,
-        "versionName": "1.0.0"
+        "versionCode": 240010100,
+        "versionName": "1.1.0"
       }
     ]
   }
