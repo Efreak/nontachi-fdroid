@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1594252266000,
+    "timestamp": 1594968289000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -223,9 +223,9 @@
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
       "added": 1592868310000,
-      "icon": "org.koitharu.kotatsu.225.png",
+      "icon": "org.koitharu.kotatsu.227.png",
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1594252257000,
+      "lastUpdated": 1594968279000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -298,6 +298,38 @@
       "icon": "top.rechinx.meow.6.png",
       "packageName": "top.rechinx.meow",
       "lastUpdated": 1592865141000
+    },
+    {
+      "authorName": "KurozeroPB",
+      "categories": [
+        "Multimedia",
+        "Manga/Anime",
+        "Graphics",
+        "Internet"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Note: I have not bothered with antifeatures in this app. Start using it assuming ads, tracking and upstream-nonfree, since I'm not bothering to check. It is listed on google play, if that matters to you.</p><p>Nekos implements the nekos.moe api making all the high-quality images easily accessible on your mobile device, lovely neko/catgirl images and anything with animal-like features. It has features like logging in with your account, liking, favoriting, uploading images, downloading images and sharing images. It's time to fill your phones memory with cute catgirls.</p>",
+      "donate": "https://github.com/sponsors/KurozeroPB",
+      "issueTracker": "https://github.com/KurozeroPB/Nekos/issues",
+      "license": "MIT",
+      "name": "Nekos",
+      "sourceCode": "https://github.com/KurozeroPB/Nekos",
+      "summary": "Nekos - Search, Download and Share catgirls",
+      "added": 1592868311000,
+      "icon": "xyz.kurozero.nekosmoe.20.png",
+      "packageName": "xyz.kurozero.nekosmoe",
+      "lastUpdated": 1594968281000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "image-details.png",
+            "login.png",
+            "main.png",
+            "sidebar.png",
+            "user-details.png"
+          ]
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -1146,6 +1178,54 @@
     ],
     "org.koitharu.kotatsu": [
       {
+        "added": 1594252257000,
+        "apkName": "org.koitharu.kotatsu_v0.5-rc2_227.apk",
+        "hash": "2d229d6577ebf40025ecda77242cb643ae74256d7cc37adf8a7971033d3cb476",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "org.koitharu.kotatsu",
+        "sig": "dd481767ec88795ce0a97b82ecfae931",
+        "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+        "size": 2937383,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 227,
+        "versionName": "0.5-rc2"
+      },
+      {
         "added": 1594252254000,
         "apkName": "org.koitharu.kotatsu_v0.5-rc1_225.apk",
         "hash": "e8a9b0703dfce812982eb2714615108032d64b33061a0b9d5822aef1b42c8ed4",
@@ -1342,6 +1422,59 @@
         ],
         "versionCode": 6,
         "versionName": "1.0.6"
+      }
+    ],
+    "xyz.kurozero.nekosmoe": [
+      {
+        "added": 1592868311000,
+        "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
+        "hash": "8a191d8a2095d7fe47b97fc1ae984c42f0ab347a6650bb94615bee8748a955bb",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.kurozero.nekosmoe",
+        "sig": "e8a0a467634099a008f330890e2a9b1a",
+        "signer": "06327d127edf9a4fb4b68e2e84ab06a0c4ff262d8348194dfa668f070099c9ed",
+        "size": 7794960,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 20,
+        "versionName": "1.0.0"
       }
     ]
   }
