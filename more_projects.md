@@ -1,4 +1,16 @@
+- [Arnab771/Jiyu](https://github.com/Arnab771/Jiyu) - flutter MAL client
+- [Chesire/Nekome](https://github.com/Chesire/Nekome) - kitsu client
+- [meta-boy/Anime-Twist](https://github.com/meta-boy/Anime-Twist) - client for twist.moe, an ad-free anime streaming site
 - [LagradOst/CloudStream-2](https://github.com/LagradOst/CloudStream-2) - 65mb apk is *way* too big. If I split apps out of tachi ext repo, I'll add it then, maybe.
 - [Xonshiz/CoManga](https://github.com/Xonshiz/CoManga) - I had this before, removed it. possibly still active due to single commit in jan 10.
 - [axel05869/MangaLife](https://github.com/axel05869/MangaLife) - no source available. reads manga from mangalife.com
-
+- [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) - small releases, anime streaming app in beta
+- [zunjae/anYme](https://github.com/zunjae/anYme/) - small adfree closed-source streaming app with MAL sync. Zero permissions according to page (since when is internet not a permission?). Find anime discussions on reddit. Look up anime songs and listen to them. Schedule. Recommendations. Deep linking (launcher shortcuts to shows)
+- [AnimeUltima](https://www1.animeultima.to/app) - closed-source app for animeultima.to
+- [AnimeGlare](https://download.animeglare.xyz/) - ad-free streaming app using simkl, mal, kitsu
+- [AniKo](https://animemolecules.com/) - adfree closed source streaming app, formerly called anime molecules.
+- https://github.com/AniTrend/anitrend-app
+- https://github.com/codingotaku/Animu-Downloaderu - doesn't currently have android version
+- [LittleWeeb](https://github.com/littleweeb/Android) - anime xdcc client
+- [Anistream-Mobile](https://github.com/Anistream/Anistream-Mobile) - adfree open source anime streaming client. source unknown.
+- https://github.com/achalpandeyy/ANNClient - if they ever publish any releases...
