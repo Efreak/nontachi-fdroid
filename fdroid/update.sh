@@ -54,6 +54,11 @@ echo Checking/Downloading AnimeWatcher
 curl -s -L 'https://github.com/balvinderz/animewatcher/raw/master/app/release/app-release.apk' --output aw.apk
 mv -n aw.apk $(aapt dump badging aw.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
+echo Checking/Downloading Jiyu
+curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/Arnab771/Jiyu/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output jiyu.apk
+mv -n jiyu.apk $(aapt dump badging jiyu.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
+
 echo
 echo "Checking/Downloading TaiYakiAnime (multiple apks)"
 curl -s $(curl -s 'https://api.github.com/repos/Michael24884/TaiYaKiAnime/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4|while read taiyakiurl;do
@@ -71,7 +76,7 @@ done
 
 
 
-rm -f {meow,hentoid,adlr,hdlr,mdlr,kamuy,ranobe,taiyaki,animego,aw,horrible,nekos,kotatsu}.apk
+rm -f {meow,hentoid,adlr,hdlr,mdlr,kamuy,ranobe,taiyaki,animego,aw,horrible,nekos,kotatsu,nekome,jiyu}.apk
 
 #TODO: git stash before dl, and git diff here instead
 #no, that's a stupid idea. just dont leave stuff behind
