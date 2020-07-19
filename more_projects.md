@@ -1,5 +1,4 @@
-- [Arnab771/Jiyu](https://github.com/Arnab771/Jiyu) - flutter MAL client
-- [Chesire/Nekome](https://github.com/Chesire/Nekome) - kitsu client
+- [Chesire/Nekome](https://github.com/Chesire/Nekome) - kitsu client. no releases :(
 - [meta-boy/Anime-Twist](https://github.com/meta-boy/Anime-Twist) - client for twist.moe, an ad-free anime streaming site
 - [LagradOst/CloudStream-2](https://github.com/LagradOst/CloudStream-2) - 65mb apk is *way* too big. If I split apps out of tachi ext repo, I'll add it then, maybe.
 - [Xonshiz/CoManga](https://github.com/Xonshiz/CoManga) - I had this before, removed it. possibly still active due to single commit in jan 10.
@@ -12,5 +11,5 @@
 - https://github.com/AniTrend/anitrend-app
 - https://github.com/codingotaku/Animu-Downloaderu - doesn't currently have android version
 - [LittleWeeb](https://github.com/littleweeb/Android) - anime xdcc client
-- [Anistream-Mobile](https://github.com/Anistream/Anistream-Mobile) - adfree open source anime streaming client. source unknown.
+- [Anistream-Mobile](https://github.com/Anistream/Anistream-Mobile) - adfree open source anime streaming client. stream source unknown.
 - https://github.com/achalpandeyy/ANNClient - if they ever publish any releases...
