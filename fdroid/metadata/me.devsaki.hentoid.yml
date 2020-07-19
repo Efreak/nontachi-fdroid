@@ -2,10 +2,12 @@ Categories:
   - Manga/Anime
   - Reading
   - Multimedia
+  - NonFreeNet
 License: Apache-2.0
 WebSite: https://github.com/avluis/Hentoid
 SourceCode: https://github.com/avluis/Hentoid
 IssueTracker: https://github.com/avluis/Hentoid/issues
+Changelog: https://github.com/avluis/Hentoid/releases
 
 Name: Hentoid
 Summary: Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.

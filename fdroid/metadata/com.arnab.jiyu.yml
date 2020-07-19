@@ -1,15 +1,17 @@
 AntiFeatures:
   - Tracking
   - UpstreamNonFree
+  - NonFreeNet
 Categories:
   - Manga/Anime
   - Connectivity
   - Internet
 License: GPL-3.0-only
-AuthorName: Arnab771
+AuthorName: Arnab Chakraborty
 WebSite: https://github.com/Arnab771/Jiyu
 SourceCode: https://github.com/Arnab771/Jiyu
 IssueTracker: https://github.com/Arnab771/Jiyu/issues
+Changelog: https://github.com/Arnab771/Jiyu/releases
 
 Name: Jiyu
 Summary: A simple anime list tracker for your phone
