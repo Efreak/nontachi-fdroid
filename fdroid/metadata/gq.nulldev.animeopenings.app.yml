@@ -4,3 +4,4 @@ License: Unknown
 
 AutoUpdateMode: None
 UpdateCheckMode: None
+# this is an fdroid build that won't be updated, it's only here to add apps I'm not distributing to the categories
