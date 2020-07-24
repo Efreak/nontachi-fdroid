@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="Unofficial Anime/Manga F-Droid Archive" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1594968289" url="https://animanga.efreakbnc.net/fdroid/archive" version="21">
+	<repo icon="fdroid-icon.png" name="Unofficial Anime/Manga F-Droid Archive" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1595551403" url="https://animanga.efreakbnc.net/fdroid/archive" version="21">
 		<description>This is an archive of open and closed source anime/manga related apps. Applications in this repository are official binaries built and signed by their respective developers and copied to this directory. </description>
 		<mirror>https://animanga.netlify.com/fdroid/archive</mirror>
 		<mirror>https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/archive</mirror>
 	</repo>
+	<application id="com.jparkie.aizoban">
+		<id>com.jparkie.aizoban</id>
+		<added>2020-07-24</added>
+		<lastupdated>2020-07-24</lastupdated>
+		<name>Aizōban</name>
+		<summary></summary>
+		<icon>com.jparkie.aizoban.27.png</icon>
+		<desc>&lt;p&gt;Offline digital manga catalogue.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Access to over 45 000 manga series from currently 6 sources: Batoto (EN), MangaEden (EN), MangaHere (EN), MangaReader (EN), MangaEden (IT), and MangaHere (ES).&lt;/li&gt;&lt;li&gt; Responsive viewer with options to switch reading direction, lock orientation, lock zoom, full-screen or immersive mode.&lt;/li&gt;&lt;li&gt; A search tool capable of filtering and ordering manga series by name, genre (not for all sources), and status.&lt;/li&gt;&lt;li&gt; An Exploring function to discover random manga series.&lt;/li&gt;&lt;li&gt; A download manager to collect your desired manga series offline.&lt;/li&gt;&lt;li&gt; Your personalized list of favourite manga series and recently read chapters (manageable with &quot;Mark Read&quot;) .&lt;/li&gt;&lt;li&gt; Easy settings to manage your reading experience such as &quot;Enable Lazy Loading&quot; to conserve bandwidth.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>Apache-2.0</license>
+		<categories>Manga/Anime,Reading,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://jparkie.github.io/Aizoban</web>
+		<source>https://github.com/jparkie/Aizoban</source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>27</marketvercode>
+		<package>
+			<version>1.2.5</version>
+			<versioncode>27</versioncode>
+			<apkname>com.jparkie.aizoban_27.apk</apkname>
+			<hash type="sha256">3bf7c926ec6c5c40f55482f91c6423f4dad3fceb43be453197a82e5093818fa1</hash>
+			<size>5399998</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>21</targetSdkVersion>
+			<added>2020-07-24</added>
+			<sig>4e119dd2edab9b759b84354a9a61477c</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+	</application>
 	<application id="info.horriblesubs.sher">
 		<id>info.horriblesubs.sher</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-30</lastupdated>
+		<lastupdated>2020-07-24</lastupdated>
 		<name>an!me</name>
 		<summary>an!me - better ongoing, android application</summary>
 		<icon>info.horriblesubs.sher.89.png</icon>
@@ -19,6 +48,7 @@
 		<web></web>
 		<source>https://github.com/Sher1234/Horrible</source>
 		<tracker>https://github.com/Sher1234/Horrible/issues</tracker>
+		<changelog>https://github.com/Sher1234/Horrible/releases</changelog>
 		<author>Sher1234</author>
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
@@ -80,6 +110,35 @@
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
+	<application id="com.freezingwind.animereleasenotifier">
+		<id>com.freezingwind.animereleasenotifier</id>
+		<added>2020-07-24</added>
+		<lastupdated>2020-07-24</lastupdated>
+		<name>Anime Release Notifier</name>
+		<summary></summary>
+		<icon>com.freezingwind.animereleasenotifier.9.png</icon>
+		<desc>&lt;p&gt;Fetches your anime &quot;watching&quot; list and notifies you when a new anime episode is available. It also displays the time until a new episode is released.&lt;/p&gt;&lt;p&gt;Supports anime lists from:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; anime-planet.com&lt;/li&gt;&lt;li&gt; anilist.co&lt;/li&gt;&lt;li&gt; myanimelist.net&lt;/li&gt;&lt;li&gt; hummingbird.me&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>GPL-2.0-or-later</license>
+		<categories>Manga/Anime,Time</categories>
+		<category>Manga/Anime</category>
+		<web>https://animereleasenotifier.com</web>
+		<source>https://github.com/blitzprog/anime-release-notifier-android</source>
+		<tracker>https://github.com/blitzprog/anime-release-notifier-android/issues</tracker>
+		<marketversion></marketversion>
+		<marketvercode>9</marketvercode>
+		<package>
+			<version>0.1.8</version>
+			<versioncode>9</versioncode>
+			<apkname>com.freezingwind.animereleasenotifier_9.apk</apkname>
+			<hash type="sha256">1d043976dde4bd913f49a36197ca04a40f78f2cff48a37fa5ad16924fc4f0bd8</hash>
+			<size>1012235</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>21</targetSdkVersion>
+			<added>2020-07-24</added>
+			<sig>ac2a01b80224aa12bd4820003dc68126</sig>
+			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,com.android.alarm.permission.SET_ALARM</permissions>
+		</package>
+	</application>
 	<application id="net.android.adm">
 		<id>net.android.adm</id>
 		<added>2020-06-22</added>
@@ -125,6 +184,7 @@
 		<web>https://henryquan.github.io/AnimeGo-Re</web>
 		<source>https://github.com/HenryQuan/AnimeGo-Re</source>
 		<tracker>https://github.com/HenryQuan/AnimeGo-Re/issues</tracker>
+		<changelog>https://github.com/HenryQuan/AnimeGo-Re/releases</changelog>
 		<author>HenryQuan</author>
 		<marketversion></marketversion>
 		<marketvercode>3156728</marketvercode>
@@ -140,6 +200,36 @@
 			<sig>0340aa9cc2cf98487881a52c439b5c37</sig>
 			<permissions>INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="net.somethingdreadful.MAL">
+		<id>net.somethingdreadful.MAL</id>
+		<added>2020-07-24</added>
+		<lastupdated>2020-07-24</lastupdated>
+		<name>Atarashii!</name>
+		<summary></summary>
+		<icon>net.somethingdreadful.MAL.14.png</icon>
+		<desc>&lt;p&gt;&quot;Atarashii&quot; is Japanese for &quot;New, Modern&quot;. Atarashii! aims to be a modern, native Android app for managing your MAL.&lt;/p&gt;&lt;p&gt;Youll need an account on that website or to create one in the app.&lt;/p&gt;</desc>
+		<license>BSD-3-Clause</license>
+		<categories>Manga/Anime,Reading</categories>
+		<category>Manga/Anime</category>
+		<web>https://atarashiiapp.com</web>
+		<source>https://github.com/AnimeNeko/Atarashii</source>
+		<tracker>https://github.com/AnimeNeko/Atarashii/issues</tracker>
+		<changelog>https://github.com/AnimeNeko/Atarashii/releases</changelog>
+		<marketversion></marketversion>
+		<marketvercode>14</marketvercode>
+		<package>
+			<version>1.4</version>
+			<versioncode>14</versioncode>
+			<apkname>net.somethingdreadful.MAL_14.apk</apkname>
+			<hash type="sha256">ad7a10ec80c5819719e62cdddbab2e15265d2123631b188fa12e42fddd59f233</hash>
+			<size>1416691</size>
+			<sdkver>8</sdkver>
+			<targetSdkVersion>17</targetSdkVersion>
+			<added>2020-07-24</added>
+			<sig>ff98aaae50479451f5b90b7fa2ee10ee</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="net.android.hdlr">
@@ -187,8 +277,10 @@
 		<web>https://github.com/avluis/Hentoid</web>
 		<source>https://github.com/avluis/Hentoid</source>
 		<tracker>https://github.com/avluis/Hentoid/issues</tracker>
+		<changelog>https://github.com/avluis/Hentoid/releases</changelog>
 		<marketversion></marketversion>
 		<marketvercode>239</marketvercode>
+		<antifeatures>NonFreeNet</antifeatures>
 		<package>
 			<version>1.12.1</version>
 			<versioncode>236</versioncode>
@@ -250,10 +342,10 @@
 	<application id="org.koitharu.kotatsu">
 		<id>org.koitharu.kotatsu</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-07-17</lastupdated>
+		<lastupdated>2020-07-24</lastupdated>
 		<name>Kotatsu</name>
 		<summary>Kotatsu is a free and open source manga reader for Android</summary>
-		<icon>org.koitharu.kotatsu.227.png</icon>
+		<icon>org.koitharu.kotatsu.231.png</icon>
 		<desc>&lt;p&gt;Note: I have not bothered with antifeatures in this app. Assume no ads (based on description only), but also assume tracking and upstream-nonfree, since I'm not bothering to check.&lt;/p&gt;&lt;p&gt;Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.&lt;/p&gt;&lt;p&gt;Kotatsu is a free and open source manga reader for Android.&lt;/p&gt;&lt;p&gt;Android 5.0 Kotlin Build Status License 4pda&lt;/p&gt;&lt;p&gt;Legacy build (Android 4.1+): available https://github.com/nv95/Kotatsu/releases/tag/v0.4-legacy&lt;/p&gt;&lt;p&gt;Main Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Online manga catalogues&lt;/li&gt;&lt;li&gt; Search manga by name and genre&lt;/li&gt;&lt;li&gt; Reading history&lt;/li&gt;&lt;li&gt; Favourites with custom categories&lt;/li&gt;&lt;li&gt; Saving manga and reading it offline&lt;/li&gt;&lt;li&gt; Tablet-optimized modern UI&lt;/li&gt;&lt;li&gt; Reading third-party comics from CBZ&lt;/li&gt;&lt;li&gt; Standard and Webtoon-optimized reader&lt;/li&gt;&lt;li&gt; Notifications about new chapters&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Coming Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Updates feed&lt;/li&gt;&lt;li&gt; Global search&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Manga/Anime,Multimedia</categories>
@@ -261,10 +353,23 @@
 		<web>https://4pda.ru/forum/index.php?showtopic=697669</web>
 		<source>https://github.com/nv95/Kotatsu</source>
 		<tracker>https://github.com/nv95/Kotatsu/issues</tracker>
+		<changelog>https://github.com/nv95/Kotatsu/releases</changelog>
 		<author>nv95</author>
 		<donate>https://money.yandex.ru/to/410012543938752</donate>
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>0.5-rc3</version>
+			<versioncode>231</versioncode>
+			<apkname>org.koitharu.kotatsu_v0.5-rc3_231.apk</apkname>
+			<hash type="sha256">7483d762f2bfc8e78fcbcc941abcc9234e718ac948fc509b6c4a59eb66beb610</hash>
+			<size>2937564</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-17</added>
+			<sig>dd481767ec88795ce0a97b82ecfae931</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
 		<package>
 			<version>0.5-rc2</version>
 			<versioncode>227</versioncode>
@@ -314,6 +419,36 @@
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
+	<application id="me.echeung.moemoekyun.fdroid">
+		<id>me.echeung.moemoekyun.fdroid</id>
+		<added>2020-07-24</added>
+		<lastupdated>2020-07-24</lastupdated>
+		<name>LISTEN.moe</name>
+		<summary></summary>
+		<icon>me.echeung.moemoekyun.fdroid.91.png</icon>
+		<desc>&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Tune in to the radio 24/7&lt;/li&gt;&lt;li&gt; No ads&lt;/li&gt;&lt;li&gt; Login to your account to access your favorites and make requests&lt;/li&gt;&lt;li&gt; Search for songs to favorite and request&lt;/li&gt;&lt;li&gt; See the last 2 songs played&lt;/li&gt;&lt;li&gt; Musicxmatch floating lyrics support&lt;/li&gt;&lt;li&gt; Android Auto support&lt;/li&gt;&lt;li&gt; Bluetooth and headphone control support&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;About:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; You can listen to the radio on any device with a browser too: https://listen.moe/&lt;/li&gt;&lt;li&gt; Help translate this app into your language: https://osfmofb.oneskyapp.com/collaboration/project?id=271507&lt;/li&gt;&lt;/ul&gt;</desc>
+		<license>MIT</license>
+		<categories>Manga/Anime,Multimedia</categories>
+		<category>Manga/Anime</category>
+		<web>https://listen.moe/</web>
+		<source>https://github.com/LISTEN-moe/android-app</source>
+		<tracker>https://github.com/LISTEN-moe/android-app/issues</tracker>
+		<donate>https://www.patreon.com/odysseyradio</donate>
+		<marketversion></marketversion>
+		<marketvercode>91</marketvercode>
+		<package>
+			<version>5.2.1</version>
+			<versioncode>91</versioncode>
+			<apkname>me.echeung.moemoekyun.fdroid_91.apk</apkname>
+			<hash type="sha256">a051158fa8f7502b302fb4f7dbeabbea80f589293ef1da1066760f073cd585f8</hash>
+			<size>3894260</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2020-07-24</added>
+			<sig>25a69c2fc52e8a15c82acc688ad4100d</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+	</application>
 	<application id="net.android.mdm">
 		<id>net.android.mdm</id>
 		<added>2020-06-22</added>
@@ -359,6 +494,7 @@
 		<web>https://github.com/neverfelly/Meow</web>
 		<source>https://github.com/neverfelly/Meow</source>
 		<tracker>https://github.com/neverfelly/Meow/issues</tracker>
+		<changelog>https://github.com/neverfelly/Meow/releases</changelog>
 		<author>ReChinX</author>
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
@@ -389,6 +525,7 @@
 		<web></web>
 		<source>https://github.com/KurozeroPB/Nekos</source>
 		<tracker>https://github.com/KurozeroPB/Nekos/issues</tracker>
+		<changelog>https://github.com/KurozeroPB/Nekos/releases</changelog>
 		<author>KurozeroPB</author>
 		<donate>https://github.com/sponsors/KurozeroPB</donate>
 		<marketversion></marketversion>
@@ -405,6 +542,37 @@
 			<sig>e8a0a467634099a008f330890e2a9b1a</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="moe.feng.nhentai">
+		<id>moe.feng.nhentai</id>
+		<added>2020-07-24</added>
+		<lastupdated>2020-07-24</lastupdated>
+		<name>NHBooks</name>
+		<summary></summary>
+		<icon>moe.feng.nhentai.36.png</icon>
+		<desc>&lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Maintenance of this app was suspended.&lt;/p&gt;&lt;p&gt;The program provides a simple and elegant interface in accordance with the Material Design specification, and obtains the book from NHentai through the API, giving you a lightweight and convenient client. Special declaration&lt;/p&gt;&lt;p&gt;The content provided by this app is not suitable for minors, and all content is obtained through Jsoup's resolution of NHentai's website. Any objection or psychological or even physical problems are irrelevant to the project.&lt;/p&gt;&lt;p&gt;Please be aware of any applicable local laws and regulations.&lt;/p&gt;</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Manga/Anime,Reading,Multimedia,Internet</categories>
+		<category>Manga/Anime</category>
+		<web>https://nhmoedev.github.io/NHentai-android</web>
+		<source>https://github.com/NHMoeDev/NHentai-android</source>
+		<tracker>https://github.com/NHMoeDev/NHentai-android/issues</tracker>
+		<changelog>https://github.com/NHMoeDev/NHentai-android/releases</changelog>
+		<marketversion></marketversion>
+		<marketvercode>36</marketvercode>
+		<antifeatures>NoSourceSince</antifeatures>
+		<package>
+			<version>1.8.4</version>
+			<versioncode>36</versioncode>
+			<apkname>moe.feng.nhentai_36.apk</apkname>
+			<hash type="sha256">aa4a57a4a83b6d83f0bcffec7649b1b058fe5b35983d6cb89fd25cd38c0da6ee</hash>
+			<size>2600279</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2020-07-24</added>
+			<sig>2644a7732874b1c179ec071d4246fc19</sig>
+			<permissions>ACCESS_WIFI_STATE,CLEAR_APP_CACHE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="net.cyl.ranobe">
@@ -445,7 +613,7 @@
 		<lastupdated>2020-06-22</lastupdated>
 		<name>TaiYakiAnime</name>
 		<summary>Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL</summary>
-		<icon>com.example.taiyaki_anime.2001.png</icon>
+		<icon>com.example.taiyaki_anime.4001.png</icon>
 		<desc>&lt;p&gt;Notes: This app is in beta, and seems to be in active development.&lt;/p&gt;&lt;p&gt;= TaiYaKi =&lt;/p&gt;&lt;p&gt;Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi&lt;/p&gt;&lt;p&gt;=== App is Currently in Beta ===&lt;/p&gt;&lt;p&gt;=== Compatible with iPhone and iPad =&amp;amp;gt; iOS 11.3+ &amp;amp;amp; Android 5.0+ ===&lt;/p&gt;&lt;p&gt;=== Features ===&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary&lt;/li&gt;&lt;li&gt; Multiple sources to choose from&lt;/li&gt;&lt;li&gt; Uses the Jikan &amp;amp;amp; the SIMKL API&lt;/li&gt;&lt;li&gt; Progress automatically updates to your MAL/SIMKL list as you watch&lt;/li&gt;&lt;li&gt; Binge Watching(coming soon!)&lt;/li&gt;&lt;li&gt; Constantly updated!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<categories>Multimedia,Manga/Anime</categories>
@@ -457,6 +625,19 @@
 		<marketversion></marketversion>
 		<marketvercode>4001</marketvercode>
 		<antifeatures>Tracking,UpstreamNonFree,NoSourceSince</antifeatures>
+		<package>
+			<version>1.1.1</version>
+			<versioncode>4001</versioncode>
+			<apkname>com.example.taiyaki_anime_v1.1.1_4001-x86_64.apk</apkname>
+			<hash type="sha256">11e23e8d28c8a762979190b137cf2b150f750d231159987b91cdb4a1fa2feb4c</hash>
+			<size>32396820</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2020-06-22</added>
+			<sig>c3f760e0c482d112a53f9fc7d3841203</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,RECEIVE_BOOT_COMPLETED</permissions>
+			<nativecode>x86_64</nativecode>
+		</package>
 		<package>
 			<version>1.1.1</version>
 			<versioncode>2001</versioncode>
