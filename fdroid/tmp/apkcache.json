@@ -2899,5 +2899,617 @@
     "apkName": "xyz.kurozero.nekosmoe_v1.1.0_240010100.apk",
     "icon": "xyz.kurozero.nekosmoe.240010100.png",
     "added": 1594993481.798989
+  },
+  "com.arnab.jiyu_v1.4.3_1.apk": {
+    "hash": "ebfec0cf5b24467e21dab40e7b20d1eaab0dff5a564a2e2ed8ace0a403593357",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "com.arnab.jiyu.1.xml",
+      "640": "com.arnab.jiyu.1.png",
+      "480": "com.arnab.jiyu.1.png",
+      "320": "com.arnab.jiyu.1.png",
+      "240": "com.arnab.jiyu.1.png",
+      "160": "com.arnab.jiyu.1.png",
+      "0": "com.arnab.jiyu.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.arnab.jiyu",
+    "versionCode": 1,
+    "name": "Jiyu",
+    "versionName": "1.4.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "f4715c4a7abc091a8fff46c11250b9fc",
+    "signer": "1d9abd621c38f54fa53a90f0ce8905867db44c75fd033e6e1cd3bce988ea546f",
+    "size": 20016785,
+    "apkName": "com.arnab.jiyu_v1.4.3_1.apk",
+    "icon": "com.arnab.jiyu.1.png",
+    "added": 1595576581.575348
+  },
+  "com.freezingwind.animereleasenotifier_9.apk": {
+    "hash": "1d043976dde4bd913f49a36197ca04a40f78f2cff48a37fa5ad16924fc4f0bd8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.android.alarm.permission.SET_ALARM",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/drawable-hdpi-v4/launcher_icon.png",
+      "160": "res/drawable-mdpi-v4/launcher_icon.png",
+      "320": "res/drawable-xhdpi-v4/launcher_icon.png",
+      "480": "res/drawable-xxhdpi-v4/launcher_icon.png",
+      "-1": "res/drawable-mdpi-v4/launcher_icon.png"
+    },
+    "icons": {
+      "480": "com.freezingwind.animereleasenotifier.9.png",
+      "320": "com.freezingwind.animereleasenotifier.9.png",
+      "240": "com.freezingwind.animereleasenotifier.9.png",
+      "160": "com.freezingwind.animereleasenotifier.9.png",
+      "0": "com.freezingwind.animereleasenotifier.9.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.freezingwind.animereleasenotifier",
+    "versionCode": 9,
+    "name": "Anime Release Notifier",
+    "versionName": "0.1.8",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 21,
+    "sig": "ac2a01b80224aa12bd4820003dc68126",
+    "signer": "e6c62f198b440c0e9a2613200e98cc398cb8a7c40b5cdb19fc6bd65beecee152",
+    "size": 1012235,
+    "apkName": "com.freezingwind.animereleasenotifier_9.apk",
+    "icon": "com.freezingwind.animereleasenotifier.9.png",
+    "added": 1595576582.799794
+  },
+  "com.jparkie.aizoban_27.apk": {
+    "hash": "3bf7c926ec6c5c40f55482f91c6423f4dad3fceb43be453197a82e5093818fa1",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/drawable-hdpi-v4/ic_launcher.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher.png",
+      "480": "res/drawable-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "480": "com.jparkie.aizoban.27.png",
+      "320": "com.jparkie.aizoban.27.png",
+      "240": "com.jparkie.aizoban.27.png",
+      "160": "com.jparkie.aizoban.27.png",
+      "0": "com.jparkie.aizoban.27.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.jparkie.aizoban",
+    "versionCode": 27,
+    "name": "Aiz\u014dban",
+    "versionName": "1.2.5",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 21,
+    "sig": "4e119dd2edab9b759b84354a9a61477c",
+    "signer": "9cdcd59936d9df65c7cc46118fb5178aaf6e540878b6c53bd6f7570d24b82920",
+    "size": 5399998,
+    "apkName": "com.jparkie.aizoban_27.apk",
+    "icon": "com.jparkie.aizoban.27.png",
+    "added": 1595576584.435446
+  },
+  "com.taiyaki_anime_v1.0_1.apk": {
+    "hash": "5992b06365247354ccf3d4220c368683d2660a91a818b5f821d142ef089bf699",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.android.vending.CHECK_LICENSE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.READ",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.WRITE",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        null
+      ],
+      [
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        null
+      ],
+      [
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        null
+      ],
+      [
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        null
+      ],
+      [
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.READ_APP_BADGE",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.taiyaki_anime.1.png",
+      "480": "com.taiyaki_anime.1.png",
+      "320": "com.taiyaki_anime.1.png",
+      "240": "com.taiyaki_anime.1.png",
+      "160": "com.taiyaki_anime.1.png",
+      "0": "com.taiyaki_anime.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.taiyaki_anime",
+    "versionCode": 1,
+    "name": "Taiyaki_Anime",
+    "versionName": "1.0",
+    "minSdkVersion": 17,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+    "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+    "size": 30658731,
+    "apkName": "com.taiyaki_anime_v1.0_1.apk",
+    "icon": "com.taiyaki_anime.1.png",
+    "added": 1595576588.402358
+  },
+  "info.horriblesubs.sher_v0.9.0-beta4_90.apk": {
+    "hash": "73be5c4d5774abb35c13d59988162c977bbf1dfbc891d502139216e0fa9f5aa0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "info.horriblesubs.sher.90.xml",
+      "640": "info.horriblesubs.sher.90.png",
+      "480": "info.horriblesubs.sher.90.png",
+      "320": "info.horriblesubs.sher.90.png",
+      "240": "info.horriblesubs.sher.90.png",
+      "160": "info.horriblesubs.sher.90.png",
+      "0": "info.horriblesubs.sher.90.png"
+    },
+    "antiFeatures": [],
+    "packageName": "info.horriblesubs.sher",
+    "versionCode": 90,
+    "name": "an!me",
+    "versionName": "0.9.0-beta4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "5d20c70dea2bef35b913242683e5d771",
+    "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
+    "size": 11484329,
+    "apkName": "info.horriblesubs.sher_v0.9.0-beta4_90.apk",
+    "icon": "info.horriblesubs.sher.90.png",
+    "added": 1595576591.39191
+  },
+  "me.echeung.moemoekyun.fdroid_91.apk": {
+    "hash": "a051158fa8f7502b302fb4f7dbeabbea80f589293ef1da1066760f073cd585f8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "me.echeung.moemoekyun.fdroid.91.xml",
+      "640": "me.echeung.moemoekyun.fdroid.91.png",
+      "480": "me.echeung.moemoekyun.fdroid.91.png",
+      "320": "me.echeung.moemoekyun.fdroid.91.png",
+      "240": "me.echeung.moemoekyun.fdroid.91.png",
+      "160": "me.echeung.moemoekyun.fdroid.91.png",
+      "0": "me.echeung.moemoekyun.fdroid.91.png"
+    },
+    "antiFeatures": [],
+    "packageName": "me.echeung.moemoekyun.fdroid",
+    "versionCode": 91,
+    "name": "LISTEN.moe",
+    "versionName": "5.2.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "25a69c2fc52e8a15c82acc688ad4100d",
+    "signer": "4507f34a205670231faa43811f2bc42a6eb4e083ce4b364129ad9e2e84b9b44c",
+    "size": 3894260,
+    "apkName": "me.echeung.moemoekyun.fdroid_91.apk",
+    "icon": "me.echeung.moemoekyun.fdroid.91.png",
+    "added": 1595576593.638356
+  },
+  "moe.feng.nhentai_36.apk": {
+    "hash": "aa4a57a4a83b6d83f0bcffec7649b1b058fe5b35983d6cb89fd25cd38c0da6ee",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.CLEAR_APP_CACHE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "480": "moe.feng.nhentai.36.png",
+      "320": "moe.feng.nhentai.36.png",
+      "240": "moe.feng.nhentai.36.png",
+      "0": "moe.feng.nhentai.36.png"
+    },
+    "antiFeatures": [
+      "NoSourceSince"
+    ],
+    "packageName": "moe.feng.nhentai",
+    "versionCode": 36,
+    "name": "NHBooks",
+    "versionName": "1.8.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 25,
+    "sig": "2644a7732874b1c179ec071d4246fc19",
+    "signer": "a37bce226f76cf17a2efa64aaa23bcd73a1fa8e117384b60902e69f2983b446c",
+    "size": 2600279,
+    "apkName": "moe.feng.nhentai_36.apk",
+    "icon": "moe.feng.nhentai.36.png",
+    "added": 1595576594.839342
+  },
+  "net.somethingdreadful.MAL_14.apk": {
+    "hash": "ad7a10ec80c5819719e62cdddbab2e15265d2123631b188fa12e42fddd59f233",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "320": "res/drawable-xhdpi/icon.png"
+    },
+    "icons": {
+      "320": "net.somethingdreadful.MAL.14.png",
+      "0": "net.somethingdreadful.MAL.14.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.somethingdreadful.MAL",
+    "versionCode": 14,
+    "name": "Atarashii!",
+    "versionName": "1.4",
+    "minSdkVersion": 8,
+    "targetSdkVersion": 17,
+    "sig": "ff98aaae50479451f5b90b7fa2ee10ee",
+    "signer": "812f6bcfe4a084f8759e4f262147e8fb53764882fe769f6c80a1694528f45025",
+    "size": 1416691,
+    "apkName": "net.somethingdreadful.MAL_14.apk",
+    "icon": "net.somethingdreadful.MAL.14.png",
+    "added": 1595576595.961291
+  },
+  "org.koitharu.kotatsu_v0.5_234.apk": {
+    "hash": "e80b740e69a502968d97b04d9863dcb72213de43760bbd8579ae66c06987138f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "org.koitharu.kotatsu.234.xml",
+      "640": "org.koitharu.kotatsu.234.png",
+      "480": "org.koitharu.kotatsu.234.png",
+      "320": "org.koitharu.kotatsu.234.png",
+      "240": "org.koitharu.kotatsu.234.png",
+      "160": "org.koitharu.kotatsu.234.png",
+      "0": "org.koitharu.kotatsu.234.png"
+    },
+    "antiFeatures": [],
+    "packageName": "org.koitharu.kotatsu",
+    "versionCode": 234,
+    "name": "Kotatsu",
+    "versionName": "0.5",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "dd481767ec88795ce0a97b82ecfae931",
+    "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+    "size": 2936207,
+    "apkName": "org.koitharu.kotatsu_v0.5_234.apk",
+    "icon": "org.koitharu.kotatsu.234.png",
+    "added": 1595576597.651788
   }
 }
