@@ -17,8 +17,9 @@ Name: Jiyu
 Summary: A simple anime list tracker for your phone
 Description: |-
     A simple anime list tracker for your phone. This app uses the Jikan API (unofficial Myanimelist API) to fetch images.
-    
+
     Notes: This app is written in flutter. It uses firebase, and may require google services.
+
 AutoUpdateMode: None
 UpdateCheckMode: None
 CurrentVersionCode: 2147483647

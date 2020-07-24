@@ -1,7 +1,28 @@
 Categories:
   - Manga/Anime
-License: Unknown
+  - Multimedia
+License: MIT
+AuthorName: nulldev
+AuthorEmail: contactnulldev@gmail.com
+WebSite: http://nulldev.xyz/apps
+SourceCode: https://github.com/null-dev/animeopenings-android
+IssueTracker: https://github.com/null-dev/animeopenings-android/issues
+Changelog: https://github.com/null-dev/animeopenings-android/releases
 
+Description: |-
+    Anime Openings streams random anime openings and endings directly to your phone.
+    (Openings and endings provided by openings.moe)
+
+    Features:
+
+    * Random openings and endings
+    * Configurable options
+    * Gesture based controls
+    * Notification controls
+    * Subtitle support
+    * Background/screen-off playing
+
+ArchivePolicy: 0 versions
 AutoUpdateMode: None
 UpdateCheckMode: None
 # this is an fdroid build that won't be updated, it's only here to add apps I'm not distributing to the categories

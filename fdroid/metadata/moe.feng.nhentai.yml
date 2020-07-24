@@ -1,8 +1,30 @@
 Categories:
   - Manga/Anime
   - Reading
-License: Unknown
+  - Multimedia
+  - Internet
+License: GPL-3.0-or-later
+WebSite: https://nhmoedev.github.io/NHentai-android
+SourceCode: https://github.com/NHMoeDev/NHentai-android
+IssueTracker: https://github.com/NHMoeDev/NHentai-android/issues
+Changelog: https://github.com/NHMoeDev/NHentai-android/releases
 
+Description: |-
+    '''NOTE:''' Maintenance of this app was suspended.
+
+    The program provides a simple and elegant interface in accordance with the
+    Material Design specification, and obtains the book from NHentai through the
+    API, giving you a lightweight and convenient client. Special declaration
+
+    The content provided by this app is not suitable for minors, and all content is
+    obtained through Jsoup's resolution of NHentai's website. Any objection or
+    psychological or even physical problems are irrelevant to the project.
+
+    Please be aware of any applicable local laws and regulations.
+
+ArchivePolicy: 0 versions
 AutoUpdateMode: None
 UpdateCheckMode: None
+
+NoSourceSince: 1.8.4
 # this is an fdroid build that won't be updated, it's only here to add apps I'm not distributing to the categories

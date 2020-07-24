@@ -1,7 +1,23 @@
 Categories:
   - Manga/Anime
-License: Unknown
+  - Time
+License: GPL-2.0-or-later
+WebSite: https://animereleasenotifier.com
+SourceCode: https://github.com/blitzprog/anime-release-notifier-android
+IssueTracker: https://github.com/blitzprog/anime-release-notifier-android/issues
 
+Description: |-
+    Fetches your anime "watching" list and notifies you when a new anime episode is
+    available. It also displays the time until a new episode is released.
+
+    Supports anime lists from:
+
+    * anime-planet.com
+    * anilist.co
+    * myanimelist.net
+    * hummingbird.me
+
+ArchivePolicy: 0 versions
 AutoUpdateMode: None
 UpdateCheckMode: None
 # this is an fdroid build that won't be updated, it's only here to add apps I'm not distributing to the categories
