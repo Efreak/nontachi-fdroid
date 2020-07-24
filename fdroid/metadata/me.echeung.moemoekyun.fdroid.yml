@@ -1,7 +1,31 @@
 Categories:
   - Manga/Anime
-License: Unknown
+  - Multimedia
+License: MIT
+WebSite: https://listen.moe/
+SourceCode: https://github.com/LISTEN-moe/android-app
+IssueTracker: https://github.com/LISTEN-moe/android-app/issues
+Translation: https://crowdin.com/project/listenmoe-android-app
+Donate: https://www.patreon.com/odysseyradio
 
+Description: |-
+    Features:
+
+    * Tune in to the radio 24/7
+    * No ads
+    * Login to your account to access your favorites and make requests
+    * Search for songs to favorite and request
+    * See the last 2 songs played
+    * Musicxmatch floating lyrics support
+    * Android Auto support
+    * Bluetooth and headphone control support
+
+    About:
+
+    * You can listen to the radio on any device with a browser too: https://listen.moe/
+    * Help translate this app into your language: https://osfmofb.oneskyapp.com/collaboration/project?id=271507
+
+ArchivePolicy: 0 versions
 AutoUpdateMode: None
 UpdateCheckMode: None
 # this is an fdroid build that won't be updated, it's only here to add apps I'm not distributing to the categories
