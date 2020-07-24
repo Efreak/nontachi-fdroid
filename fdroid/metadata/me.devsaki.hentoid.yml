@@ -1,8 +1,9 @@
+AntiFeatures:
+  - NonFreeNet
 Categories:
   - Manga/Anime
   - Reading
   - Multimedia
-  - NonFreeNet
 License: Apache-2.0
 WebSite: https://github.com/avluis/Hentoid
 SourceCode: https://github.com/avluis/Hentoid
