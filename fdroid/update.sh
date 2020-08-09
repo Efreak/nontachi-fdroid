@@ -5,7 +5,7 @@ if ! (type curl && type jq && type gh) &>/dev/null; then
   exit 1
 fi
 
-cd /home/efreak/fdroidserver-nontachi/fdroid/repo
+cd $HOME/fdroidserver-nontachi/fdroid/repo
 
 predl="$(ls)"
 
@@ -71,7 +71,7 @@ echo 'New files:'
 echo "$newstuff"
 
 # and update git
-cd /home/efreak/fdroidserver-nontachi/fdroid
+cd $HOME/fdroidserver-nontachi/fdroid
 git add repo archive
 git commit -m "$(echo $'Update apps: \n\n'"$newstuff")"
 
