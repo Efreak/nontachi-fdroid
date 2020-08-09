@@ -56,4 +56,5 @@ servergitmirrors = {
 #
 mirrors = (
     'https://animanga.netlify.com/fdroid',
+    'https://animanga.cloud.efreakbnc.net/fdroid',
 )
