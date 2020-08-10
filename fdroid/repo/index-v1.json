@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1597048606000,
+    "timestamp": 1597087880000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -36,7 +36,7 @@
       "name": "an!me",
       "sourceCode": "https://github.com/Sher1234/Horrible",
       "summary": "an!me - better ongoing, android application",
-      "added": 1592868308000,
+      "added": 1593541202000,
       "icon": "info.horriblesubs.sher.90.png",
       "packageName": "info.horriblesubs.sher",
       "lastUpdated": 1595551391000
@@ -203,7 +203,7 @@
       "sourceCode": "https://github.com/avluis/Hentoid",
       "summary": "Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.",
       "webSite": "https://github.com/avluis/Hentoid",
-      "added": 1592865108000,
+      "added": 1596563363000,
       "icon": "me.devsaki.hentoid.254.png",
       "packageName": "me.devsaki.hentoid",
       "lastUpdated": 1597004634000
@@ -297,7 +297,7 @@
       "sourceCode": "https://github.com/nv95/Kotatsu",
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
-      "added": 1592868310000,
+      "added": 1594968279000,
       "icon": "org.koitharu.kotatsu.234.png",
       "packageName": "org.koitharu.kotatsu",
       "lastUpdated": 1595551397000,
