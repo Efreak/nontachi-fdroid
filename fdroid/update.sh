@@ -28,7 +28,8 @@ get_latest_gh_release 'KurozeroPB/Nekos'
 get_latest_gh_release 'nv95/Kotatsu'
 get_latest_gh_release 'Arnab771/Jiyu'
 get_latest_gh_release 'Michael24884/TaiYaKiAnime'
-get_latest_gh_release 'Sher1234/Horrible'
+# 2020-08-17 - sher1234/Horrible has been missing for a few days
+#get_latest_gh_release 'Sher1234/Horrible'
 
 echo 'Downloading balvinderz/animewatcher from https://github.com/balvinderz/animewatcher/raw/master/app/release/app-release.apk'
 curl -s -L 'https://github.com/balvinderz/animewatcher/raw/master/app/release/app-release.apk' --output aw.apk

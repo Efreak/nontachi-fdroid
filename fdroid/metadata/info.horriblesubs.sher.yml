@@ -2,6 +2,7 @@ AntiFeatures:
   - Tracking
   - UpstreamNonFree
   - Ads
+  - NoSourceSince
 Categories:
   - Manga/Anime
   - Multimedia
@@ -14,6 +15,8 @@ Changelog: https://github.com/Sher1234/Horrible/releases
 Name: an!me
 Summary: an!me - better ongoing, android application
 Description: |-
+    Note: As of 2020-08-17, the source repo has been missing for a few days now, and the app is no longer on the play store. I'm adding NoSourceSince, removing it from updater, and moving the apk to the archive.
+
     Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.
 
     Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.
@@ -53,6 +56,7 @@ Description: |-
     * Views All as well as Current Shows with Search option.
     * Show Activity for viewing previous show releases and show description.
 
+ArchivePolicy: 0 versions
 AutoUpdateMode: None
 UpdateCheckMode: None
 CurrentVersionCode: 2147483647

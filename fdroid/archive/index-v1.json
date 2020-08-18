@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1597087887000,
+    "timestamp": 1597730571000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -29,16 +29,17 @@
       "name": "Aiz\u014dban",
       "sourceCode": "https://github.com/jparkie/Aizoban",
       "webSite": "https://jparkie.github.io/Aizoban",
-      "added": 1595551384000,
+      "added": 1597730531000,
       "icon": "com.jparkie.aizoban.27.png",
       "packageName": "com.jparkie.aizoban",
-      "lastUpdated": 1595551384000
+      "lastUpdated": 1597730531000
     },
     {
       "antiFeatures": [
         "Tracking",
         "UpstreamNonFree",
-        "Ads"
+        "Ads",
+        "NoSourceSince"
       ],
       "authorName": "Sher1234",
       "categories": [
@@ -47,16 +48,16 @@
       ],
       "changelog": "https://github.com/Sher1234/Horrible/releases",
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.</p><p>Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.</p><p>an!me - better ongoing is an android application with notification support for newer releases Not affiliated to source i.e. horriblesubs.info in any way Support the official site horriblesubs.info Tech</p><p>an!me implements number of open source projects listed bellow:</p><ul><li> Androidx Libraries</li><li> Glide for Displaying images</li><li> Retrofit networking libraries</li><li> SimpleHtmlDom for HTML parsing</li><li> Firebase for FCM notifications &amp; google ads</li></ul><p>Notes:</p><ul><li> <a href=\"Supported\">Supported</a> Versions 0.9.0 (and above) (Api-v7)</li><li> <a href=\"Supported\">Supported</a> Versions 0.8.0 (and above) (Api-v6)</li><li> <a href=\"Supported\">Supported</a> Versions 0.7.0 - 0.7.9 (Api-v5)</li></ul><p>    * <a href=\"Changed\">Signing Keys</a> Versions 0.7.5 - 0.7.9     * <a href=\"Changed\">Signing Keys</a> Versions 0.7.0 - 0.7.4</p><ul><li> <a href=\"Unsupported\">Unsupported</a> Versions 0.6.5 and earlier</li></ul><p>Features</p><ul><li> Lists New/Latest Releases from HorribleSubs Website,</li><li> Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),</li><li> Notification Support for every new release available on HorribleSubs</li></ul><p>    * Needs to be enabled in the Settings,     * Notification might get delayed (30 min at max),</p><ul><li> Bookmark a Show for faster &amp; easier access,</li><li> Detailed Show page,</li><li> Lists Search for the shows/release.</li><li> Views All as well as Current Shows with Search option.</li><li> Show Activity for viewing previous show releases and show description.</li></ul>",
+      "description": "<p>Note: As of 2020-08-17, the source repo has been missing for a few days now, and the app is no longer on the play store. I'm adding NoSourceSince, removing it from updater, and moving the apk to the archive.</p><p>Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.</p><p>Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.</p><p>an!me - better ongoing is an android application with notification support for newer releases Not affiliated to source i.e. horriblesubs.info in any way Support the official site horriblesubs.info Tech</p><p>an!me implements number of open source projects listed bellow:</p><ul><li> Androidx Libraries</li><li> Glide for Displaying images</li><li> Retrofit networking libraries</li><li> SimpleHtmlDom for HTML parsing</li><li> Firebase for FCM notifications &amp; google ads</li></ul><p>Notes:</p><ul><li> <a href=\"Supported\">Supported</a> Versions 0.9.0 (and above) (Api-v7)</li><li> <a href=\"Supported\">Supported</a> Versions 0.8.0 (and above) (Api-v6)</li><li> <a href=\"Supported\">Supported</a> Versions 0.7.0 - 0.7.9 (Api-v5)</li></ul><p>    * <a href=\"Changed\">Signing Keys</a> Versions 0.7.5 - 0.7.9     * <a href=\"Changed\">Signing Keys</a> Versions 0.7.0 - 0.7.4</p><ul><li> <a href=\"Unsupported\">Unsupported</a> Versions 0.6.5 and earlier</li></ul><p>Features</p><ul><li> Lists New/Latest Releases from HorribleSubs Website,</li><li> Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),</li><li> Notification Support for every new release available on HorribleSubs</li></ul><p>    * Needs to be enabled in the Settings,     * Notification might get delayed (30 min at max),</p><ul><li> Bookmark a Show for faster &amp; easier access,</li><li> Detailed Show page,</li><li> Lists Search for the shows/release.</li><li> Views All as well as Current Shows with Search option.</li><li> Show Activity for viewing previous show releases and show description.</li></ul>",
       "issueTracker": "https://github.com/Sher1234/Horrible/issues",
       "license": "GPL-3.0-only",
       "name": "an!me",
       "sourceCode": "https://github.com/Sher1234/Horrible",
       "summary": "an!me - better ongoing, android application",
-      "added": 1593541202000,
-      "icon": "info.horriblesubs.sher.89.png",
+      "added": 1597730488000,
+      "icon": "info.horriblesubs.sher.90.png",
       "packageName": "info.horriblesubs.sher",
-      "lastUpdated": 1595551391000
+      "lastUpdated": 1597730534000
     },
     {
       "antiFeatures": [
@@ -78,10 +79,10 @@
       "name": "AniLabX3",
       "summary": "AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels",
       "webSite": "https://mangawatcherx.com",
-      "added": 1592865098000,
+      "added": 1597730457000,
       "icon": "com.crazyxacker.apps.anilabx3.160.png",
       "packageName": "com.crazyxacker.apps.anilabx3",
-      "lastUpdated": 1592865127000
+      "lastUpdated": 1597730517000
     },
     {
       "categories": [
@@ -95,10 +96,10 @@
       "name": "Anime Release Notifier",
       "sourceCode": "https://github.com/blitzprog/anime-release-notifier-android",
       "webSite": "https://animereleasenotifier.com",
-      "added": 1595551382000,
+      "added": 1597730529000,
       "icon": "com.freezingwind.animereleasenotifier.9.png",
       "packageName": "com.freezingwind.animereleasenotifier",
-      "lastUpdated": 1595551382000
+      "lastUpdated": 1597730529000
     },
     {
       "antiFeatures": [
@@ -120,10 +121,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/animedlr/src",
       "summary": "AnimeDLR is an anime downloader for android",
       "webSite": "https://cylonu87.github.io/androidapps/animedlr",
-      "added": 1592865110000,
+      "added": 1597730493000,
       "icon": "net.android.adm.152.png",
       "packageName": "net.android.adm",
-      "lastUpdated": 1592865131000,
+      "lastUpdated": 1597730544000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -153,10 +154,10 @@
       "sourceCode": "https://github.com/HenryQuan/AnimeGo-Re",
       "summary": "GoGoAnime client",
       "webSite": "https://henryquan.github.io/AnimeGo-Re",
-      "added": 1592865106000,
+      "added": 1597730483000,
       "icon": "com.yihengquan.gogoanime.3.png",
       "packageName": "com.yihengquan.gogoanime",
-      "lastUpdated": 1593541199000
+      "lastUpdated": 1597730485000
     },
     {
       "categories": [
@@ -171,10 +172,10 @@
       "name": "Atarashii!",
       "sourceCode": "https://github.com/AnimeNeko/Atarashii",
       "webSite": "https://atarashiiapp.com",
-      "added": 1595551395000,
+      "added": 1597730556000,
       "icon": "net.somethingdreadful.MAL.14.png",
       "packageName": "net.somethingdreadful.MAL",
-      "lastUpdated": 1595551395000
+      "lastUpdated": 1597730556000
     },
     {
       "antiFeatures": [
@@ -193,10 +194,10 @@
       "name": "H-DLR",
       "summary": "Enjoy your Hentai collection anywhere and anytime",
       "webSite": "https://cylonu87.github.io/HDLR/",
-      "added": 1592865112000,
+      "added": 1597730495000,
       "icon": "net.android.hdlr.24.png",
       "packageName": "net.android.hdlr",
-      "lastUpdated": 1592865133000,
+      "lastUpdated": 1597730546000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -223,10 +224,10 @@
       "sourceCode": "https://github.com/avluis/Hentoid",
       "summary": "Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.",
       "webSite": "https://github.com/avluis/Hentoid",
-      "added": 1596563363000,
+      "added": 1597730490000,
       "icon": "me.devsaki.hentoid.253.png",
       "packageName": "me.devsaki.hentoid",
-      "lastUpdated": 1597004634000
+      "lastUpdated": 1597730536000
     },
     {
       "antiFeatures": [
@@ -247,10 +248,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/kamuy/src/",
       "summary": "Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList",
       "webSite": "https://cylonu87.github.io/androidapps/kamuy",
-      "added": 1592865114000,
+      "added": 1597730498000,
       "icon": "net.android.kamuy.38.png",
       "packageName": "net.android.kamuy",
-      "lastUpdated": 1592865135000,
+      "lastUpdated": 1597730549000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -282,10 +283,10 @@
       "sourceCode": "https://github.com/nv95/Kotatsu",
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
-      "added": 1594968279000,
+      "added": 1597730506000,
       "icon": "org.koitharu.kotatsu.231.png",
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1595551397000,
+      "lastUpdated": 1597730558000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -313,10 +314,10 @@
       "sourceCode": "https://github.com/LISTEN-moe/android-app",
       "translation": "https://crowdin.com/project/listenmoe-android-app",
       "webSite": "https://listen.moe/",
-      "added": 1595551393000,
+      "added": 1597730538000,
       "icon": "me.echeung.moemoekyun.fdroid.91.png",
       "packageName": "me.echeung.moemoekyun.fdroid",
-      "lastUpdated": 1595551393000
+      "lastUpdated": 1597730538000
     },
     {
       "antiFeatures": [
@@ -339,10 +340,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/mangadlr/src",
       "summary": "MangaDLR is an android manga reader and downloader that supports CBZ.",
       "webSite": "https://cylonu87.github.io/androidapps/mangadlr",
-      "added": 1592865116000,
+      "added": 1597730501000,
       "icon": "net.android.mdm.142.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1592865137000,
+      "lastUpdated": 1597730552000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -374,10 +375,10 @@
       "sourceCode": "https://github.com/neverfelly/Meow",
       "summary": "Yet another free and open source manga reader",
       "webSite": "https://github.com/neverfelly/Meow",
-      "added": 1592865120000,
+      "added": 1597730508000,
       "icon": "top.rechinx.meow.6.png",
       "packageName": "top.rechinx.meow",
-      "lastUpdated": 1592865141000
+      "lastUpdated": 1597730561000
     },
     {
       "authorName": "KurozeroPB",
@@ -396,10 +397,10 @@
       "name": "Nekos",
       "sourceCode": "https://github.com/KurozeroPB/Nekos",
       "summary": "Nekos - Search, Download and Share catgirls",
-      "added": 1592868311000,
+      "added": 1597730512000,
       "icon": "xyz.kurozero.nekosmoe.20.png",
       "packageName": "xyz.kurozero.nekosmoe",
-      "lastUpdated": 1594968281000,
+      "lastUpdated": 1597730562000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -430,10 +431,10 @@
       "name": "NHBooks",
       "sourceCode": "https://github.com/NHMoeDev/NHentai-android",
       "webSite": "https://nhmoedev.github.io/NHentai-android",
-      "added": 1595551394000,
+      "added": 1597730540000,
       "icon": "moe.feng.nhentai.36.png",
       "packageName": "moe.feng.nhentai",
-      "lastUpdated": 1595551394000
+      "lastUpdated": 1597730540000
     },
     {
       "antiFeatures": [
@@ -455,10 +456,10 @@
       "name": "Ranobe",
       "summary": "Ranobe is an app to read and download light novels",
       "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
-      "added": 1592865118000,
+      "added": 1597730504000,
       "icon": "net.cyl.ranobe.33.png",
       "packageName": "net.cyl.ranobe",
-      "lastUpdated": 1592865139000,
+      "lastUpdated": 1597730555000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -488,10 +489,43 @@
       "name": "TaiYakiAnime",
       "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
       "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
-      "added": 1592865101000,
+      "added": 1597730520000,
       "icon": "com.example.taiyaki_anime.4001.png",
       "packageName": "com.example.taiyaki_anime",
-      "lastUpdated": 1592868304000,
+      "lastUpdated": 1597730528000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "banner.jpg",
+            "discover.jpg",
+            "mal.jpg",
+            "stream.jpg"
+          ]
+        }
+      }
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "NoSourceSince"
+      ],
+      "authorName": "Michael24884",
+      "categories": [
+        "Multimedia",
+        "Manga/Anime"
+      ],
+      "suggestedVersionCode": "4194305",
+      "description": "<p>Notes: This app is in beta, and seems to be in active development.</p><p>= TaiYaKi =</p><p>Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi</p><p>=== App is Currently in Beta ===</p><p>=== Compatible with iPhone and iPad =&amp;gt; iOS 11.3+ &amp;amp; Android 5.0+ ===</p><p>=== Features ===</p><ul><li> Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary</li><li> Multiple sources to choose from</li><li> Uses the Jikan &amp;amp; the SIMKL API</li><li> Progress automatically updates to your MAL/SIMKL list as you watch</li><li> Binge Watching(coming soon!)</li><li> Constantly updated!</li></ul><p>The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson</p>",
+      "issueTracker": "https://github.com/Michael24884/TaiYaKiAnime/issues",
+      "license": "Unknown",
+      "name": "TaiYakiAnime",
+      "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
+      "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
+      "added": 1597730466000,
+      "icon": "com.taiyaki_anime.3145729.png",
+      "packageName": "com.taiyaki_anime",
+      "lastUpdated": 1597730478000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -507,7 +541,7 @@
   "packages": {
     "com.crazyxacker.apps.anilabx3": [
       {
-        "added": 1592865127000,
+        "added": 1597730517000,
         "apkName": "com.crazyxacker.apps.anilabx3_v3.5.22_160.apk",
         "hash": "d6e515bb92aa1fa1c29b7d47fc2bf73fa6144d5019c538716f5a3f629e9beae6",
         "hashType": "sha256",
@@ -575,7 +609,7 @@
     ],
     "com.example.taiyaki_anime": [
       {
-        "added": 1592868304000,
+        "added": 1597730528000,
         "apkName": "com.example.taiyaki_anime_v1.1.1_4001-x86_64.apk",
         "hash": "11e23e8d28c8a762979190b137cf2b150f750d231159987b91cdb4a1fa2feb4c",
         "hashType": "sha256",
@@ -614,7 +648,7 @@
         "versionName": "1.1.1"
       },
       {
-        "added": 1592868301000,
+        "added": 1597730524000,
         "apkName": "com.example.taiyaki_anime_v1.1.1_2001-arm64-v8a.apk",
         "hash": "826a22c4031605f3e30bd00b703991aedc98452cbd96b7e7a8d2e37c46b338f8",
         "hashType": "sha256",
@@ -653,7 +687,7 @@
         "versionName": "1.1.1"
       },
       {
-        "added": 1592865101000,
+        "added": 1597730520000,
         "apkName": "com.example.taiyaki_anime_v1.1.1_1001-armeabi-v7a.apk",
         "hash": "e10f5f6e6908207ef3ba6550784d0e1197a044d529d0358e3ea76f034a245a94",
         "hashType": "sha256",
@@ -694,7 +728,7 @@
     ],
     "com.freezingwind.animereleasenotifier": [
       {
-        "added": 1595551382000,
+        "added": 1597730529000,
         "apkName": "com.freezingwind.animereleasenotifier_9.apk",
         "hash": "1d043976dde4bd913f49a36197ca04a40f78f2cff48a37fa5ad16924fc4f0bd8",
         "hashType": "sha256",
@@ -724,7 +758,7 @@
     ],
     "com.jparkie.aizoban": [
       {
-        "added": 1595551384000,
+        "added": 1597730531000,
         "apkName": "com.jparkie.aizoban_27.apk",
         "hash": "3bf7c926ec6c5c40f55482f91c6423f4dad3fceb43be453197a82e5093818fa1",
         "hashType": "sha256",
@@ -760,9 +794,514 @@
         "versionName": "1.2.5"
       }
     ],
+    "com.taiyaki_anime": [
+      {
+        "added": 1597730475000,
+        "apkName": "com.taiyaki_anime_v1.0_3145729.apk",
+        "hash": "58a29733d339d14b3611f581a2b618acf0e143a6b1f7a7de62274d6846bb55ad",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.taiyaki_anime",
+        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+        "size": 15149439,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 3145729,
+        "versionName": "1.0"
+      },
+      {
+        "added": 1597730472000,
+        "apkName": "com.taiyaki_anime_v1.0_2097153.apk",
+        "hash": "23e3ce2bf8bcbfe733674e96e90e1da12aef570475e3f1d10b2b93aebfe2bfc5",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "x86"
+        ],
+        "packageName": "com.taiyaki_anime",
+        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+        "size": 15103533,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 2097153,
+        "versionName": "1.0"
+      },
+      {
+        "added": 1597730469000,
+        "apkName": "com.taiyaki_anime_v1.0_1048577.apk",
+        "hash": "e28a77537e312153c8354dac10cbc79492b5ecabf44dde4d51189dffd4c65880",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.taiyaki_anime",
+        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+        "size": 14793603,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1048577,
+        "versionName": "1.0"
+      },
+      {
+        "added": 1597730466000,
+        "apkName": "com.taiyaki_anime_v1.0_1.apk",
+        "hash": "5992b06365247354ccf3d4220c368683d2660a91a818b5f821d142ef089bf699",
+        "hashType": "sha256",
+        "minSdkVersion": 17,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.taiyaki_anime",
+        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+        "size": 30658731,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "com.android.vending.CHECK_LICENSE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "1.0"
+      }
+    ],
     "com.yihengquan.gogoanime": [
       {
-        "added": 1593541199000,
+        "added": 1597730485000,
         "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
         "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
         "hashType": "sha256",
@@ -786,7 +1325,7 @@
         "versionName": "1.2.1"
       },
       {
-        "added": 1593541199000,
+        "added": 1597730485000,
         "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
         "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
         "hashType": "sha256",
@@ -812,7 +1351,47 @@
     ],
     "info.horriblesubs.sher": [
       {
-        "added": 1593541202000,
+        "added": 1597730488000,
+        "apkName": "info.horriblesubs.sher_v0.9.0-beta4_90.apk",
+        "hash": "73be5c4d5774abb35c13d59988162c977bbf1dfbc891d502139216e0fa9f5aa0",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "info.horriblesubs.sher",
+        "sig": "5d20c70dea2bef35b913242683e5d771",
+        "signer": "bbaa660b6fed975484f0790631145a897af5d2c5f4382764277eec7aa6d7a114",
+        "size": 11484329,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 90,
+        "versionName": "0.9.0-beta4"
+      },
+      {
+        "added": 1597730534000,
         "apkName": "info.horriblesubs.sher_v0.9.0-beta3_89-.apk",
         "hash": "ff054d0088f9acbfe3230109e0365a163d06c813d3603d1d7c066aa3f4df20da",
         "hashType": "sha256",
@@ -854,7 +1433,7 @@
     ],
     "me.devsaki.hentoid": [
       {
-        "added": 1596563363000,
+        "added": 1597730536000,
         "apkName": "me.devsaki.hentoid_v1.12.4_253.apk",
         "hash": "c4ec0c2f7b9f2aa90362150288e0d1bda714be639ea9b93e268fdad7bb0b5b1f",
         "hashType": "sha256",
@@ -926,7 +1505,7 @@
     ],
     "me.echeung.moemoekyun.fdroid": [
       {
-        "added": 1595551393000,
+        "added": 1597730538000,
         "apkName": "me.echeung.moemoekyun.fdroid_91.apk",
         "hash": "a051158fa8f7502b302fb4f7dbeabbea80f589293ef1da1066760f073cd585f8",
         "hashType": "sha256",
@@ -960,7 +1539,7 @@
     ],
     "moe.feng.nhentai": [
       {
-        "added": 1595551394000,
+        "added": 1597730540000,
         "antiFeatures": [
           "NoSourceSince"
         ],
@@ -1001,7 +1580,7 @@
     ],
     "net.android.adm": [
       {
-        "added": 1592865131000,
+        "added": 1597730544000,
         "apkName": "net.android.adm_v7.1.5_152.apk",
         "hash": "4a2732f4ccd21602c7cdf9b94edd3c3f83fee0eee6afffe5b98e53d5d42bf44c",
         "hashType": "sha256",
@@ -1067,7 +1646,7 @@
     ],
     "net.android.hdlr": [
       {
-        "added": 1592865133000,
+        "added": 1597730546000,
         "apkName": "net.android.hdlr_v2.5.2_24.apk",
         "hash": "2e25c708155c42382f64e9580889b9c4d0893e284431d745896043ae0ed7da0c",
         "hashType": "sha256",
@@ -1129,7 +1708,7 @@
     ],
     "net.android.kamuy": [
       {
-        "added": 1592865135000,
+        "added": 1597730549000,
         "apkName": "net.android.kamuy_v3.0.2_38.apk",
         "hash": "6b61289d9fd8f27320cd94c31cb775f3ba0664c69fbb2e12fca210553bff1789",
         "hashType": "sha256",
@@ -1203,7 +1782,7 @@
     ],
     "net.android.mdm": [
       {
-        "added": 1592865137000,
+        "added": 1597730552000,
         "apkName": "net.android.mdm_v8.0.4_142.apk",
         "hash": "e9e1166d520fe08b22d01771cff6b8711a28bfbb8cc5bd0a6fd96b1a9986f50e",
         "hashType": "sha256",
@@ -1277,7 +1856,7 @@
     ],
     "net.cyl.ranobe": [
       {
-        "added": 1592865139000,
+        "added": 1597730555000,
         "apkName": "net.cyl.ranobe_v3.1.1_33.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -1354,7 +1933,7 @@
     ],
     "net.somethingdreadful.MAL": [
       {
-        "added": 1595551395000,
+        "added": 1597730556000,
         "apkName": "net.somethingdreadful.MAL_14.apk",
         "hash": "ad7a10ec80c5819719e62cdddbab2e15265d2123631b188fa12e42fddd59f233",
         "hashType": "sha256",
@@ -1392,7 +1971,7 @@
     ],
     "org.koitharu.kotatsu": [
       {
-        "added": 1594968279000,
+        "added": 1597730558000,
         "apkName": "org.koitharu.kotatsu_v0.5-rc3_231.apk",
         "hash": "7483d762f2bfc8e78fcbcc941abcc9234e718ac948fc509b6c4a59eb66beb610",
         "hashType": "sha256",
@@ -1442,7 +2021,7 @@
     ],
     "top.rechinx.meow": [
       {
-        "added": 1592865141000,
+        "added": 1597730561000,
         "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
         "hash": "649c7c9cdef573c7da63d49f95dbfbbe518905ef7afd704718d800997759264b",
         "hashType": "sha256",
@@ -1496,7 +2075,7 @@
     ],
     "xyz.kurozero.nekosmoe": [
       {
-        "added": 1592868311000,
+        "added": 1597730562000,
         "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
         "hash": "8a191d8a2095d7fe47b97fc1ae984c42f0ab347a6650bb94615bee8748a955bb",
         "hashType": "sha256",
