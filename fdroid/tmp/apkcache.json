@@ -434,7 +434,7 @@
     "added": 1597755661.936556
   },
   "com.taiyaki_anime_v1.0_1.apk": {
-    "hash": "5992b06365247354ccf3d4220c368683d2660a91a818b5f821d142ef089bf699",
+    "hash": "f4332d278a6190324321b891a3495cc317af85d33b552c0abcd633a668cd0998",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -454,27 +454,19 @@
         null
       ],
       [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
         "android.permission.WAKE_LOCK",
         null
       ],
       [
         "android.permission.GET_TASKS",
-        null
-      ],
-      [
-        "com.android.vending.CHECK_LICENSE",
-        null
-      ],
-      [
-        "android.permission.ACCESS_NETWORK_STATE",
-        null
-      ],
-      [
-        "android.permission.ACCESS_WIFI_STATE",
-        null
-      ],
-      [
-        "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
@@ -571,9 +563,9 @@
     "antiFeatures": [],
     "packageName": "com.taiyaki_anime",
     "versionCode": 1,
-    "name": "Taiyaki_Anime",
+    "name": "Taiyaki",
     "versionName": "1.0",
-    "minSdkVersion": 17,
+    "minSdkVersion": 16,
     "targetSdkVersion": 29,
     "nativecode": [
       "arm64-v8a",
@@ -583,10 +575,10 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 30658731,
+    "size": 30599713,
     "apkName": "com.taiyaki_anime_v1.0_1.apk",
     "icon": "com.taiyaki_anime.1.png",
-    "added": 1597755666.427658
+    "added": 1597946467.176699
   },
   "com.taiyaki_anime_v1.0_1048577.apk": {
     "hash": "e28a77537e312153c8354dac10cbc79492b5ecabf44dde4d51189dffd4c65880",
@@ -3586,5 +3578,96 @@
     "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
     "icon": "xyz.kurozero.nekosmoe.20.png",
     "added": 1597755762.894558
+  },
+  "me.devsaki.hentoid_v1.12.6_255.apk": {
+    "hash": "3e784d67fd952a2a02f89d488e365163cd311616e2e59db77ce51460fb17243e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "me.devsaki.hentoid.255.png",
+      "480": "me.devsaki.hentoid.255.png",
+      "320": "me.devsaki.hentoid.255.png",
+      "240": "me.devsaki.hentoid.255.png",
+      "160": "me.devsaki.hentoid.255.png",
+      "0": "me.devsaki.hentoid.255.png"
+    },
+    "antiFeatures": [],
+    "packageName": "me.devsaki.hentoid",
+    "versionCode": 255,
+    "name": "Hentoid",
+    "versionName": "1.12.6",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "6bbfea03161591765c4ae69fbe1e36bd",
+    "signer": "763ccebf10274ca1f4325b050aad6727a977070b35ec65319bf5f5e95dcbec71",
+    "size": 7594680,
+    "apkName": "me.devsaki.hentoid_v1.12.6_255.apk",
+    "icon": "me.devsaki.hentoid.255.png",
+    "added": 1598718197.568204
   }
 }
