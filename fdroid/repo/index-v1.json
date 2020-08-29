@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1598693734000,
+    "timestamp": 1599620460000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -276,9 +276,8 @@
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
       "added": 1598693583000,
-      "icon": "org.koitharu.kotatsu.234.png",
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1598693731000,
+      "lastUpdated": 1599619999000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -1491,15 +1490,15 @@
     ],
     "org.koitharu.kotatsu": [
       {
-        "added": 1598693583000,
-        "apkName": "org.koitharu.kotatsu_v0.5_234.apk",
-        "hash": "e80b740e69a502968d97b04d9863dcb72213de43760bbd8579ae66c06987138f",
+        "added": 1599619999000,
+        "apkName": "org.koitharu.kotatsu_v0.5.1_241.apk",
+        "hash": "5bf036ca3c578e1138b441403bc96aef1b7ef30b181f2c9d8eb6011a2f23abd1",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "packageName": "org.koitharu.kotatsu",
         "sig": "dd481767ec88795ce0a97b82ecfae931",
         "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
-        "size": 2936207,
+        "size": 3048635,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1535,8 +1534,8 @@
             null
           ]
         ],
-        "versionCode": 234,
-        "versionName": "0.5"
+        "versionCode": 241,
+        "versionName": "0.5.1"
       }
     ],
     "top.rechinx.meow": [

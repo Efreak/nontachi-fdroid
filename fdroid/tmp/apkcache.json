@@ -3669,5 +3669,59 @@
     "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
     "icon": "xyz.kurozero.nekosmoe.20.png",
     "added": 1598718934.606172
+  },
+  "org.koitharu.kotatsu_v0.5.1_241.apk": {
+    "hash": "5bf036ca3c578e1138b441403bc96aef1b7ef30b181f2c9d8eb6011a2f23abd1",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.koitharu.kotatsu",
+    "versionCode": 241,
+    "name": "Kotatsu",
+    "versionName": "0.5.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "dd481767ec88795ce0a97b82ecfae931",
+    "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+    "size": 3048635,
+    "apkName": "org.koitharu.kotatsu_v0.5.1_241.apk",
+    "added": 1599645199.220533
   }
 }
