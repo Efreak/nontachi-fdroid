@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="Unofficial Anime/Manga F-Droid Archive" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1599620468" url="https://animanga.efreakbnc.net/fdroid/archive" version="21">
+	<repo icon="fdroid-icon.png" name="Unofficial Anime/Manga F-Droid Archive" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1600203134" url="https://animanga.efreakbnc.net/fdroid/archive" version="21">
 		<description>This is an archive of open and closed source anime/manga related apps. Applications in this repository are official binaries built and signed by their respective developers and copied to this directory. </description>
 		<mirror>https://animanga.cloud.efreakbnc.net/fdroid/archive</mirror>
 		<mirror>https://animanga.netlify.com/fdroid/archive</mirror>
+		<mirror>https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/archive</mirror>
 		<mirror>https://efreak.gitlab.io/nontachi-fdroid/fdroid/archive</mirror>
 		<mirror>https://gitlab.com/efreak/nontachi-fdroid/raw/master/fdroid/archive</mirror>
-		<mirror>https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/archive</mirror>
 	</repo>
 	<application id="com.jparkie.aizoban">
 		<id>com.jparkie.aizoban</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Aizōban</name>
 		<summary></summary>
 		<icon>com.jparkie.aizoban.27.png</icon>
@@ -32,15 +32,15 @@
 			<size>5399998</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>21</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>4e119dd2edab9b759b84354a9a61477c</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="info.horriblesubs.sher">
 		<id>info.horriblesubs.sher</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>an!me</name>
 		<summary>an!me - better ongoing, android application</summary>
 		<icon>info.horriblesubs.sher.90.png</icon>
@@ -64,7 +64,7 @@
 			<size>11484329</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>5d20c70dea2bef35b913242683e5d771</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 		</package>
@@ -76,15 +76,15 @@
 			<size>11446643</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>5d20c70dea2bef35b913242683e5d771</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 		</package>
 	</application>
 	<application id="com.crazyxacker.apps.anilabx3">
 		<id>com.crazyxacker.apps.anilabx3</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>AniLabX3</name>
 		<summary>AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels</summary>
 		<icon>com.crazyxacker.apps.anilabx3.160.png</icon>
@@ -107,7 +107,7 @@
 			<size>13549125</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>d8d80b25feb4c7616bf26dc8f28a0d77</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_ACCOUNTS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.CHECK_LICENSE,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -115,8 +115,8 @@
 	</application>
 	<application id="com.freezingwind.animereleasenotifier">
 		<id>com.freezingwind.animereleasenotifier</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Anime Release Notifier</name>
 		<summary></summary>
 		<icon>com.freezingwind.animereleasenotifier.9.png</icon>
@@ -137,15 +137,15 @@
 			<size>1012235</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>21</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>ac2a01b80224aa12bd4820003dc68126</sig>
 			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,com.android.alarm.permission.SET_ALARM</permissions>
 		</package>
 	</application>
 	<application id="net.android.adm">
 		<id>net.android.adm</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>AnimeDLR</name>
 		<summary>AnimeDLR is an anime downloader for android</summary>
 		<icon>net.android.adm.152.png</icon>
@@ -168,15 +168,15 @@
 			<size>7921048</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>f928af2e4adcc563f8306f51ed36a866</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 		</package>
 	</application>
 	<application id="com.yihengquan.gogoanime">
 		<id>com.yihengquan.gogoanime</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>AnimeGo-Re</name>
 		<summary>GoGoAnime client</summary>
 		<icon>com.yihengquan.gogoanime.3.png</icon>
@@ -199,7 +199,7 @@
 			<size>14474463</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>0340aa9cc2cf98487881a52c439b5c37</sig>
 			<permissions>INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -207,8 +207,8 @@
 	</application>
 	<application id="net.somethingdreadful.MAL">
 		<id>net.somethingdreadful.MAL</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Atarashii!</name>
 		<summary></summary>
 		<icon>net.somethingdreadful.MAL.14.png</icon>
@@ -230,15 +230,15 @@
 			<size>1416691</size>
 			<sdkver>8</sdkver>
 			<targetSdkVersion>17</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>ff98aaae50479451f5b90b7fa2ee10ee</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="net.android.hdlr">
 		<id>net.android.hdlr</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>H-DLR</name>
 		<summary>Enjoy your Hentai collection anywhere and anytime</summary>
 		<icon>net.android.hdlr.24.png</icon>
@@ -261,15 +261,15 @@
 			<size>4039863</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>530dcea5e374ea6cae941517ec897363</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 		</package>
 	</application>
 	<application id="me.devsaki.hentoid">
 		<id>me.devsaki.hentoid</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Hentoid</name>
 		<summary>Hentoid is an ad-free Doujinshi &amp; H-Manga archiving and viewing app.</summary>
 		<icon>me.devsaki.hentoid.254.png</icon>
@@ -292,7 +292,7 @@
 			<size>7594253</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -305,7 +305,7 @@
 			<size>7594273</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -313,8 +313,8 @@
 	</application>
 	<application id="net.android.kamuy">
 		<id>net.android.kamuy</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Kamuy</name>
 		<summary>Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList</summary>
 		<icon>net.android.kamuy.38.png</icon>
@@ -337,15 +337,15 @@
 			<size>4521937</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>ea3b0343873ff94021bb9b53f856a1dc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY</permissions>
 		</package>
 	</application>
 	<application id="org.koitharu.kotatsu">
 		<id>org.koitharu.kotatsu</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-09-09</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Kotatsu</name>
 		<summary>Kotatsu is a free and open source manga reader for Android</summary>
 		<icon>org.koitharu.kotatsu.234.png</icon>
@@ -369,7 +369,7 @@
 			<size>2936207</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>dd481767ec88795ce0a97b82ecfae931</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -381,15 +381,15 @@
 			<size>2937564</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>dd481767ec88795ce0a97b82ecfae931</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="me.echeung.moemoekyun.fdroid">
 		<id>me.echeung.moemoekyun.fdroid</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>LISTEN.moe</name>
 		<summary></summary>
 		<icon>me.echeung.moemoekyun.fdroid.91.png</icon>
@@ -411,15 +411,15 @@
 			<size>3894260</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>25a69c2fc52e8a15c82acc688ad4100d</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK</permissions>
 		</package>
 	</application>
 	<application id="net.android.mdm">
 		<id>net.android.mdm</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>MangaDLR</name>
 		<summary>MangaDLR is an android manga reader and downloader that supports CBZ.</summary>
 		<icon>net.android.mdm.142.png</icon>
@@ -442,15 +442,15 @@
 			<size>16569495</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>6ee16f956a8defaa43ebb39b52e2b70e</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,SET_WALLPAPER,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES</permissions>
 		</package>
 	</application>
 	<application id="top.rechinx.meow">
 		<id>top.rechinx.meow</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Meow</name>
 		<summary>Yet another free and open source manga reader</summary>
 		<icon>top.rechinx.meow.6.png</icon>
@@ -473,15 +473,15 @@
 			<size>5605061</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>378cb6bd74429bbf047fd6e679451f22</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="xyz.kurozero.nekosmoe">
 		<id>xyz.kurozero.nekosmoe</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Nekos</name>
 		<summary>Nekos - Search, Download and Share catgirls</summary>
 		<icon>xyz.kurozero.nekosmoe.20.png</icon>
@@ -505,7 +505,7 @@
 			<size>7794960</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>e8a0a467634099a008f330890e2a9b1a</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_NETWORK_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
@@ -513,8 +513,8 @@
 	</application>
 	<application id="moe.feng.nhentai">
 		<id>moe.feng.nhentai</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>NHBooks</name>
 		<summary></summary>
 		<icon>moe.feng.nhentai.36.png</icon>
@@ -537,15 +537,15 @@
 			<size>2600279</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>2644a7732874b1c179ec071d4246fc19</sig>
 			<permissions>ACCESS_WIFI_STATE,CLEAR_APP_CACHE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="net.cyl.ranobe">
 		<id>net.cyl.ranobe</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>Ranobe</name>
 		<summary>Ranobe is an app to read and download light novels</summary>
 		<icon>net.cyl.ranobe.33.png</icon>
@@ -568,7 +568,7 @@
 			<size>4722743</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>7bfa959fb9b2201371a7b1f06f6522d2</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<features>android.hardware.touchscreen</features>
@@ -576,8 +576,8 @@
 	</application>
 	<application id="com.example.taiyaki_anime">
 		<id>com.example.taiyaki_anime</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>TaiYakiAnime</name>
 		<summary>Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL</summary>
 		<icon>com.example.taiyaki_anime.4001.png</icon>
@@ -600,7 +600,7 @@
 			<size>32396820</size>
 			<sdkver>17</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>c3f760e0c482d112a53f9fc7d3841203</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,RECEIVE_BOOT_COMPLETED</permissions>
 			<nativecode>x86_64</nativecode>
@@ -613,7 +613,7 @@
 			<size>30575854</size>
 			<sdkver>17</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>c3f760e0c482d112a53f9fc7d3841203</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,RECEIVE_BOOT_COMPLETED</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -626,7 +626,7 @@
 			<size>29868749</size>
 			<sdkver>17</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>c3f760e0c482d112a53f9fc7d3841203</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,RECEIVE_BOOT_COMPLETED</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -634,8 +634,8 @@
 	</application>
 	<application id="com.taiyaki_anime">
 		<id>com.taiyaki_anime</id>
-		<added>2020-08-29</added>
-		<lastupdated>2020-08-29</lastupdated>
+		<added>2020-09-15</added>
+		<lastupdated>2020-09-15</lastupdated>
 		<name>TaiYakiAnime</name>
 		<summary>Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL</summary>
 		<icon>com.taiyaki_anime.3145729.png</icon>
@@ -658,7 +658,7 @@
 			<size>15149439</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -671,7 +671,7 @@
 			<size>15103533</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>x86</nativecode>
@@ -684,7 +684,7 @@
 			<size>14793603</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -697,7 +697,7 @@
 			<size>30599713</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-08-29</added>
+			<added>2020-09-15</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
