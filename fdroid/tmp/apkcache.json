@@ -3723,5 +3723,850 @@
     "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
     "icon": "xyz.kurozero.nekosmoe.20.png",
     "added": 1600228326.775778
+  },
+  "com.taiyakianime_v1.0_1.apk": {
+    "hash": "1f2d7bdc0023da6cc990091b2ef7f13707c61c085537fb4edcd10c6a8771cf6e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.taiyakianime.permission.C2D_MESSAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.android.vending.CHECK_LICENSE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.READ",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.WRITE",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        null
+      ],
+      [
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        null
+      ],
+      [
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        null
+      ],
+      [
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        null
+      ],
+      [
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.READ_APP_BADGE",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.taiyakianime.1.png",
+      "480": "com.taiyakianime.1.png",
+      "320": "com.taiyakianime.1.png",
+      "240": "com.taiyakianime.1.png",
+      "160": "com.taiyakianime.1.png",
+      "0": "com.taiyakianime.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.taiyakianime",
+    "versionCode": 1,
+    "name": "Taiyaki",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+    "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+    "size": 30613152,
+    "apkName": "com.taiyakianime_v1.0_1.apk",
+    "icon": "com.taiyakianime.1.png",
+    "added": 1602165677.41158
+  },
+  "com.taiyakianime_v1.0_1048577.apk": {
+    "hash": "d34d8d91e570409fe03ef794ff1a04bafbc7ef92a70a529eacf1c7bc75e731a1",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.taiyakianime.permission.C2D_MESSAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.android.vending.CHECK_LICENSE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.READ",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.WRITE",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        null
+      ],
+      [
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        null
+      ],
+      [
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        null
+      ],
+      [
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        null
+      ],
+      [
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.READ_APP_BADGE",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.taiyakianime.1048577.png",
+      "480": "com.taiyakianime.1048577.png",
+      "320": "com.taiyakianime.1048577.png",
+      "240": "com.taiyakianime.1048577.png",
+      "160": "com.taiyakianime.1048577.png",
+      "0": "com.taiyakianime.1048577.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.taiyakianime",
+    "versionCode": 1048577,
+    "name": "Taiyaki",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "armeabi-v7a"
+    ],
+    "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+    "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+    "size": 13812582,
+    "apkName": "com.taiyakianime_v1.0_1048577.apk",
+    "icon": "com.taiyakianime.1048577.png",
+    "added": 1602165679.31073
+  },
+  "com.taiyakianime_v1.0_2097153.apk": {
+    "hash": "0bca61e0946dbe5cd1e914c69fcbd8ec1f991c190ada50377284ad9e23c9af03",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.taiyakianime.permission.C2D_MESSAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.android.vending.CHECK_LICENSE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.READ",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.WRITE",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        null
+      ],
+      [
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        null
+      ],
+      [
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        null
+      ],
+      [
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        null
+      ],
+      [
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.READ_APP_BADGE",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.taiyakianime.2097153.png",
+      "480": "com.taiyakianime.2097153.png",
+      "320": "com.taiyakianime.2097153.png",
+      "240": "com.taiyakianime.2097153.png",
+      "160": "com.taiyakianime.2097153.png",
+      "0": "com.taiyakianime.2097153.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.taiyakianime",
+    "versionCode": 2097153,
+    "name": "Taiyaki",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "x86"
+    ],
+    "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+    "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+    "size": 13979159,
+    "apkName": "com.taiyakianime_v1.0_2097153.apk",
+    "icon": "com.taiyakianime.2097153.png",
+    "added": 1602165681.25566
+  },
+  "com.taiyakianime_v1.0_3145729.apk": {
+    "hash": "00df9fa94120df9af54cb304c6b4c6408e19b4ab47334d2023e9d34ff8548a82",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.taiyakianime.permission.C2D_MESSAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.android.vending.CHECK_LICENSE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.READ",
+        null
+      ],
+      [
+        "com.sec.android.provider.badge.permission.WRITE",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        null
+      ],
+      [
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        null
+      ],
+      [
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+        null
+      ],
+      [
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        null
+      ],
+      [
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.READ_APP_BADGE",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        null
+      ],
+      [
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_READ",
+        null
+      ],
+      [
+        "me.everything.badger.permission.BADGE_COUNT_WRITE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.taiyakianime.3145729.png",
+      "480": "com.taiyakianime.3145729.png",
+      "320": "com.taiyakianime.3145729.png",
+      "240": "com.taiyakianime.3145729.png",
+      "160": "com.taiyakianime.3145729.png",
+      "0": "com.taiyakianime.3145729.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.taiyakianime",
+    "versionCode": 3145729,
+    "name": "Taiyaki",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+    "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+    "size": 14154222,
+    "apkName": "com.taiyakianime_v1.0_3145729.apk",
+    "icon": "com.taiyakianime.3145729.png",
+    "added": 1602165683.130905
+  },
+  "com.taiyakianime_v1.0_4194305.apk": {
+    "hash": "42615b482893d2adba8cd695504a5d3be8070bb29141daa6e9bb269af8903c31",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.android.vending.CHECK_LICENSE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.taiyakianime.4194305.png",
+      "480": "com.taiyakianime.4194305.png",
+      "320": "com.taiyakianime.4194305.png",
+      "240": "com.taiyakianime.4194305.png",
+      "160": "com.taiyakianime.4194305.png",
+      "0": "com.taiyakianime.4194305.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.taiyakianime",
+    "versionCode": 4194305,
+    "name": "Taiyaki",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "x86_64"
+    ],
+    "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+    "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+    "size": 13827386,
+    "apkName": "com.taiyakianime_v1.0_4194305.apk",
+    "icon": "com.taiyakianime.4194305.png",
+    "added": 1602108085.155275
+  },
+  "me.devsaki.hentoid_v1.12.7_257.apk": {
+    "hash": "ba0f79bb016a735569a25f24779f1ddc4fe77a8e0676b96a06d87d1a36b43c53",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "me.devsaki.hentoid.257.png",
+      "480": "me.devsaki.hentoid.257.png",
+      "320": "me.devsaki.hentoid.257.png",
+      "240": "me.devsaki.hentoid.257.png",
+      "160": "me.devsaki.hentoid.257.png",
+      "0": "me.devsaki.hentoid.257.png"
+    },
+    "antiFeatures": [],
+    "packageName": "me.devsaki.hentoid",
+    "versionCode": 257,
+    "name": "Hentoid",
+    "versionName": "1.12.7",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "6bbfea03161591765c4ae69fbe1e36bd",
+    "signer": "763ccebf10274ca1f4325b050aad6727a977070b35ec65319bf5f5e95dcbec71",
+    "size": 7629454,
+    "apkName": "me.devsaki.hentoid_v1.12.7_257.apk",
+    "icon": "me.devsaki.hentoid.257.png",
+    "added": 1602108087.427564
+  },
+  "org.koitharu.kotatsu_v0.5.4_251.apk": {
+    "hash": "ca09919751b74777c1c0352b5ce15a8b1409fb6792c4d2573679c9ff5d00acc6",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "org.koitharu.kotatsu.251.xml",
+      "640": "org.koitharu.kotatsu.251.png",
+      "480": "org.koitharu.kotatsu.251.png",
+      "320": "org.koitharu.kotatsu.251.png",
+      "240": "org.koitharu.kotatsu.251.png",
+      "160": "org.koitharu.kotatsu.251.png",
+      "0": "org.koitharu.kotatsu.251.png"
+    },
+    "antiFeatures": [],
+    "packageName": "org.koitharu.kotatsu",
+    "versionCode": 251,
+    "name": "Kotatsu",
+    "versionName": "0.5.4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "dd481767ec88795ce0a97b82ecfae931",
+    "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+    "size": 3145749,
+    "apkName": "org.koitharu.kotatsu_v0.5.4_251.apk",
+    "icon": "org.koitharu.kotatsu.251.png",
+    "added": 1602108089.481299
   }
 }
