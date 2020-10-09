@@ -3725,7 +3725,7 @@
     "added": 1600228326.775778
   },
   "com.taiyakianime_v1.0_1.apk": {
-    "hash": "1f2d7bdc0023da6cc990091b2ef7f13707c61c085537fb4edcd10c6a8771cf6e",
+    "hash": "878a64600662e5e7bede5c5adda870b9c955db2368637314404fe24ff31b1c63",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -3737,15 +3737,19 @@
         null
       ],
       [
-        "com.taiyakianime.permission.C2D_MESSAGE",
-        null
-      ],
-      [
         "android.permission.VIBRATE",
         null
       ],
       [
         "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
         null
       ],
       [
@@ -3761,15 +3765,15 @@
         null
       ],
       [
-        "android.permission.WRITE_EXTERNAL_STORAGE",
-        null
-      ],
-      [
         "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
         "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -3834,10 +3838,6 @@
       ],
       [
         "me.everything.badger.permission.BADGE_COUNT_WRITE",
-        null
-      ],
-      [
-        "android.permission.READ_EXTERNAL_STORAGE",
         null
       ]
     ],
@@ -3874,13 +3874,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 30613152,
+    "size": 31434640,
     "apkName": "com.taiyakianime_v1.0_1.apk",
     "icon": "com.taiyakianime.1.png",
-    "added": 1602165677.41158
+    "added": 1603029677.674995
   },
   "com.taiyakianime_v1.0_1048577.apk": {
-    "hash": "d34d8d91e570409fe03ef794ff1a04bafbc7ef92a70a529eacf1c7bc75e731a1",
+    "hash": "f5e21cacd59aabaff13e99f4af025cd3469802a9fe5e8a4dfedcb5f398d46970",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -3892,15 +3892,19 @@
         null
       ],
       [
-        "com.taiyakianime.permission.C2D_MESSAGE",
-        null
-      ],
-      [
         "android.permission.VIBRATE",
         null
       ],
       [
         "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
         null
       ],
       [
@@ -3916,15 +3920,15 @@
         null
       ],
       [
-        "android.permission.WRITE_EXTERNAL_STORAGE",
-        null
-      ],
-      [
         "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
         "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -3989,10 +3993,6 @@
       ],
       [
         "me.everything.badger.permission.BADGE_COUNT_WRITE",
-        null
-      ],
-      [
-        "android.permission.READ_EXTERNAL_STORAGE",
         null
       ]
     ],
@@ -4026,13 +4026,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 13812582,
+    "size": 14634055,
     "apkName": "com.taiyakianime_v1.0_1048577.apk",
     "icon": "com.taiyakianime.1048577.png",
-    "added": 1602165679.31073
+    "added": 1603029680.130443
   },
   "com.taiyakianime_v1.0_2097153.apk": {
-    "hash": "0bca61e0946dbe5cd1e914c69fcbd8ec1f991c190ada50377284ad9e23c9af03",
+    "hash": "62c98f7d357815b00a34e4943ad9977b2dd4b037567074a918b342c9e6f962d0",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -4044,15 +4044,19 @@
         null
       ],
       [
-        "com.taiyakianime.permission.C2D_MESSAGE",
-        null
-      ],
-      [
         "android.permission.VIBRATE",
         null
       ],
       [
         "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
         null
       ],
       [
@@ -4068,15 +4072,15 @@
         null
       ],
       [
-        "android.permission.WRITE_EXTERNAL_STORAGE",
-        null
-      ],
-      [
         "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
         "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -4141,10 +4145,6 @@
       ],
       [
         "me.everything.badger.permission.BADGE_COUNT_WRITE",
-        null
-      ],
-      [
-        "android.permission.READ_EXTERNAL_STORAGE",
         null
       ]
     ],
@@ -4178,13 +4178,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 13979159,
+    "size": 14800643,
     "apkName": "com.taiyakianime_v1.0_2097153.apk",
     "icon": "com.taiyakianime.2097153.png",
-    "added": 1602165681.25566
+    "added": 1603029682.227053
   },
   "com.taiyakianime_v1.0_3145729.apk": {
-    "hash": "00df9fa94120df9af54cb304c6b4c6408e19b4ab47334d2023e9d34ff8548a82",
+    "hash": "d71e657fb52946c6d79b3cc448475d65c2b70f9a5c0249079a381fdf54efff60",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -4196,15 +4196,19 @@
         null
       ],
       [
-        "com.taiyakianime.permission.C2D_MESSAGE",
-        null
-      ],
-      [
         "android.permission.VIBRATE",
         null
       ],
       [
         "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
         null
       ],
       [
@@ -4220,15 +4224,15 @@
         null
       ],
       [
-        "android.permission.WRITE_EXTERNAL_STORAGE",
-        null
-      ],
-      [
         "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
         "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -4294,10 +4298,6 @@
       [
         "me.everything.badger.permission.BADGE_COUNT_WRITE",
         null
-      ],
-      [
-        "android.permission.READ_EXTERNAL_STORAGE",
-        null
       ]
     ],
     "uses-permission-sdk-23": [],
@@ -4330,10 +4330,10 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 14154222,
+    "size": 14975698,
     "apkName": "com.taiyakianime_v1.0_3145729.apk",
     "icon": "com.taiyakianime.3145729.png",
-    "added": 1602165683.130905
+    "added": 1603029684.50839
   },
   "com.taiyakianime_v1.0_4194305.apk": {
     "hash": "42615b482893d2adba8cd695504a5d3be8070bb29141daa6e9bb269af8903c31",

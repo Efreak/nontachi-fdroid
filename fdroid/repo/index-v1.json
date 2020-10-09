@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602255749000,
+    "timestamp": 1603191680000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -505,18 +505,6 @@
       "lastUpdated": 1600203039000
     },
     {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "Taiyaki",
-      "added": 1602082885000,
-      "icon": "com.taiyakianime.4194305.png",
-      "packageName": "com.taiyakianime",
-      "lastUpdated": 1602140483000
-    },
-    {
       "antiFeatures": [
         "Tracking",
         "UpstreamNonFree",
@@ -548,6 +536,29 @@
           ]
         }
       }
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "NoSourceSince"
+      ],
+      "authorName": "Michael24884",
+      "categories": [
+        "Multimedia",
+        "Manga/Anime"
+      ],
+      "suggestedVersionCode": "4194305",
+      "description": "<p>Notes: This app is in beta, and seems to be in active development.</p><p>= TaiYaKi =</p><p>Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi</p><p>=== App is Currently in Beta ===</p><p>=== Compatible with iPhone and iPad =&amp;gt; iOS 11.3+ &amp;amp; Android 5.0+ ===</p><p>=== Features ===</p><ul><li> Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary</li><li> Multiple sources to choose from</li><li> Uses the Jikan &amp;amp; the SIMKL API</li><li> Progress automatically updates to your MAL/SIMKL list as you watch</li><li> Binge Watching(coming soon!)</li><li> Constantly updated!</li></ul><p>The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson</p>",
+      "issueTracker": "https://github.com/Michael24884/TaiYaKiAnime/issues",
+      "license": "Unknown",
+      "name": "TaiYakiAnime",
+      "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
+      "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
+      "added": 1602082885000,
+      "icon": "com.taiyakianime.4194305.png",
+      "packageName": "com.taiyakianime",
+      "lastUpdated": 1603004484000
     }
   ],
   "packages": {
