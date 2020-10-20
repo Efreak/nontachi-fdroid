@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1603191685000,
+    "timestamp": 1603508485000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -8,10 +8,7 @@
     "description": "This is an archive of open and closed source anime/manga related apps. Applications in this repository are official binaries built and signed by their respective developers and copied to this directory. ",
     "mirrors": [
       "https://animanga.cloud.efreakbnc.net/fdroid/archive",
-      "https://animanga.netlify.com/fdroid/archive",
-      "https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/archive",
-      "https://efreak.gitlab.io/nontachi-fdroid/fdroid/archive",
-      "https://gitlab.com/efreak/nontachi-fdroid/raw/master/fdroid/archive"
+      "https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/archive"
     ]
   },
   "requests": {
@@ -31,10 +28,10 @@
       "name": "Aiz\u014dban",
       "sourceCode": "https://github.com/jparkie/Aizoban",
       "webSite": "https://jparkie.github.io/Aizoban",
-      "added": 1600203085000,
+      "added": 1603326954000,
       "icon": "com.jparkie.aizoban.27.png",
       "packageName": "com.jparkie.aizoban",
-      "lastUpdated": 1600203085000
+      "lastUpdated": 1603326954000
     },
     {
       "antiFeatures": [
@@ -56,10 +53,10 @@
       "name": "an!me",
       "sourceCode": "https://github.com/Sher1234/Horrible",
       "summary": "an!me - better ongoing, android application",
-      "added": 1600203091000,
+      "added": 1603326967000,
       "icon": "info.horriblesubs.sher.90.png",
       "packageName": "info.horriblesubs.sher",
-      "lastUpdated": 1600203095000
+      "lastUpdated": 1603326968000
     },
     {
       "antiFeatures": [
@@ -81,10 +78,10 @@
       "name": "AniLabX3",
       "summary": "AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels",
       "webSite": "https://mangawatcherx.com",
-      "added": 1600203017000,
+      "added": 1603326901000,
       "icon": "com.crazyxacker.apps.anilabx3.160.png",
       "packageName": "com.crazyxacker.apps.anilabx3",
-      "lastUpdated": 1600203072000
+      "lastUpdated": 1603326943000
     },
     {
       "categories": [
@@ -98,10 +95,10 @@
       "name": "Anime Release Notifier",
       "sourceCode": "https://github.com/blitzprog/anime-release-notifier-android",
       "webSite": "https://animereleasenotifier.com",
-      "added": 1600203083000,
+      "added": 1603326952000,
       "icon": "com.freezingwind.animereleasenotifier.9.png",
       "packageName": "com.freezingwind.animereleasenotifier",
-      "lastUpdated": 1600203083000
+      "lastUpdated": 1603326952000
     },
     {
       "antiFeatures": [
@@ -123,10 +120,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/animedlr/src",
       "summary": "AnimeDLR is an anime downloader for android",
       "webSite": "https://cylonu87.github.io/androidapps/animedlr",
-      "added": 1600203049000,
+      "added": 1603326927000,
       "icon": "net.android.adm.152.png",
       "packageName": "net.android.adm",
-      "lastUpdated": 1600203106000,
+      "lastUpdated": 1603326984000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -156,10 +153,10 @@
       "sourceCode": "https://github.com/HenryQuan/AnimeGo-Re",
       "summary": "GoGoAnime client",
       "webSite": "https://henryquan.github.io/AnimeGo-Re",
-      "added": 1600203041000,
+      "added": 1603326921000,
       "icon": "com.yihengquan.gogoanime.3.png",
       "packageName": "com.yihengquan.gogoanime",
-      "lastUpdated": 1600203044000
+      "lastUpdated": 1603326923000
     },
     {
       "categories": [
@@ -174,10 +171,10 @@
       "name": "Atarashii!",
       "sourceCode": "https://github.com/AnimeNeko/Atarashii",
       "webSite": "https://atarashiiapp.com",
-      "added": 1600203118000,
+      "added": 1603326993000,
       "icon": "net.somethingdreadful.MAL.14.png",
       "packageName": "net.somethingdreadful.MAL",
-      "lastUpdated": 1600203118000
+      "lastUpdated": 1603326993000
     },
     {
       "antiFeatures": [
@@ -196,10 +193,10 @@
       "name": "H-DLR",
       "summary": "Enjoy your Hentai collection anywhere and anytime",
       "webSite": "https://cylonu87.github.io/HDLR/",
-      "added": 1600203051000,
+      "added": 1603326929000,
       "icon": "net.android.hdlr.24.png",
       "packageName": "net.android.hdlr",
-      "lastUpdated": 1600203108000,
+      "lastUpdated": 1603326985000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -218,7 +215,7 @@
         "Multimedia"
       ],
       "changelog": "https://github.com/avluis/Hentoid/releases",
-      "suggestedVersionCode": "257",
+      "suggestedVersionCode": "284",
       "description": "<p>`Hentoid` is an ad-free Doujinshi &amp; H-Manga archiving and viewing app. `Hentoid` currently supports: <a href=\"https://nhentai.net/\">nhentai</a>, <a href=\"https://hentai.cafe/\">hentai cafe</a>, <a href=\"https://hitomi.la/\">hitomi</a>, <a href=\"http://asmhentai.com/\">asmhentai</a>, <a href=\"http://www.tsumino.com/\">tsumino</a>, <a href=\"https://pururin.io/\">pururin</a>, <a href=\"https://e-hentai.org/\">e-hentai</a>, <a href=\"https://hentainexus.com\">Hentai Nexus</a>, <a href=\"https://www.8muses.com\">8muses</a>, <a href=\"https://doujins.com\">Doujins.com</a> and <a href=\"https://www.luscious.net\">Luscious.net</a>. Note: `Hentoid` can still import downloads from <a href=\"https://www.fakku.net/\">FAKKU</a> and <a href=\"https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg\">Pururin</a>. Check out the <a href=\"https://github.com/AVnetWS/Hentoid/wiki\">Hentoid wiki</a> if you need assistance installing `Hentoid` on your device. For the latest release, click <a href=\"https://github.com/AVnetWS/Hentoid/releases/latest\">here</a>.   Don't forget to check the <a href=\"https://github.com/avluis/Hentoid/wiki/FAQ\">FAQ</a> if you have any issue Visit our <a href=\"https://discord.gg/QEZ3qk9\">Discord Server</a> to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.</p>",
       "issueTracker": "https://github.com/avluis/Hentoid/issues",
       "license": "Apache-2.0",
@@ -226,10 +223,10 @@
       "sourceCode": "https://github.com/avluis/Hentoid",
       "summary": "Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.",
       "webSite": "https://github.com/avluis/Hentoid",
-      "added": 1600203046000,
-      "icon": "me.devsaki.hentoid.255.png",
+      "added": 1603326925000,
+      "icon": "me.devsaki.hentoid.283.png",
       "packageName": "me.devsaki.hentoid",
-      "lastUpdated": 1602082887000
+      "lastUpdated": 1603407679000
     },
     {
       "antiFeatures": [
@@ -250,10 +247,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/kamuy/src/",
       "summary": "Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList",
       "webSite": "https://cylonu87.github.io/androidapps/kamuy",
-      "added": 1600203054000,
+      "added": 1603326931000,
       "icon": "net.android.kamuy.38.png",
       "packageName": "net.android.kamuy",
-      "lastUpdated": 1600203111000,
+      "lastUpdated": 1603326987000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -285,9 +282,9 @@
       "sourceCode": "https://github.com/nv95/Kotatsu",
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
-      "added": 1600203062000,
+      "added": 1603326936000,
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1602082889000,
+      "lastUpdated": 1603326998000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -315,10 +312,10 @@
       "sourceCode": "https://github.com/LISTEN-moe/android-app",
       "translation": "https://crowdin.com/project/listenmoe-android-app",
       "webSite": "https://listen.moe/",
-      "added": 1600203102000,
+      "added": 1603326980000,
       "icon": "me.echeung.moemoekyun.fdroid.91.png",
       "packageName": "me.echeung.moemoekyun.fdroid",
-      "lastUpdated": 1600203102000
+      "lastUpdated": 1603326980000
     },
     {
       "antiFeatures": [
@@ -341,10 +338,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/mangadlr/src",
       "summary": "MangaDLR is an android manga reader and downloader that supports CBZ.",
       "webSite": "https://cylonu87.github.io/androidapps/mangadlr",
-      "added": 1600203057000,
+      "added": 1603326933000,
       "icon": "net.android.mdm.142.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1600203114000,
+      "lastUpdated": 1603326990000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -376,10 +373,10 @@
       "sourceCode": "https://github.com/neverfelly/Meow",
       "summary": "Yet another free and open source manga reader",
       "webSite": "https://github.com/neverfelly/Meow",
-      "added": 1600203064000,
+      "added": 1603326938000,
       "icon": "top.rechinx.meow.6.png",
       "packageName": "top.rechinx.meow",
-      "lastUpdated": 1600203125000
+      "lastUpdated": 1603326999000
     },
     {
       "authorName": "KurozeroPB",
@@ -398,10 +395,10 @@
       "name": "Nekos",
       "sourceCode": "https://github.com/KurozeroPB/Nekos",
       "summary": "Nekos - Search, Download and Share catgirls",
-      "added": 1600203068000,
+      "added": 1603326941000,
       "icon": "xyz.kurozero.nekosmoe.20.png",
       "packageName": "xyz.kurozero.nekosmoe",
-      "lastUpdated": 1600203126000,
+      "lastUpdated": 1603327000000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -432,10 +429,10 @@
       "name": "NHBooks",
       "sourceCode": "https://github.com/NHMoeDev/NHentai-android",
       "webSite": "https://nhmoedev.github.io/NHentai-android",
-      "added": 1600203104000,
+      "added": 1603326982000,
       "icon": "moe.feng.nhentai.36.png",
       "packageName": "moe.feng.nhentai",
-      "lastUpdated": 1600203104000
+      "lastUpdated": 1603326982000
     },
     {
       "antiFeatures": [
@@ -457,10 +454,10 @@
       "name": "Ranobe",
       "summary": "Ranobe is an app to read and download light novels",
       "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
-      "added": 1600203060000,
+      "added": 1603326935000,
       "icon": "net.cyl.ranobe.33.png",
       "packageName": "net.cyl.ranobe",
-      "lastUpdated": 1600203116000,
+      "lastUpdated": 1603326992000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -490,10 +487,10 @@
       "name": "TaiYakiAnime",
       "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
       "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
-      "added": 1600203075000,
+      "added": 1603326946000,
       "icon": "com.example.taiyaki_anime.4001.png",
       "packageName": "com.example.taiyaki_anime",
-      "lastUpdated": 1600203082000,
+      "lastUpdated": 1603326951000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -523,10 +520,10 @@
       "name": "TaiYakiAnime",
       "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
       "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
-      "added": 1600203025000,
+      "added": 1603326907000,
       "icon": "com.taiyaki_anime.3145729.png",
       "packageName": "com.taiyaki_anime",
-      "lastUpdated": 1600203037000,
+      "lastUpdated": 1603326963000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -556,16 +553,16 @@
       "name": "TaiYakiAnime",
       "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
       "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
-      "added": 1602082885000,
+      "added": 1603326918000,
       "icon": "com.taiyakianime.3145729.png",
       "packageName": "com.taiyakianime",
-      "lastUpdated": 1603004484000
+      "lastUpdated": 1603378893000
     }
   ],
   "packages": {
     "com.crazyxacker.apps.anilabx3": [
       {
-        "added": 1600203072000,
+        "added": 1603326943000,
         "apkName": "com.crazyxacker.apps.anilabx3_v3.5.22_160.apk",
         "hash": "d6e515bb92aa1fa1c29b7d47fc2bf73fa6144d5019c538716f5a3f629e9beae6",
         "hashType": "sha256",
@@ -633,7 +630,7 @@
     ],
     "com.example.taiyaki_anime": [
       {
-        "added": 1600203082000,
+        "added": 1603326951000,
         "apkName": "com.example.taiyaki_anime_v1.1.1_4001-x86_64.apk",
         "hash": "11e23e8d28c8a762979190b137cf2b150f750d231159987b91cdb4a1fa2feb4c",
         "hashType": "sha256",
@@ -672,7 +669,7 @@
         "versionName": "1.1.1"
       },
       {
-        "added": 1600203078000,
+        "added": 1603326949000,
         "apkName": "com.example.taiyaki_anime_v1.1.1_2001-arm64-v8a.apk",
         "hash": "826a22c4031605f3e30bd00b703991aedc98452cbd96b7e7a8d2e37c46b338f8",
         "hashType": "sha256",
@@ -711,7 +708,7 @@
         "versionName": "1.1.1"
       },
       {
-        "added": 1600203075000,
+        "added": 1603326946000,
         "apkName": "com.example.taiyaki_anime_v1.1.1_1001-armeabi-v7a.apk",
         "hash": "e10f5f6e6908207ef3ba6550784d0e1197a044d529d0358e3ea76f034a245a94",
         "hashType": "sha256",
@@ -752,7 +749,7 @@
     ],
     "com.freezingwind.animereleasenotifier": [
       {
-        "added": 1600203083000,
+        "added": 1603326952000,
         "apkName": "com.freezingwind.animereleasenotifier_9.apk",
         "hash": "1d043976dde4bd913f49a36197ca04a40f78f2cff48a37fa5ad16924fc4f0bd8",
         "hashType": "sha256",
@@ -782,7 +779,7 @@
     ],
     "com.jparkie.aizoban": [
       {
-        "added": 1600203085000,
+        "added": 1603326954000,
         "apkName": "com.jparkie.aizoban_27.apk",
         "hash": "3bf7c926ec6c5c40f55482f91c6423f4dad3fceb43be453197a82e5093818fa1",
         "hashType": "sha256",
@@ -820,7 +817,7 @@
     ],
     "com.taiyaki_anime": [
       {
-        "added": 1600203034000,
+        "added": 1603326963000,
         "apkName": "com.taiyaki_anime_v1.0_3145729.apk",
         "hash": "58a29733d339d14b3611f581a2b618acf0e143a6b1f7a7de62274d6846bb55ad",
         "hashType": "sha256",
@@ -943,7 +940,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1600203031000,
+        "added": 1603326961000,
         "apkName": "com.taiyaki_anime_v1.0_2097153.apk",
         "hash": "23e3ce2bf8bcbfe733674e96e90e1da12aef570475e3f1d10b2b93aebfe2bfc5",
         "hashType": "sha256",
@@ -1066,7 +1063,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1600203028000,
+        "added": 1603326959000,
         "apkName": "com.taiyaki_anime_v1.0_1048577.apk",
         "hash": "e28a77537e312153c8354dac10cbc79492b5ecabf44dde4d51189dffd4c65880",
         "hashType": "sha256",
@@ -1189,7 +1186,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1600203025000,
+        "added": 1603326957000,
         "apkName": "com.taiyaki_anime_v1.0_1.apk",
         "hash": "f4332d278a6190324321b891a3495cc317af85d33b552c0abcd633a668cd0998",
         "hashType": "sha256",
@@ -1317,9 +1314,9 @@
     ],
     "com.taiyakianime": [
       {
-        "added": 1603004484000,
+        "added": 1603378893000,
         "apkName": "com.taiyakianime_v1.0_3145729.apk",
-        "hash": "d71e657fb52946c6d79b3cc448475d65c2b70f9a5c0249079a381fdf54efff60",
+        "hash": "92954a1cdf97f1512969de4800c1da7fd7ed8c4ff87a0b99d348e636bf5858d5",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1328,7 +1325,7 @@
         "packageName": "com.taiyakianime",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 14975698,
+        "size": 16060267,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1448,9 +1445,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1603004484000,
+        "added": 1603378893000,
         "apkName": "com.taiyakianime_v1.0_3145729.apk",
-        "hash": "d71e657fb52946c6d79b3cc448475d65c2b70f9a5c0249079a381fdf54efff60",
+        "hash": "92954a1cdf97f1512969de4800c1da7fd7ed8c4ff87a0b99d348e636bf5858d5",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1459,7 +1456,7 @@
         "packageName": "com.taiyakianime",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 14975698,
+        "size": 16060267,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1579,9 +1576,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1603004482000,
+        "added": 1603378891000,
         "apkName": "com.taiyakianime_v1.0_2097153.apk",
-        "hash": "62c98f7d357815b00a34e4943ad9977b2dd4b037567074a918b342c9e6f962d0",
+        "hash": "a1028c965bc29fd828b00948e35b70df960a3c90d82345b9353f84eb0d949903",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1590,7 +1587,7 @@
         "packageName": "com.taiyakianime",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 14800643,
+        "size": 15885236,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1710,9 +1707,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1603004482000,
+        "added": 1603378891000,
         "apkName": "com.taiyakianime_v1.0_2097153.apk",
-        "hash": "62c98f7d357815b00a34e4943ad9977b2dd4b037567074a918b342c9e6f962d0",
+        "hash": "a1028c965bc29fd828b00948e35b70df960a3c90d82345b9353f84eb0d949903",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1721,7 +1718,7 @@
         "packageName": "com.taiyakianime",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 14800643,
+        "size": 15885236,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1841,9 +1838,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1603004480000,
+        "added": 1603378888000,
         "apkName": "com.taiyakianime_v1.0_1048577.apk",
-        "hash": "f5e21cacd59aabaff13e99f4af025cd3469802a9fe5e8a4dfedcb5f398d46970",
+        "hash": "50e3e82f061a71d12ab3e36558b2ecd716153f644f4267317708ffad215e7ebc",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1852,7 +1849,7 @@
         "packageName": "com.taiyakianime",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 14634055,
+        "size": 15718627,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1972,9 +1969,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1603004480000,
+        "added": 1603378888000,
         "apkName": "com.taiyakianime_v1.0_1048577.apk",
-        "hash": "f5e21cacd59aabaff13e99f4af025cd3469802a9fe5e8a4dfedcb5f398d46970",
+        "hash": "50e3e82f061a71d12ab3e36558b2ecd716153f644f4267317708ffad215e7ebc",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1983,7 +1980,7 @@
         "packageName": "com.taiyakianime",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 14634055,
+        "size": 15718627,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -2103,9 +2100,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1603004477000,
+        "added": 1603378886000,
         "apkName": "com.taiyakianime_v1.0_1.apk",
-        "hash": "878a64600662e5e7bede5c5adda870b9c955db2368637314404fe24ff31b1c63",
+        "hash": "b6c91be3e6e634e28c960f54c1436a563c40309d3aae16f001c13c13ad5b8d9e",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2117,7 +2114,7 @@
         "packageName": "com.taiyakianime",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 31434640,
+        "size": 32519192,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -2237,9 +2234,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1603004477000,
+        "added": 1603378886000,
         "apkName": "com.taiyakianime_v1.0_1.apk",
-        "hash": "878a64600662e5e7bede5c5adda870b9c955db2368637314404fe24ff31b1c63",
+        "hash": "b6c91be3e6e634e28c960f54c1436a563c40309d3aae16f001c13c13ad5b8d9e",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -2251,7 +2248,7 @@
         "packageName": "com.taiyakianime",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 31434640,
+        "size": 32519192,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -2373,7 +2370,7 @@
     ],
     "com.yihengquan.gogoanime": [
       {
-        "added": 1600203044000,
+        "added": 1603326923000,
         "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
         "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
         "hashType": "sha256",
@@ -2397,7 +2394,7 @@
         "versionName": "1.2.1"
       },
       {
-        "added": 1600203044000,
+        "added": 1603326923000,
         "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
         "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
         "hashType": "sha256",
@@ -2423,7 +2420,7 @@
     ],
     "info.horriblesubs.sher": [
       {
-        "added": 1600203095000,
+        "added": 1603326968000,
         "apkName": "info.horriblesubs.sher_v0.9.0-beta4_90.apk",
         "hash": "73be5c4d5774abb35c13d59988162c977bbf1dfbc891d502139216e0fa9f5aa0",
         "hashType": "sha256",
@@ -2463,7 +2460,7 @@
         "versionName": "0.9.0-beta4"
       },
       {
-        "added": 1600203091000,
+        "added": 1603326967000,
         "apkName": "info.horriblesubs.sher_v0.9.0-beta3_89-.apk",
         "hash": "ff054d0088f9acbfe3230109e0365a163d06c813d3603d1d7c066aa3f4df20da",
         "hashType": "sha256",
@@ -2505,7 +2502,139 @@
     ],
     "me.devsaki.hentoid": [
       {
-        "added": 1600203046000,
+        "added": 1603326925000,
+        "apkName": "me.devsaki.hentoid_v1.12.8_283.apk",
+        "hash": "79b05373a1ff14138a47faede2c2ce3626b2c5b134371822102dd3dfa2bc9440",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "me.devsaki.hentoid",
+        "sig": "6bbfea03161591765c4ae69fbe1e36bd",
+        "signer": "763ccebf10274ca1f4325b050aad6727a977070b35ec65319bf5f5e95dcbec71",
+        "size": 7374948,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 283,
+        "versionName": "1.12.8"
+      },
+      {
+        "added": 1603326978000,
+        "apkName": "me.devsaki.hentoid_v1.12.7_257.apk",
+        "hash": "ba0f79bb016a735569a25f24779f1ddc4fe77a8e0676b96a06d87d1a36b43c53",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "me.devsaki.hentoid",
+        "sig": "6bbfea03161591765c4ae69fbe1e36bd",
+        "signer": "763ccebf10274ca1f4325b050aad6727a977070b35ec65319bf5f5e95dcbec71",
+        "size": 7629454,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 257,
+        "versionName": "1.12.7"
+      },
+      {
+        "added": 1603326976000,
         "apkName": "me.devsaki.hentoid_v1.12.6_255.apk",
         "hash": "3e784d67fd952a2a02f89d488e365163cd311616e2e59db77ce51460fb17243e",
         "hashType": "sha256",
@@ -2575,7 +2704,7 @@
         "versionName": "1.12.6"
       },
       {
-        "added": 1600203099000,
+        "added": 1603326972000,
         "apkName": "me.devsaki.hentoid_v1.12.5_254.apk",
         "hash": "170a9287362d284814508139dcd832fe526d5ad34f6b9dc3155ae99cdbebcdd4",
         "hashType": "sha256",
@@ -2645,7 +2774,7 @@
         "versionName": "1.12.5"
       },
       {
-        "added": 1600203097000,
+        "added": 1603326970000,
         "apkName": "me.devsaki.hentoid_v1.12.4_253.apk",
         "hash": "c4ec0c2f7b9f2aa90362150288e0d1bda714be639ea9b93e268fdad7bb0b5b1f",
         "hashType": "sha256",
@@ -2717,7 +2846,7 @@
     ],
     "me.echeung.moemoekyun.fdroid": [
       {
-        "added": 1600203102000,
+        "added": 1603326980000,
         "apkName": "me.echeung.moemoekyun.fdroid_91.apk",
         "hash": "a051158fa8f7502b302fb4f7dbeabbea80f589293ef1da1066760f073cd585f8",
         "hashType": "sha256",
@@ -2751,7 +2880,7 @@
     ],
     "moe.feng.nhentai": [
       {
-        "added": 1600203104000,
+        "added": 1603326982000,
         "antiFeatures": [
           "NoSourceSince"
         ],
@@ -2792,7 +2921,7 @@
     ],
     "net.android.adm": [
       {
-        "added": 1600203106000,
+        "added": 1603326984000,
         "apkName": "net.android.adm_v7.1.5_152.apk",
         "hash": "4a2732f4ccd21602c7cdf9b94edd3c3f83fee0eee6afffe5b98e53d5d42bf44c",
         "hashType": "sha256",
@@ -2858,7 +2987,7 @@
     ],
     "net.android.hdlr": [
       {
-        "added": 1600203108000,
+        "added": 1603326985000,
         "apkName": "net.android.hdlr_v2.5.2_24.apk",
         "hash": "2e25c708155c42382f64e9580889b9c4d0893e284431d745896043ae0ed7da0c",
         "hashType": "sha256",
@@ -2920,7 +3049,7 @@
     ],
     "net.android.kamuy": [
       {
-        "added": 1600203111000,
+        "added": 1603326987000,
         "apkName": "net.android.kamuy_v3.0.2_38.apk",
         "hash": "6b61289d9fd8f27320cd94c31cb775f3ba0664c69fbb2e12fca210553bff1789",
         "hashType": "sha256",
@@ -2994,7 +3123,7 @@
     ],
     "net.android.mdm": [
       {
-        "added": 1600203114000,
+        "added": 1603326990000,
         "apkName": "net.android.mdm_v8.0.4_142.apk",
         "hash": "e9e1166d520fe08b22d01771cff6b8711a28bfbb8cc5bd0a6fd96b1a9986f50e",
         "hashType": "sha256",
@@ -3068,7 +3197,7 @@
     ],
     "net.cyl.ranobe": [
       {
-        "added": 1600203116000,
+        "added": 1603326992000,
         "apkName": "net.cyl.ranobe_v3.1.1_33.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -3145,7 +3274,7 @@
     ],
     "net.somethingdreadful.MAL": [
       {
-        "added": 1600203118000,
+        "added": 1603326993000,
         "apkName": "net.somethingdreadful.MAL_14.apk",
         "hash": "ad7a10ec80c5819719e62cdddbab2e15265d2123631b188fa12e42fddd59f233",
         "hashType": "sha256",
@@ -3183,7 +3312,7 @@
     ],
     "org.koitharu.kotatsu": [
       {
-        "added": 1600203062000,
+        "added": 1603326996000,
         "apkName": "org.koitharu.kotatsu_v0.5.1_241.apk",
         "hash": "5bf036ca3c578e1138b441403bc96aef1b7ef30b181f2c9d8eb6011a2f23abd1",
         "hashType": "sha256",
@@ -3231,7 +3360,7 @@
         "versionName": "0.5.1"
       },
       {
-        "added": 1600203122000,
+        "added": 1603326998000,
         "apkName": "org.koitharu.kotatsu_v0.5_234.apk",
         "hash": "e80b740e69a502968d97b04d9863dcb72213de43760bbd8579ae66c06987138f",
         "hashType": "sha256",
@@ -3279,7 +3408,7 @@
         "versionName": "0.5"
       },
       {
-        "added": 1600203120000,
+        "added": 1603326995000,
         "apkName": "org.koitharu.kotatsu_v0.5-rc3_231.apk",
         "hash": "7483d762f2bfc8e78fcbcc941abcc9234e718ac948fc509b6c4a59eb66beb610",
         "hashType": "sha256",
@@ -3329,7 +3458,7 @@
     ],
     "top.rechinx.meow": [
       {
-        "added": 1600203125000,
+        "added": 1603326999000,
         "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
         "hash": "649c7c9cdef573c7da63d49f95dbfbbe518905ef7afd704718d800997759264b",
         "hashType": "sha256",
@@ -3383,7 +3512,7 @@
     ],
     "xyz.kurozero.nekosmoe": [
       {
-        "added": 1600203126000,
+        "added": 1603327000000,
         "apkName": "xyz.kurozero.nekosmoe_v1.0.0_20.apk",
         "hash": "8a191d8a2095d7fe47b97fc1ae984c42f0ab347a6650bb94615bee8748a955bb",
         "hashType": "sha256",
