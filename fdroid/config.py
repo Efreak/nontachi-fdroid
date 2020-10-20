@@ -43,7 +43,6 @@ keydname = "CN=Lenovo.localdomain, OU=F-Droid"
 #
 servergitmirrors = {
     'https://github.com/Efreak/nontachi-fdroid',
-    'https://gitlab.com/efreak/nontachi-fdroid.git'
 }
 
 # Any mirrors of this repo, for example all of the servers declared in
@@ -56,6 +55,6 @@ servergitmirrors = {
 # 'fdroid' base of the F-Droid part of the web server like serverwebroot.
 #
 mirrors = (
-    'https://animanga.netlify.com/fdroid',
+#    'https://animanga.netlify.com/fdroid',
     'https://animanga.cloud.efreakbnc.net/fdroid',
 )
