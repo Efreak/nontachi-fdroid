@@ -578,7 +578,7 @@
     "added": 1603352107.361195
   },
   "com.taiyakianime_v1.0_1.apk": {
-    "hash": "b6c91be3e6e634e28c960f54c1436a563c40309d3aae16f001c13c13ad5b8d9e",
+    "hash": "7209369e80249be571762f34096e6a68b090f8fedf3ea91bf65b69821749a34f",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -727,13 +727,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 32519192,
+    "size": 34627102,
     "apkName": "com.taiyakianime_v1.0_1.apk",
     "icon": "com.taiyakianime.1.png",
-    "added": 1603404086.550801
+    "added": 1606537770.125176
   },
   "com.taiyakianime_v1.0_1048577.apk": {
-    "hash": "50e3e82f061a71d12ab3e36558b2ecd716153f644f4267317708ffad215e7ebc",
+    "hash": "79db4e077451d0e55924ce5090d8c60658dc9d7a1cb2cc07cc3e6af882723cef",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -879,13 +879,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 15718627,
+    "size": 17051110,
     "apkName": "com.taiyakianime_v1.0_1048577.apk",
     "icon": "com.taiyakianime.1048577.png",
-    "added": 1603404088.850475
+    "added": 1606537772.253895
   },
   "com.taiyakianime_v1.0_2097153.apk": {
-    "hash": "a1028c965bc29fd828b00948e35b70df960a3c90d82345b9353f84eb0d949903",
+    "hash": "30dd7ad374b09c059e10fc8902906b1f10a726e6c96cf5fc9a3964105feceaf9",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -1031,13 +1031,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 15885236,
+    "size": 17285402,
     "apkName": "com.taiyakianime_v1.0_2097153.apk",
     "icon": "com.taiyakianime.2097153.png",
-    "added": 1603404091.080108
+    "added": 1606537774.366822
   },
   "com.taiyakianime_v1.0_3145729.apk": {
-    "hash": "92954a1cdf97f1512969de4800c1da7fd7ed8c4ff87a0b99d348e636bf5858d5",
+    "hash": "5747a47ee12c5abb0de62e1942a077a8b533a9c5c87e6abd336a8a8385c730b5",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -1183,10 +1183,10 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 16060267,
+    "size": 17417941,
     "apkName": "com.taiyakianime_v1.0_3145729.apk",
     "icon": "com.taiyakianime.3145729.png",
-    "added": 1603404093.663758
+    "added": 1606537776.44156
   },
   "com.taiyakianime_v1.0_4194305.apk": {
     "hash": "42615b482893d2adba8cd695504a5d3be8070bb29141daa6e9bb269af8903c31",
@@ -4742,5 +4742,140 @@
     "apkName": "me.devsaki.hentoid_v1.12.9_284.apk",
     "icon": "me.devsaki.hentoid.284.png",
     "added": 1603432879.139038
+  },
+  "com.yihengquan.gogoanime_v1.2.2_1.apk": {
+    "hash": "01672a5669174f659da0eb5bb3239da0817a582cea7c53cb06d96ea2e2fb8e6d",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "com.yihengquan.gogoanime.1.xml",
+      "640": "com.yihengquan.gogoanime.1.png",
+      "480": "com.yihengquan.gogoanime.1.png",
+      "320": "com.yihengquan.gogoanime.1.png",
+      "240": "com.yihengquan.gogoanime.1.png",
+      "160": "com.yihengquan.gogoanime.1.png",
+      "0": "com.yihengquan.gogoanime.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.yihengquan.gogoanime",
+    "versionCode": 1,
+    "name": "AnimeGo",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "0340aa9cc2cf98487881a52c439b5c37",
+    "signer": "4c644ecdd02803d0a441e4b2704ca3ababac9be6aab77c3d39e55e53db051c74",
+    "size": 22027797,
+    "apkName": "com.yihengquan.gogoanime_v1.2.2_1.apk",
+    "icon": "com.yihengquan.gogoanime.1.png",
+    "added": 1606537779.202095
+  },
+  "me.devsaki.hentoid_v1.13.1_301.apk": {
+    "hash": "0cd02a8d2a8f6997b6f91dad1f994539ae5a6936521e0e6d3664b4343cc13938",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "me.devsaki.hentoid.301.png",
+      "480": "me.devsaki.hentoid.301.png",
+      "320": "me.devsaki.hentoid.301.png",
+      "240": "me.devsaki.hentoid.301.png",
+      "160": "me.devsaki.hentoid.301.png",
+      "0": "me.devsaki.hentoid.301.png"
+    },
+    "antiFeatures": [],
+    "packageName": "me.devsaki.hentoid",
+    "versionCode": 301,
+    "name": "Hentoid",
+    "versionName": "1.13.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "6bbfea03161591765c4ae69fbe1e36bd",
+    "signer": "763ccebf10274ca1f4325b050aad6727a977070b35ec65319bf5f5e95dcbec71",
+    "size": 7874655,
+    "apkName": "me.devsaki.hentoid_v1.13.1_301.apk",
+    "icon": "me.devsaki.hentoid.301.png",
+    "added": 1606537781.260319
   }
 }
