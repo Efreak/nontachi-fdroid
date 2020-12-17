@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1608177690000,
+    "timestamp": 1608192098000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -508,10 +508,10 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Taiyaki",
-      "added": 1608177677000,
+      "added": 1608177685000,
       "icon": "com.taiyaki_typed.4194305.png",
       "packageName": "com.taiyaki_typed",
-      "lastUpdated": 1608177685000
+      "lastUpdated": 1608192084000
     },
     {
       "antiFeatures": [

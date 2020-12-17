@@ -5,3 +5,4 @@ Manga/Anime
 Multimedia
 Reading
 Time
+fdroid
