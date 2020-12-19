@@ -5714,5 +5714,92 @@
     "apkName": "com.taiyaki_typed_v1.0_4194305.apk",
     "icon": "com.taiyaki_typed.4194305.png",
     "added": 1608206485.686378
+  },
+  "me.devsaki.hentoid_v1.13.4_311.apk": {
+    "hash": "308b990096d305e429f964a658d713e2598ceadfacc8e935e095ca2f9bae7a24",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "me.devsaki.hentoid.311.png",
+      "480": "me.devsaki.hentoid.311.png",
+      "320": "me.devsaki.hentoid.311.png",
+      "240": "me.devsaki.hentoid.311.png",
+      "160": "me.devsaki.hentoid.311.png",
+      "0": "me.devsaki.hentoid.311.png"
+    },
+    "antiFeatures": [],
+    "packageName": "me.devsaki.hentoid",
+    "versionCode": 311,
+    "name": "Hentoid",
+    "versionName": "1.13.4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "6bbfea03161591765c4ae69fbe1e36bd",
+    "signer": "763ccebf10274ca1f4325b050aad6727a977070b35ec65319bf5f5e95dcbec71",
+    "size": 7939993,
+    "apkName": "me.devsaki.hentoid_v1.13.4_311.apk",
+    "icon": "me.devsaki.hentoid.311.png",
+    "added": 1608408074.237418
   }
 }
