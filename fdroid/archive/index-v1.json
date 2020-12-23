@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1608710504000,
+    "timestamp": 1608724895000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -406,7 +406,7 @@
       "added": 1608177685000,
       "icon": "com.taiyaki_typed.3145729.png",
       "packageName": "com.taiyaki_typed",
-      "lastUpdated": 1608710486000
+      "lastUpdated": 1608724885000
     },
     {
       "antiFeatures": [
@@ -571,118 +571,7 @@
     ],
     "com.taiyaki_typed": [
       {
-        "added": 1608710486000,
-        "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
-        "hash": "b8a7cbdbd7a018649eceb77b2aec63686d8047d9347f1265fcd20e068a366b95",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "com.taiyaki_typed",
-        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
-        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 10654018,
-        "targetSdkVersion": 29,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.GET_TASKS",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ]
-        ],
-        "versionCode": 3145729,
-        "versionName": "1.0"
-      },
-      {
-        "added": 1608710486000,
+        "added": 1608724885000,
         "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
         "hash": "1728b3a7746ae1bb5045bd5068712b35f015ccd46972a561f6b06595eb7d699a",
         "hashType": "sha256",
@@ -793,18 +682,18 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608710484000,
-        "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
-        "hash": "cea711f724290f1a1dbb5e4f07e66defe7a8d0e2ac578feb03981b81c629b51a",
+        "added": 1608724885000,
+        "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
+        "hash": "1728b3a7746ae1bb5045bd5068712b35f015ccd46972a561f6b06595eb7d699a",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
-          "x86"
+          "arm64-v8a"
         ],
         "packageName": "com.taiyaki_typed",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 11042445,
+        "size": 10654066,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -900,11 +789,11 @@
             null
           ]
         ],
-        "versionCode": 2097153,
+        "versionCode": 3145729,
         "versionName": "1.0"
       },
       {
-        "added": 1608710484000,
+        "added": 1608724883000,
         "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
         "hash": "ee4a9b38488bee9c1a4e75211d06b3cce1c127e6f5d89da10a1a099b60d1e39b",
         "hashType": "sha256",
@@ -1015,18 +904,18 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608710482000,
-        "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
-        "hash": "25a93cd94c724e72480d313c0e31399e454bb42c3c5ea87a3fc728cc14bad324",
+        "added": 1608724883000,
+        "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
+        "hash": "ee4a9b38488bee9c1a4e75211d06b3cce1c127e6f5d89da10a1a099b60d1e39b",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
-          "armeabi-v7a"
+          "x86"
         ],
         "packageName": "com.taiyaki_typed",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 10299466,
+        "size": 11042511,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1122,11 +1011,11 @@
             null
           ]
         ],
-        "versionCode": 1048577,
+        "versionCode": 2097153,
         "versionName": "1.0"
       },
       {
-        "added": 1608710482000,
+        "added": 1608724881000,
         "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
         "hash": "f0d08ce9ccc18785eb1664786c2e291f084517d0c9ec35e3d929fca5e9f64fef",
         "hashType": "sha256",
@@ -1237,9 +1126,120 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608710480000,
+        "added": 1608724881000,
+        "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
+        "hash": "f0d08ce9ccc18785eb1664786c2e291f084517d0c9ec35e3d929fca5e9f64fef",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.taiyaki_typed",
+        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
+        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+        "size": 10299514,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ]
+        ],
+        "versionCode": 1048577,
+        "versionName": "1.0"
+      },
+      {
+        "added": 1608724879000,
         "apkName": "com.taiyaki_typed_v1.0_1.apk",
-        "hash": "65fae574d52d0a3ccaccf98c6ddcd9c507e038e488ff77e744db2c73cbed5d0d",
+        "hash": "4e191788d0bb17661ffe0f0cf6c774725329bce73772ba5992c8938a976fe31e",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1251,7 +1251,7 @@
         "packageName": "com.taiyaki_typed",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 20911773,
+        "size": 20911825,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1351,7 +1351,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608710480000,
+        "added": 1608724879000,
         "apkName": "com.taiyaki_typed_v1.0_1.apk",
         "hash": "4e191788d0bb17661ffe0f0cf6c774725329bce73772ba5992c8938a976fe31e",
         "hashType": "sha256",

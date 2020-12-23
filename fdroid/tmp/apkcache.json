@@ -5053,7 +5053,7 @@
     "added": 1608192078.082022
   },
   "com.taiyaki_typed_v1.0_1.apk": {
-    "hash": "65fae574d52d0a3ccaccf98c6ddcd9c507e038e488ff77e744db2c73cbed5d0d",
+    "hash": "4e191788d0bb17661ffe0f0cf6c774725329bce73772ba5992c8938a976fe31e",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -5182,13 +5182,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 20911773,
+    "size": 20911825,
     "apkName": "com.taiyaki_typed_v1.0_1.apk",
     "icon": "com.taiyaki_typed.1.png",
-    "added": 1608739280.304617
+    "added": 1608753679.240029
   },
   "com.taiyaki_typed_v1.0_1048577.apk": {
-    "hash": "25a93cd94c724e72480d313c0e31399e454bb42c3c5ea87a3fc728cc14bad324",
+    "hash": "f0d08ce9ccc18785eb1664786c2e291f084517d0c9ec35e3d929fca5e9f64fef",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -5314,13 +5314,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 10299466,
+    "size": 10299514,
     "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
     "icon": "com.taiyaki_typed.1048577.png",
-    "added": 1608739282.25115
+    "added": 1608753681.215309
   },
   "com.taiyaki_typed_v1.0_2097153.apk": {
-    "hash": "cea711f724290f1a1dbb5e4f07e66defe7a8d0e2ac578feb03981b81c629b51a",
+    "hash": "ee4a9b38488bee9c1a4e75211d06b3cce1c127e6f5d89da10a1a099b60d1e39b",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -5446,13 +5446,13 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 11042445,
+    "size": 11042511,
     "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
     "icon": "com.taiyaki_typed.2097153.png",
-    "added": 1608739284.197338
+    "added": 1608753683.152391
   },
   "com.taiyaki_typed_v1.0_3145729.apk": {
-    "hash": "b8a7cbdbd7a018649eceb77b2aec63686d8047d9347f1265fcd20e068a366b95",
+    "hash": "1728b3a7746ae1bb5045bd5068712b35f015ccd46972a561f6b06595eb7d699a",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -5578,10 +5578,10 @@
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 10654018,
+    "size": 10654066,
     "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
     "icon": "com.taiyaki_typed.3145729.png",
-    "added": 1608739286.057391
+    "added": 1608753685.201492
   },
   "com.taiyaki_typed_v1.0_4194305.apk": {
     "hash": "8053a4777b21d7e35f438bc7bce0f597f07435512f86f6755812383993aa0875",
