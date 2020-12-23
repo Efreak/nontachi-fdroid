@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1608681682000,
+    "timestamp": 1608696104000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -406,7 +406,7 @@
       "added": 1608177685000,
       "icon": "com.taiyaki_typed.3145729.png",
       "packageName": "com.taiyaki_typed",
-      "lastUpdated": 1608206483000
+      "lastUpdated": 1608696084000
     },
     {
       "antiFeatures": [
@@ -571,7 +571,7 @@
     ],
     "com.taiyaki_typed": [
       {
-        "added": 1608206483000,
+        "added": 1608696084000,
         "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
         "hash": "06b47717fd32fd2c582032c57070af498b1fa0e9a7fe0f3daa8c85380efe8d6b",
         "hashType": "sha256",
@@ -682,9 +682,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608206483000,
+        "added": 1608696084000,
         "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
-        "hash": "06b47717fd32fd2c582032c57070af498b1fa0e9a7fe0f3daa8c85380efe8d6b",
+        "hash": "b8a7cbdbd7a018649eceb77b2aec63686d8047d9347f1265fcd20e068a366b95",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -693,7 +693,7 @@
         "packageName": "com.taiyaki_typed",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 10708914,
+        "size": 10654018,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -793,7 +793,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608206481000,
+        "added": 1608696082000,
         "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
         "hash": "adcf95d343cc37ca2d894e12dc8bcd6051354309ec1a86e37d8bcf886dd37bf3",
         "hashType": "sha256",
@@ -904,9 +904,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608206481000,
+        "added": 1608696082000,
         "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
-        "hash": "adcf95d343cc37ca2d894e12dc8bcd6051354309ec1a86e37d8bcf886dd37bf3",
+        "hash": "cea711f724290f1a1dbb5e4f07e66defe7a8d0e2ac578feb03981b81c629b51a",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -915,7 +915,7 @@
         "packageName": "com.taiyaki_typed",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 11097324,
+        "size": 11042445,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1015,7 +1015,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608206479000,
+        "added": 1608696080000,
         "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
         "hash": "ce38298f665155d3ea28e118d1d0ae8f274b219e34b6da26f10f598a870b03e7",
         "hashType": "sha256",
@@ -1126,9 +1126,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608206479000,
+        "added": 1608696080000,
         "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
-        "hash": "ce38298f665155d3ea28e118d1d0ae8f274b219e34b6da26f10f598a870b03e7",
+        "hash": "25a93cd94c724e72480d313c0e31399e454bb42c3c5ea87a3fc728cc14bad324",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1137,7 +1137,7 @@
         "packageName": "com.taiyaki_typed",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 10354377,
+        "size": 10299466,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -1237,7 +1237,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608206477000,
+        "added": 1608696078000,
         "apkName": "com.taiyaki_typed_v1.0_1.apk",
         "hash": "903ad426c288b0f00f642e64a24ecb191a279197e7d2928a4e5c5e42a1d8edad",
         "hashType": "sha256",
@@ -1351,9 +1351,9 @@
         "versionName": "1.0"
       },
       {
-        "added": 1608206477000,
+        "added": 1608696078000,
         "apkName": "com.taiyaki_typed_v1.0_1.apk",
-        "hash": "903ad426c288b0f00f642e64a24ecb191a279197e7d2928a4e5c5e42a1d8edad",
+        "hash": "65fae574d52d0a3ccaccf98c6ddcd9c507e038e488ff77e744db2c73cbed5d0d",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1365,7 +1365,7 @@
         "packageName": "com.taiyaki_typed",
         "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
         "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 20966663,
+        "size": 20911773,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
