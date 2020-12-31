@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1609401698000,
+    "timestamp": 1609416088000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -511,7 +511,7 @@
       "added": 1608177685000,
       "icon": "com.taiyaki_typed.4194305.png",
       "packageName": "com.taiyaki_typed",
-      "lastUpdated": 1609401684000
+      "lastUpdated": 1609416083000
     },
     {
       "antiFeatures": [
