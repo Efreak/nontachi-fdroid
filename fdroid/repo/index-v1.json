@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1610193678000,
+    "timestamp": 1610208090000,
     "version": 21,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -170,7 +170,7 @@
         "Multimedia"
       ],
       "changelog": "https://github.com/avluis/Hentoid/releases",
-      "suggestedVersionCode": "327",
+      "suggestedVersionCode": "329",
       "description": "<p>`Hentoid` is an ad-free Doujinshi &amp; H-Manga archiving and viewing app. `Hentoid` currently supports: <a href=\"https://nhentai.net/\">nhentai</a>, <a href=\"https://hentai.cafe/\">hentai cafe</a>, <a href=\"https://hitomi.la/\">hitomi</a>, <a href=\"http://asmhentai.com/\">asmhentai</a>, <a href=\"http://www.tsumino.com/\">tsumino</a>, <a href=\"https://pururin.io/\">pururin</a>, <a href=\"https://e-hentai.org/\">e-hentai</a>, <a href=\"https://hentainexus.com\">Hentai Nexus</a>, <a href=\"https://www.8muses.com\">8muses</a>, <a href=\"https://doujins.com\">Doujins.com</a> and <a href=\"https://www.luscious.net\">Luscious.net</a>. Note: `Hentoid` can still import downloads from <a href=\"https://www.fakku.net/\">FAKKU</a> and <a href=\"https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg\">Pururin</a>. Check out the <a href=\"https://github.com/AVnetWS/Hentoid/wiki\">Hentoid wiki</a> if you need assistance installing `Hentoid` on your device. For the latest release, click <a href=\"https://github.com/AVnetWS/Hentoid/releases/latest\">here</a>.   Don't forget to check the <a href=\"https://github.com/avluis/Hentoid/wiki/FAQ\">FAQ</a> if you have any issue Visit our <a href=\"https://discord.gg/QEZ3qk9\">Discord Server</a> to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.</p>",
       "issueTracker": "https://github.com/avluis/Hentoid/issues",
       "license": "Apache-2.0",
@@ -179,9 +179,9 @@
       "summary": "Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.",
       "webSite": "https://github.com/avluis/Hentoid",
       "added": 1603326925000,
-      "icon": "me.devsaki.hentoid.327.png",
+      "icon": "me.devsaki.hentoid.329.png",
       "packageName": "me.devsaki.hentoid",
-      "lastUpdated": 1609790480000
+      "lastUpdated": 1610208085000
     },
     {
       "antiFeatures": [
@@ -1268,9 +1268,9 @@
     ],
     "me.devsaki.hentoid": [
       {
-        "added": 1609790480000,
-        "apkName": "me.devsaki.hentoid_v1.13.7_327.apk",
-        "hash": "1c578813e06b4d1495e4dd43f17d3d065fc24b7061217e630c1981f8c4510e69",
+        "added": 1610208085000,
+        "apkName": "me.devsaki.hentoid_v1.13.8_329.apk",
+        "hash": "2ca3a007f3192ac1e498f0bacf7353b5f68b21c265a6f0dfa9c3386285a3a30e",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1330,8 +1330,8 @@
             null
           ]
         ],
-        "versionCode": 327,
-        "versionName": "1.13.7"
+        "versionCode": 329,
+        "versionName": "1.13.8"
       }
     ],
     "net.android.adm": [
