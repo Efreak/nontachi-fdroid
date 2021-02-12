@@ -5053,7 +5053,7 @@
     "added": 1608192078.082022
   },
   "com.taiyaki_typed_v1.0_1.apk": {
-    "hash": "383a3578719fa90f9f1803d0cb49f5a6bf2c96e3b376f9cd94b5aa603a41de70",
+    "hash": "9b0a7493d9079bf64753db7a4dfe779e42d558f589b65966378fa51d7142906f",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -5065,11 +5065,23 @@
         null
       ],
       [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
         "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
-        "android.permission.WAKE_LOCK",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -5078,10 +5090,6 @@
       ],
       [
         "android.permission.GET_TASKS",
-        null
-      ],
-      [
-        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -5173,22 +5181,23 @@
     "name": "Taiyaki",
     "versionName": "1.0",
     "minSdkVersion": 21,
-    "targetSdkVersion": 29,
+    "targetSdkVersion": 28,
     "nativecode": [
       "arm64-v8a",
+      "armeabi",
       "armeabi-v7a",
       "x86",
       "x86_64"
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 21190916,
+    "size": 35539115,
     "apkName": "com.taiyaki_typed_v1.0_1.apk",
     "icon": "com.taiyaki_typed.1.png",
-    "added": 1613131272.095898
+    "added": 1613145672.46078
   },
   "com.taiyaki_typed_v1.0_1048577.apk": {
-    "hash": "a2bd6c8ebb3f166f775314e8b79bf18d47f87f6ce3719960c54412d6c11d4c42",
+    "hash": "812f651836ca7fb557f443f094ebb9615c082f564e0e205e43c82a7d9f620434",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -5200,11 +5209,23 @@
         null
       ],
       [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
         "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
-        "android.permission.WAKE_LOCK",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -5213,10 +5234,6 @@
       ],
       [
         "android.permission.GET_TASKS",
-        null
-      ],
-      [
-        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -5308,19 +5325,19 @@
     "name": "Taiyaki",
     "versionName": "1.0",
     "minSdkVersion": 21,
-    "targetSdkVersion": 29,
+    "targetSdkVersion": 28,
     "nativecode": [
       "armeabi-v7a"
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 10578607,
+    "size": 17278020,
     "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
     "icon": "com.taiyaki_typed.1048577.png",
-    "added": 1613131274.942307
+    "added": 1613145674.700346
   },
   "com.taiyaki_typed_v1.0_2097153.apk": {
-    "hash": "5f3a63e9349edcdad70b522d24f0ebd5179f640ca1c0bd44bc19c0a4a4a783a9",
+    "hash": "5e640bcc426634b560f7f3fd49d7c1ddda418c5d11d154b06529a60c355d6f68",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -5332,11 +5349,23 @@
         null
       ],
       [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
         "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
-        "android.permission.WAKE_LOCK",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -5345,10 +5374,6 @@
       ],
       [
         "android.permission.GET_TASKS",
-        null
-      ],
-      [
-        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -5440,19 +5465,19 @@
     "name": "Taiyaki",
     "versionName": "1.0",
     "minSdkVersion": 21,
-    "targetSdkVersion": 29,
+    "targetSdkVersion": 28,
     "nativecode": [
       "x86"
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 11321597,
+    "size": 18293644,
     "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
     "icon": "com.taiyaki_typed.2097153.png",
-    "added": 1613131279.684724
+    "added": 1613145676.932047
   },
   "com.taiyaki_typed_v1.0_3145729.apk": {
-    "hash": "6c4de905361a1daac5d238b8c66463f62ec7ba9c5fe88d6ef193d68cbe4476df",
+    "hash": "3b7c7184dc8603731f2eddef48b1a212df832993134d904d9fa9db765c0ebc06",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -5464,11 +5489,23 @@
         null
       ],
       [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
         "com.google.android.c2dm.permission.RECEIVE",
         null
       ],
       [
-        "android.permission.WAKE_LOCK",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -5477,10 +5514,6 @@
       ],
       [
         "android.permission.GET_TASKS",
-        null
-      ],
-      [
-        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         null
       ],
       [
@@ -5572,16 +5605,16 @@
     "name": "Taiyaki",
     "versionName": "1.0",
     "minSdkVersion": 21,
-    "targetSdkVersion": 29,
+    "targetSdkVersion": 28,
     "nativecode": [
       "arm64-v8a"
     ],
     "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
     "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-    "size": 10933164,
+    "size": 17933334,
     "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
     "icon": "com.taiyaki_typed.3145729.png",
-    "added": 1613131284.414384
+    "added": 1613145679.124454
   },
   "com.taiyaki_typed_v1.0_4194305.apk": {
     "hash": "8053a4777b21d7e35f438bc7bce0f597f07435512f86f6755812383993aa0875",
