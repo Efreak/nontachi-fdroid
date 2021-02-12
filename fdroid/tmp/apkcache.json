@@ -5185,7 +5185,7 @@
     "size": 21190916,
     "apkName": "com.taiyaki_typed_v1.0_1.apk",
     "icon": "com.taiyaki_typed.1.png",
-    "added": 1609444876.950551
+    "added": 1613131272.095898
   },
   "com.taiyaki_typed_v1.0_1048577.apk": {
     "hash": "a2bd6c8ebb3f166f775314e8b79bf18d47f87f6ce3719960c54412d6c11d4c42",
@@ -5317,7 +5317,7 @@
     "size": 10578607,
     "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
     "icon": "com.taiyaki_typed.1048577.png",
-    "added": 1609444878.90984
+    "added": 1613131274.942307
   },
   "com.taiyaki_typed_v1.0_2097153.apk": {
     "hash": "5f3a63e9349edcdad70b522d24f0ebd5179f640ca1c0bd44bc19c0a4a4a783a9",
@@ -5449,7 +5449,7 @@
     "size": 11321597,
     "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
     "icon": "com.taiyaki_typed.2097153.png",
-    "added": 1609444881.195988
+    "added": 1613131279.684724
   },
   "com.taiyaki_typed_v1.0_3145729.apk": {
     "hash": "6c4de905361a1daac5d238b8c66463f62ec7ba9c5fe88d6ef193d68cbe4476df",
@@ -5581,7 +5581,7 @@
     "size": 10933164,
     "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
     "icon": "com.taiyaki_typed.3145729.png",
-    "added": 1609444883.141322
+    "added": 1613131284.414384
   },
   "com.taiyaki_typed_v1.0_4194305.apk": {
     "hash": "8053a4777b21d7e35f438bc7bce0f597f07435512f86f6755812383993aa0875",
@@ -6149,5 +6149,163 @@
     "apkName": "me.devsaki.hentoid_v1.13.8_329.apk",
     "icon": "me.devsaki.hentoid.329.png",
     "added": 1610236885.805847
+  },
+  "me.devsaki.hentoid_v1.13.9_333.apk": {
+    "hash": "2161a12cbc12da7dc4ed0fc60ceaaa9e6d79c6c50279cf48a32bde143fda908e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "me.devsaki.hentoid.333.png",
+      "480": "me.devsaki.hentoid.333.png",
+      "320": "me.devsaki.hentoid.333.png",
+      "240": "me.devsaki.hentoid.333.png",
+      "160": "me.devsaki.hentoid.333.png",
+      "0": "me.devsaki.hentoid.333.png"
+    },
+    "antiFeatures": [],
+    "packageName": "me.devsaki.hentoid",
+    "versionCode": 333,
+    "name": "Hentoid",
+    "versionName": "1.13.9",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "6bbfea03161591765c4ae69fbe1e36bd",
+    "signer": "763ccebf10274ca1f4325b050aad6727a977070b35ec65319bf5f5e95dcbec71",
+    "size": 11889196,
+    "apkName": "me.devsaki.hentoid_v1.13.9_333.apk",
+    "icon": "me.devsaki.hentoid.333.png",
+    "added": 1613131288.675747
+  },
+  "org.koitharu.kotatsu_v1.0-rc1_345.apk": {
+    "hash": "1ed6cfa840867a8384b3f88a8faffc07f740ca4722f7649d3e74b4607270a1ca",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "org.koitharu.kotatsu.345.xml",
+      "640": "org.koitharu.kotatsu.345.png",
+      "480": "org.koitharu.kotatsu.345.png",
+      "320": "org.koitharu.kotatsu.345.png",
+      "240": "org.koitharu.kotatsu.345.png",
+      "160": "org.koitharu.kotatsu.345.png",
+      "0": "org.koitharu.kotatsu.345.png"
+    },
+    "antiFeatures": [],
+    "packageName": "org.koitharu.kotatsu",
+    "versionCode": 345,
+    "name": "Kotatsu",
+    "versionName": "1.0-rc1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "dd481767ec88795ce0a97b82ecfae931",
+    "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+    "size": 3560315,
+    "apkName": "org.koitharu.kotatsu_v1.0-rc1_345.apk",
+    "icon": "org.koitharu.kotatsu.345.png",
+    "added": 1613131292.331428
   }
 }
