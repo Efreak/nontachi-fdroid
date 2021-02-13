@@ -1,0 +1,122 @@
+{
+  "antiFeatures": {
+    "Ads": {
+      "apps": [
+        "com.comikin.manhua3",
+        "com.crazyxacker.apps.anilabx3",
+        "info.horriblesubs.sher",
+        "net.android.adm",
+        "net.android.kamuy",
+        "net.android.mdm",
+        "net.cyl.ranobe"
+      ]
+    },
+    "DisabledAlgorithm": {
+      "apps": [
+        "com.freezingwind.animereleasenotifier",
+        "com.jparkie.aizoban",
+        "net.somethingdreadful.MAL"
+      ]
+    },
+    "KnownVuln": {
+      "apps": [
+        "com.freezingwind.animereleasenotifier",
+        "com.jparkie.aizoban",
+        "net.somethingdreadful.MAL"
+      ]
+    },
+    "NoSourceSince": {
+      "apps": [
+        "com.comikin.manhua3",
+        "com.crazyxacker.apps.anilabx3",
+        "com.example.taiyaki_anime",
+        "com.taiyaki_anime",
+        "com.taiyakianime",
+        "info.horriblesubs.sher",
+        "moe.feng.nhentai",
+        "net.android.adm",
+        "net.android.kamuy",
+        "net.android.mdm",
+        "net.cyl.ranobe"
+      ]
+    },
+    "NonFreeNet": {
+      "apps": [
+        "com.arnab.jiyu",
+        "me.devsaki.hentoid"
+      ]
+    },
+    "Tracking": {
+      "apps": [
+        "com.arnab.jiyu",
+        "com.comikin.manhua3",
+        "com.crazyxacker.apps.anilabx3",
+        "com.example.taiyaki_anime",
+        "com.taiyaki_anime",
+        "com.taiyakianime",
+        "info.horriblesubs.sher",
+        "net.android.adm",
+        "net.android.hdlr",
+        "net.android.kamuy",
+        "net.android.mdm",
+        "net.cyl.ranobe"
+      ]
+    },
+    "UpstreamNonFree": {
+      "apps": [
+        "com.arnab.jiyu",
+        "com.comikin.manhua3",
+        "com.crazyxacker.apps.anilabx3",
+        "com.example.taiyaki_anime",
+        "com.taiyaki_anime",
+        "com.taiyakianime",
+        "info.horriblesubs.sher",
+        "net.android.adm",
+        "net.android.hdlr",
+        "net.android.kamuy",
+        "net.android.mdm",
+        "net.cyl.ranobe"
+      ]
+    }
+  },
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--create-metadata",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1613174633537,
+  "failedBuilds": {},
+  "noPackages": [
+    "com.arnab.jiyu",
+    "com.comikin.manhua3",
+    "com.crazyxacker.apps.anilabx3",
+    "com.example.taiyaki_anime",
+    "com.freezingwind.animereleasenotifier",
+    "com.jparkie.aizoban",
+    "com.manga.ramt57.mangareader.trend",
+    "com.sketchpunk.ocomicreader",
+    "com.stuffbox.webscraper",
+    "com.taiyaki_anime",
+    "com.taiyaki_typed",
+    "com.taiyakianime",
+    "com.whatthefuck",
+    "com.yihengquan.gogoanime",
+    "gq.nulldev.animeopenings.app",
+    "info.horriblesubs.sher",
+    "me.devsaki.hentoid",
+    "me.echeung.moemoekyun.fdroid",
+    "moe.feng.nhentai",
+    "net.android.adm",
+    "net.android.hdlr",
+    "net.android.kamuy",
+    "net.android.mdm",
+    "net.cyl.ranobe",
+    "net.somethingdreadful.MAL",
+    "org.koitharu.kotatsu",
+    "top.rechinx.meow",
+    "xyz.kurozero.nekosmoe"
+  ],
+  "startTimestamp": 1613203293000,
+  "subcommand": "update"
+}

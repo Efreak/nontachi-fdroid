@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="Unofficial Anime/Manga F-Droid Archive" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1613160064" url="https://animanga.efreakbnc.net/fdroid/archive" version="21">
-		<description>This is an archive of open and closed source anime/manga related apps. Applications in this repository are official binaries built and signed by their respective developers and copied to this directory. </description>
+	<repo icon="fdroid-icon.png" name="Unofficial Anime/Manga F-Droid Archive" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1613174623" url="https://animanga.efreakbnc.net/fdroid/archive" version="20000">
+		<description>
+This is an archive of open and closed source anime/manga related apps.
+Applications in this repository are official binaries built and
+signed by their respective developers and copied to this directory.
+</description>
 		<mirror>https://animanga.cloud.efreakbnc.net/fdroid/archive</mirror>
 		<mirror>https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/archive</mirror>
 	</repo>
 	<application id="com.jparkie.aizoban">
 		<id>com.jparkie.aizoban</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Aizōban</name>
 		<summary></summary>
 		<icon>com.jparkie.aizoban.27.png</icon>
-		<desc>&lt;p&gt;Offline digital manga catalogue.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Access to over 45 000 manga series from currently 6 sources: Batoto (EN), MangaEden (EN), MangaHere (EN), MangaReader (EN), MangaEden (IT), and MangaHere (ES).&lt;/li&gt;&lt;li&gt; Responsive viewer with options to switch reading direction, lock orientation, lock zoom, full-screen or immersive mode.&lt;/li&gt;&lt;li&gt; A search tool capable of filtering and ordering manga series by name, genre (not for all sources), and status.&lt;/li&gt;&lt;li&gt; An Exploring function to discover random manga series.&lt;/li&gt;&lt;li&gt; A download manager to collect your desired manga series offline.&lt;/li&gt;&lt;li&gt; Your personalized list of favourite manga series and recently read chapters (manageable with &quot;Mark Read&quot;) .&lt;/li&gt;&lt;li&gt; Easy settings to manage your reading experience such as &quot;Enable Lazy Loading&quot; to conserve bandwidth.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>Offline digital manga catalogue.
+
+* Access to over 45 000 manga series from currently 6 sources: Batoto (EN), MangaEden (EN), MangaHere (EN), MangaReader (EN), MangaEden (IT), and MangaHere (ES).
+* Responsive viewer with options to switch reading direction, lock orientation, lock zoom, full-screen or immersive mode.
+* A search tool capable of filtering and ordering manga series by name, genre (not for all sources), and status.
+* An Exploring function to discover random manga series.
+* A download manager to collect your desired manga series offline.
+* Your personalized list of favourite manga series and recently read chapters (manageable with &quot;Mark Read&quot;) .
+* Easy settings to manage your reading experience such as &quot;Enable Lazy Loading&quot; to conserve bandwidth.</desc>
 		<license>Apache-2.0</license>
 		<categories>Manga/Anime,Reading,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -21,6 +33,7 @@
 		<tracker></tracker>
 		<marketversion></marketversion>
 		<marketvercode>27</marketvercode>
+		<antifeatures>DisabledAlgorithm,KnownVuln</antifeatures>
 		<package>
 			<version>1.2.5</version>
 			<versioncode>27</versioncode>
@@ -29,19 +42,58 @@
 			<size>5399998</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>21</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>4e119dd2edab9b759b84354a9a61477c</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="info.horriblesubs.sher">
 		<id>info.horriblesubs.sher</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>an!me</name>
 		<summary>an!me - better ongoing, android application</summary>
 		<icon>info.horriblesubs.sher.90.png</icon>
-		<desc>&lt;p&gt;Note: As of 2020-08-17, the source repo has been missing for a few days now, and the app is no longer on the play store. I'm adding NoSourceSince, removing it from updater, and moving the apk to the archive.&lt;/p&gt;&lt;p&gt;Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.&lt;/p&gt;&lt;p&gt;Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.&lt;/p&gt;&lt;p&gt;an!me - better ongoing is an android application with notification support for newer releases Not affiliated to source i.e. horriblesubs.info in any way Support the official site horriblesubs.info Tech&lt;/p&gt;&lt;p&gt;an!me implements number of open source projects listed bellow:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Androidx Libraries&lt;/li&gt;&lt;li&gt; Glide for Displaying images&lt;/li&gt;&lt;li&gt; Retrofit networking libraries&lt;/li&gt;&lt;li&gt; SimpleHtmlDom for HTML parsing&lt;/li&gt;&lt;li&gt; Firebase for FCM notifications &amp;amp; google ads&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Notes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href=&quot;Supported&quot;&gt;Supported&lt;/a&gt; Versions 0.9.0 (and above) (Api-v7)&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;Supported&quot;&gt;Supported&lt;/a&gt; Versions 0.8.0 (and above) (Api-v6)&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;Supported&quot;&gt;Supported&lt;/a&gt; Versions 0.7.0 - 0.7.9 (Api-v5)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;    * &lt;a href=&quot;Changed&quot;&gt;Signing Keys&lt;/a&gt; Versions 0.7.5 - 0.7.9     * &lt;a href=&quot;Changed&quot;&gt;Signing Keys&lt;/a&gt; Versions 0.7.0 - 0.7.4&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href=&quot;Unsupported&quot;&gt;Unsupported&lt;/a&gt; Versions 0.6.5 and earlier&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Lists New/Latest Releases from HorribleSubs Website,&lt;/li&gt;&lt;li&gt; Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),&lt;/li&gt;&lt;li&gt; Notification Support for every new release available on HorribleSubs&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;    * Needs to be enabled in the Settings,     * Notification might get delayed (30 min at max),&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Bookmark a Show for faster &amp;amp; easier access,&lt;/li&gt;&lt;li&gt; Detailed Show page,&lt;/li&gt;&lt;li&gt; Lists Search for the shows/release.&lt;/li&gt;&lt;li&gt; Views All as well as Current Shows with Search option.&lt;/li&gt;&lt;li&gt; Show Activity for viewing previous show releases and show description.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>Note: As of 2020-08-17, the source repo has been missing for a few days now, and the app is no longer on the play store. I'm adding NoSourceSince, removing it from updater, and moving the apk to the archive.
+
+Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.
+
+Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.
+
+an!me - better ongoing is an android application with notification support for newer releases
+Not affiliated to source i.e. horriblesubs.info in any way
+Support the official site horriblesubs.info
+Tech
+
+an!me implements number of open source projects listed bellow:
+
+* Androidx Libraries
+* Glide for Displaying images
+* Retrofit networking libraries
+* SimpleHtmlDom for HTML parsing
+* Firebase for FCM notifications &amp; google ads
+
+Notes:
+
+* [Supported] Versions 0.9.0 (and above) (Api-v7)
+* [Supported] Versions 0.8.0 (and above) (Api-v6)
+* [Supported] Versions 0.7.0 - 0.7.9 (Api-v5)
+    * [Changed Signing Keys] Versions 0.7.5 - 0.7.9
+    * [Changed Signing Keys] Versions 0.7.0 - 0.7.4
+* [Unsupported] Versions 0.6.5 and earlier
+
+Features
+
+* Lists New/Latest Releases from HorribleSubs Website,
+* Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),
+* Notification Support for every new release available on HorribleSubs
+    * Needs to be enabled in the Settings,
+    * Notification might get delayed (30 min at max),
+* Bookmark a Show for faster &amp; easier access,
+* Detailed Show page,
+* Lists Search for the shows/release.
+* Views All as well as Current Shows with Search option.
+* Show Activity for viewing previous show releases and show description.</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Manga/Anime,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -61,19 +113,23 @@
 			<size>11484329</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>5d20c70dea2bef35b913242683e5d771</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 		</package>
 	</application>
 	<application id="com.crazyxacker.apps.anilabx3">
 		<id>com.crazyxacker.apps.anilabx3</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>AniLabX3</name>
 		<summary>AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels</summary>
 		<icon>com.crazyxacker.apps.anilabx3.160.png</icon>
-		<desc>&lt;p&gt;Notes:  - this app does not use github releases, thus it will not be updated automatically. - I haven't looked at the app at the time of writing. install at your own risk. sources are listed on website(?), unsure as website references a different app, and 'other apps' link does not work on mobile.&lt;/p&gt;&lt;p&gt;AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels&lt;/p&gt;</desc>
+		<desc>Notes: 
+- this app does not use github releases, thus it will not be updated automatically.
+- I haven't looked at the app at the time of writing. install at your own risk. sources are listed on website(?), unsure as website references a different app, and 'other apps' link does not work on mobile.
+
+AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels</desc>
 		<license>Unknown</license>
 		<categories>Manga/Anime,Reading,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -82,7 +138,7 @@
 		<tracker>https://github.com/CrazyXacker/anilabx/issues</tracker>
 		<author>CrazyXacker</author>
 		<marketversion></marketversion>
-		<marketvercode>166</marketvercode>
+		<marketvercode>160</marketvercode>
 		<antifeatures>Tracking,UpstreamNonFree,Ads,NoSourceSince</antifeatures>
 		<package>
 			<version>3.5.22</version>
@@ -92,7 +148,7 @@
 			<size>13549125</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>d8d80b25feb4c7616bf26dc8f28a0d77</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_ACCOUNTS,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,SYSTEM_ALERT_WINDOW,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.CHECK_LICENSE,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -100,12 +156,20 @@
 	</application>
 	<application id="com.freezingwind.animereleasenotifier">
 		<id>com.freezingwind.animereleasenotifier</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Anime Release Notifier</name>
 		<summary></summary>
 		<icon>com.freezingwind.animereleasenotifier.9.png</icon>
-		<desc>&lt;p&gt;Fetches your anime &quot;watching&quot; list and notifies you when a new anime episode is available. It also displays the time until a new episode is released.&lt;/p&gt;&lt;p&gt;Supports anime lists from:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; anime-planet.com&lt;/li&gt;&lt;li&gt; anilist.co&lt;/li&gt;&lt;li&gt; myanimelist.net&lt;/li&gt;&lt;li&gt; hummingbird.me&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>Fetches your anime &quot;watching&quot; list and notifies you when a new anime episode is
+available. It also displays the time until a new episode is released.
+
+Supports anime lists from:
+
+* anime-planet.com
+* anilist.co
+* myanimelist.net
+* hummingbird.me</desc>
 		<license>GPL-2.0-or-later</license>
 		<categories>Manga/Anime,Time</categories>
 		<category>Manga/Anime</category>
@@ -114,6 +178,7 @@
 		<tracker>https://github.com/blitzprog/anime-release-notifier-android/issues</tracker>
 		<marketversion></marketversion>
 		<marketvercode>9</marketvercode>
+		<antifeatures>DisabledAlgorithm,KnownVuln</antifeatures>
 		<package>
 			<version>0.1.8</version>
 			<versioncode>9</versioncode>
@@ -122,19 +187,26 @@
 			<size>1012235</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>21</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>ac2a01b80224aa12bd4820003dc68126</sig>
 			<permissions>INTERNET,RECEIVE_BOOT_COMPLETED,com.android.alarm.permission.SET_ALARM</permissions>
 		</package>
 	</application>
 	<application id="net.android.adm">
 		<id>net.android.adm</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>AnimeDLR</name>
 		<summary>AnimeDLR is an anime downloader for android</summary>
 		<icon>net.android.adm.152.png</icon>
-		<desc>&lt;p&gt;AnimeDLR is an anime downloader for android&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Watch online without download&lt;/li&gt;&lt;li&gt; Watch offline downloaded animes&lt;/li&gt;&lt;li&gt; Search series by name, genres, authors, ...&lt;/li&gt;&lt;li&gt; Show latest episodes, popular series&lt;/li&gt;&lt;li&gt; Bookmarks series&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>AnimeDLR is an anime downloader for android
+
+Features:
+* Watch online without download
+* Watch offline downloaded animes
+* Search series by name, genres, authors, ...
+* Show latest episodes, popular series
+* Bookmarks series</desc>
 		<license>Unknown</license>
 		<categories>Manga/Anime,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -153,19 +225,50 @@
 			<size>7921048</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>f928af2e4adcc563f8306f51ed36a866</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 		</package>
 	</application>
 	<application id="com.yihengquan.gogoanime">
 		<id>com.yihengquan.gogoanime</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-11-27</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>AnimeGo-Re</name>
 		<summary>GoGoAnime client</summary>
 		<icon>com.yihengquan.gogoanime.3.png</icon>
-		<desc>&lt;p&gt;Notes: This app seems to be an in-development replacement for an existing react-native app located at &lt;a href=&quot;https://github.com/HenryQuan/React-Native-GoGoAnime&quot;&gt;HenryQuan/React-Native-GoGoAnime&lt;/a&gt;. I've corrected some typos and links, but probably won't be updating the description.&lt;/p&gt;&lt;p&gt;= AnimeGo =&lt;/p&gt;&lt;p&gt;&lt;b&gt;This is not the official app&lt;/b&gt;&lt;/p&gt;&lt;p&gt;It has been rewritten with &amp;lt;code&amp;gt;Flutter&amp;lt;/code&amp;gt; to support IOS, tablets and web.&lt;/p&gt;&lt;p&gt;如果你喜歡中文字幕的話，可以嘗試&lt;a href=&quot;https://github.com/HenryQuan/AnimeOne&quot;&gt;AnimeOne&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;= Features =&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Latest anime&lt;/li&gt;&lt;li&gt; Seaonal anime&lt;/li&gt;&lt;li&gt; Movie &amp;amp;amp; Popular anime&lt;/li&gt;&lt;li&gt; Genre list&lt;/li&gt;&lt;li&gt; Search anime&lt;/li&gt;&lt;li&gt; Side drawer design&lt;/li&gt;&lt;li&gt; Watch history (wip)&lt;/li&gt;&lt;li&gt; Favourite anime list (wip)&lt;/li&gt;&lt;li&gt; Auto update (wip)&lt;/li&gt;&lt;li&gt; No popups while watching anime (IOS and Android only)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;I have abondoned this project for about 2 years but it is finally back. A complete rework is undergoing because &amp;lt;code&amp;gt;AnimeOne&amp;lt;/code&amp;gt; doesn’t have some old animes. Flutter is now used instead of React Native. Some features are still under development but it is now stable enough to use. You could try &lt;a href=&quot;https://henryquan.github.io/AnimeGo-Re&quot;&gt;the web version&lt;/a&gt; now.&lt;/p&gt;&lt;p&gt;= Downloads =&lt;/p&gt;&lt;p&gt;Only android build is available and you can download the apk from &lt;a href=&quot;https://github.com/HenryQuan/AnimeGo-Re/releases/latest&quot;&gt;releases/latest&lt;/a&gt; (currently still in preview). However, IOS version is being tested and it works fine. You could &lt;a href=&quot;https://github.com/HenryQuan/AnimeGo-Re/tree/master/AnimeGo/README.md&quot;&gt;compile&lt;/a&gt; it yourself.&lt;/p&gt;&lt;p&gt;= Screenshots =&lt;/p&gt;&lt;p&gt;New screenshots will be taken soon.&lt;/p&gt;</desc>
+		<desc>Notes: This app seems to be an in-development replacement for an existing react-native app located at [https://github.com/HenryQuan/React-Native-GoGoAnime HenryQuan/React-Native-GoGoAnime]. I've corrected some typos and links, but probably won't be updating the description.
+
+= AnimeGo =
+
+'''This is not the official app'''
+
+It has been rewritten with &lt;code&gt;Flutter&lt;/code&gt; to support IOS, tablets and web.
+
+如果你喜歡中文字幕的話，可以嘗試[https://github.com/HenryQuan/AnimeOne AnimeOne]。
+
+= Features =
+
+* Latest anime
+* Seaonal anime
+* Movie &amp;amp; Popular anime
+* Genre list
+* Search anime
+* Side drawer design
+* Watch history (wip)
+* Favourite anime list (wip)
+* Auto update (wip)
+* No popups while watching anime (IOS and Android only)
+
+I have abondoned this project for about 2 years but it is finally back. A complete rework is undergoing because &lt;code&gt;AnimeOne&lt;/code&gt; doesn’t have some old animes. Flutter is now used instead of React Native. Some features are still under development but it is now stable enough to use. You could try [https://henryquan.github.io/AnimeGo-Re the web version] now.
+
+= Downloads =
+
+Only android build is available and you can download the apk from [https://github.com/HenryQuan/AnimeGo-Re/releases/latest releases/latest] (currently still in preview). However, IOS version is being tested and it works fine. You could [https://github.com/HenryQuan/AnimeGo-Re/tree/master/AnimeGo/README.md compile] it yourself.
+
+= Screenshots =
+
+New screenshots will be taken soon.</desc>
 		<license>MIT</license>
 		<categories>Manga/Anime,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -175,7 +278,7 @@
 		<changelog>https://github.com/HenryQuan/AnimeGo-Re/releases</changelog>
 		<author>HenryQuan</author>
 		<marketversion></marketversion>
-		<marketvercode>3156728</marketvercode>
+		<marketvercode>3</marketvercode>
 		<package>
 			<version>1.2.1</version>
 			<versioncode>3</versioncode>
@@ -184,7 +287,7 @@
 			<size>14474463</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>0340aa9cc2cf98487881a52c439b5c37</sig>
 			<permissions>INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -197,7 +300,7 @@
 			<size>22027797</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-11-27</added>
+			<added>2021-02-13</added>
 			<sig>0340aa9cc2cf98487881a52c439b5c37</sig>
 			<permissions>INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -205,12 +308,15 @@
 	</application>
 	<application id="net.somethingdreadful.MAL">
 		<id>net.somethingdreadful.MAL</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Atarashii!</name>
 		<summary></summary>
 		<icon>net.somethingdreadful.MAL.14.png</icon>
-		<desc>&lt;p&gt;&quot;Atarashii&quot; is Japanese for &quot;New, Modern&quot;. Atarashii! aims to be a modern, native Android app for managing your MAL.&lt;/p&gt;&lt;p&gt;Youll need an account on that website or to create one in the app.&lt;/p&gt;</desc>
+		<desc>&quot;Atarashii&quot; is Japanese for &quot;New, Modern&quot;. Atarashii! aims to be a modern,
+native Android app for managing your MAL.
+
+Youll need an account on that website or to create one in the app.</desc>
 		<license>BSD-3-Clause</license>
 		<categories>Manga/Anime,Reading</categories>
 		<category>Manga/Anime</category>
@@ -220,6 +326,7 @@
 		<changelog>https://github.com/AnimeNeko/Atarashii/releases</changelog>
 		<marketversion></marketversion>
 		<marketvercode>14</marketvercode>
+		<antifeatures>DisabledAlgorithm,KnownVuln</antifeatures>
 		<package>
 			<version>1.4</version>
 			<versioncode>14</versioncode>
@@ -228,19 +335,25 @@
 			<size>1416691</size>
 			<sdkver>8</sdkver>
 			<targetSdkVersion>17</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>ff98aaae50479451f5b90b7fa2ee10ee</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,NFC,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="net.android.hdlr">
 		<id>net.android.hdlr</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>H-DLR</name>
 		<summary>Enjoy your Hentai collection anywhere and anytime</summary>
 		<icon>net.android.hdlr.24.png</icon>
-		<desc>&lt;p&gt;H-DLR is an application that allows you to grab hentai episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Multiple sources&lt;/li&gt;&lt;li&gt; Bookmark series&lt;/li&gt;&lt;li&gt; Stream or download videos&lt;/li&gt;&lt;li&gt; Download queue.&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>H-DLR is an application that allows you to grab hentai episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.
+
+Features
+* Multiple sources
+* Bookmark series
+* Stream or download videos
+* Download queue.</desc>
 		<license>Unknown</license>
 		<categories>Manga/Anime,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -259,19 +372,27 @@
 			<size>4039863</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>530dcea5e374ea6cae941517ec897363</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 		</package>
 	</application>
 	<application id="me.devsaki.hentoid">
 		<id>me.devsaki.hentoid</id>
-		<added>2020-10-22</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Hentoid</name>
 		<summary>Hentoid is an ad-free Doujinshi &amp; H-Manga archiving and viewing app.</summary>
 		<icon>me.devsaki.hentoid.329.png</icon>
-		<desc>&lt;p&gt;`Hentoid` is an ad-free Doujinshi &amp;amp; H-Manga archiving and viewing app. `Hentoid` currently supports: &lt;a href=&quot;https://nhentai.net/&quot;&gt;nhentai&lt;/a&gt;, &lt;a href=&quot;https://hentai.cafe/&quot;&gt;hentai cafe&lt;/a&gt;, &lt;a href=&quot;https://hitomi.la/&quot;&gt;hitomi&lt;/a&gt;, &lt;a href=&quot;http://asmhentai.com/&quot;&gt;asmhentai&lt;/a&gt;, &lt;a href=&quot;http://www.tsumino.com/&quot;&gt;tsumino&lt;/a&gt;, &lt;a href=&quot;https://pururin.io/&quot;&gt;pururin&lt;/a&gt;, &lt;a href=&quot;https://e-hentai.org/&quot;&gt;e-hentai&lt;/a&gt;, &lt;a href=&quot;https://hentainexus.com&quot;&gt;Hentai Nexus&lt;/a&gt;, &lt;a href=&quot;https://www.8muses.com&quot;&gt;8muses&lt;/a&gt;, &lt;a href=&quot;https://doujins.com&quot;&gt;Doujins.com&lt;/a&gt; and &lt;a href=&quot;https://www.luscious.net&quot;&gt;Luscious.net&lt;/a&gt;. Note: `Hentoid` can still import downloads from &lt;a href=&quot;https://www.fakku.net/&quot;&gt;FAKKU&lt;/a&gt; and &lt;a href=&quot;https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg&quot;&gt;Pururin&lt;/a&gt;. Check out the &lt;a href=&quot;https://github.com/AVnetWS/Hentoid/wiki&quot;&gt;Hentoid wiki&lt;/a&gt; if you need assistance installing `Hentoid` on your device. For the latest release, click &lt;a href=&quot;https://github.com/AVnetWS/Hentoid/releases/latest&quot;&gt;here&lt;/a&gt;.   Don't forget to check the &lt;a href=&quot;https://github.com/avluis/Hentoid/wiki/FAQ&quot;&gt;FAQ&lt;/a&gt; if you have any issue Visit our &lt;a href=&quot;https://discord.gg/QEZ3qk9&quot;&gt;Discord Server&lt;/a&gt; to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.&lt;/p&gt;</desc>
+		<desc>`Hentoid` is an ad-free Doujinshi &amp; H-Manga archiving and viewing app.
+`Hentoid` currently supports:
+[https://nhentai.net/ nhentai], [https://hentai.cafe/ hentai cafe], [https://hitomi.la/ hitomi], [http://asmhentai.com/ asmhentai], [http://www.tsumino.com/ tsumino], [https://pururin.io/ pururin], [https://e-hentai.org/ e-hentai], [https://hentainexus.com Hentai Nexus], [https://www.8muses.com 8muses], [https://doujins.com Doujins.com] and [https://www.luscious.net Luscious.net].
+Note: `Hentoid` can still import downloads from [https://www.fakku.net/ FAKKU] and [https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg Pururin].
+Check out the [https://github.com/AVnetWS/Hentoid/wiki Hentoid wiki] if you need assistance installing `Hentoid` on your device.
+For the latest release, click [https://github.com/AVnetWS/Hentoid/releases/latest here].
+ 
+Don't forget to check the [https://github.com/avluis/Hentoid/wiki/FAQ FAQ] if you have any issue
+Visit our [https://discord.gg/QEZ3qk9 Discord Server] to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.</desc>
 		<license>Apache-2.0</license>
 		<categories>Manga/Anime,Reading,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -280,7 +401,7 @@
 		<tracker>https://github.com/avluis/Hentoid/issues</tracker>
 		<changelog>https://github.com/avluis/Hentoid/releases</changelog>
 		<marketversion></marketversion>
-		<marketvercode>333</marketvercode>
+		<marketvercode>329</marketvercode>
 		<antifeatures>NonFreeNet</antifeatures>
 		<package>
 			<version>1.13.8</version>
@@ -290,7 +411,7 @@
 			<size>7952370</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-01-09</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -303,7 +424,7 @@
 			<size>7952370</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-01-04</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -316,7 +437,7 @@
 			<size>7944178</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-01-04</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -329,7 +450,7 @@
 			<size>7948195</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-12-25</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -342,7 +463,7 @@
 			<size>7939993</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-12-19</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -355,7 +476,7 @@
 			<size>7939993</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-12-17</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -368,7 +489,7 @@
 			<size>7935999</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-12-10</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -381,7 +502,7 @@
 			<size>7874655</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-11-27</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -394,7 +515,7 @@
 			<size>7374764</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -407,7 +528,7 @@
 			<size>7374948</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -420,7 +541,7 @@
 			<size>7629454</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -433,7 +554,7 @@
 			<size>7594680</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -446,7 +567,7 @@
 			<size>7594253</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -459,7 +580,7 @@
 			<size>7594273</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>6bbfea03161591765c4ae69fbe1e36bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -467,12 +588,23 @@
 	</application>
 	<application id="net.android.kamuy">
 		<id>net.android.kamuy</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Kamuy</name>
 		<summary>Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList</summary>
 		<icon>net.android.kamuy.38.png</icon>
-		<desc>&lt;p&gt;Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Manage your anime and manga: progress, status, rate&lt;/li&gt;&lt;li&gt; Discover anime: top, popular, upcoming, airing, just added, seasonal&lt;/li&gt;&lt;li&gt; Search anime and manga by name&lt;/li&gt;&lt;li&gt; Manage your lists: Plan to watch/read, Watching/reading, On-hold, Dropped, Completed&lt;/li&gt;&lt;li&gt; MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList sync&lt;/li&gt;&lt;li&gt; Recommandations&lt;/li&gt;&lt;li&gt; Light or dark theme&lt;/li&gt;&lt;li&gt; Libraries can be accessed offline&lt;/li&gt;&lt;li&gt; List or grid view&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama
+
+Features
+* Manage your anime and manga: progress, status, rate
+* Discover anime: top, popular, upcoming, airing, just added, seasonal
+* Search anime and manga by name
+* Manage your lists: Plan to watch/read, Watching/reading, On-hold, Dropped, Completed
+* MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList sync
+* Recommandations
+* Light or dark theme
+* Libraries can be accessed offline
+* List or grid view</desc>
 		<license>Unknown</license>
 		<categories>Manga/Anime</categories>
 		<category>Manga/Anime</category>
@@ -491,19 +623,44 @@
 			<size>4521937</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>ea3b0343873ff94021bb9b53f856a1dc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY</permissions>
 		</package>
 	</application>
 	<application id="org.koitharu.kotatsu">
 		<id>org.koitharu.kotatsu</id>
-		<added>2020-10-22</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Kotatsu</name>
 		<summary>Kotatsu is a free and open source manga reader for Android</summary>
 		<icon>org.koitharu.kotatsu.251.png</icon>
-		<desc>&lt;p&gt;Note: I have not bothered with antifeatures in this app. Assume no ads (based on description only), but also assume tracking and upstream-nonfree, since I'm not bothering to check.&lt;/p&gt;&lt;p&gt;Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.&lt;/p&gt;&lt;p&gt;Kotatsu is a free and open source manga reader for Android.&lt;/p&gt;&lt;p&gt;Android 5.0 Kotlin Build Status License 4pda&lt;/p&gt;&lt;p&gt;Legacy build (Android 4.1+): available https://github.com/nv95/Kotatsu/releases/tag/v0.4-legacy&lt;/p&gt;&lt;p&gt;Main Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Online manga catalogues&lt;/li&gt;&lt;li&gt; Search manga by name and genre&lt;/li&gt;&lt;li&gt; Reading history&lt;/li&gt;&lt;li&gt; Favourites with custom categories&lt;/li&gt;&lt;li&gt; Saving manga and reading it offline&lt;/li&gt;&lt;li&gt; Tablet-optimized modern UI&lt;/li&gt;&lt;li&gt; Reading third-party comics from CBZ&lt;/li&gt;&lt;li&gt; Standard and Webtoon-optimized reader&lt;/li&gt;&lt;li&gt; Notifications about new chapters&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Coming Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Updates feed&lt;/li&gt;&lt;li&gt; Global search&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>Note: I have not bothered with antifeatures in this app. Assume no ads (based on description only), but also assume tracking and upstream-nonfree, since I'm not bothering to check.
+
+Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.
+
+Kotatsu is a free and open source manga reader for Android.
+
+Android 5.0 Kotlin Build Status License 4pda
+
+Legacy build (Android 4.1+): available https://github.com/nv95/Kotatsu/releases/tag/v0.4-legacy
+
+Main Features
+
+* Online manga catalogues
+* Search manga by name and genre
+* Reading history
+* Favourites with custom categories
+* Saving manga and reading it offline
+* Tablet-optimized modern UI
+* Reading third-party comics from CBZ
+* Standard and Webtoon-optimized reader
+* Notifications about new chapters
+
+Coming Features
+
+* Updates feed
+* Global search</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Manga/Anime,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -523,7 +680,7 @@
 			<size>3145749</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>dd481767ec88795ce0a97b82ecfae931</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -535,7 +692,7 @@
 			<size>3048635</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>dd481767ec88795ce0a97b82ecfae931</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -547,19 +704,33 @@
 			<size>2937564</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>dd481767ec88795ce0a97b82ecfae931</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="me.echeung.moemoekyun.fdroid">
 		<id>me.echeung.moemoekyun.fdroid</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>LISTEN.moe</name>
 		<summary></summary>
 		<icon>me.echeung.moemoekyun.fdroid.91.png</icon>
-		<desc>&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Tune in to the radio 24/7&lt;/li&gt;&lt;li&gt; No ads&lt;/li&gt;&lt;li&gt; Login to your account to access your favorites and make requests&lt;/li&gt;&lt;li&gt; Search for songs to favorite and request&lt;/li&gt;&lt;li&gt; See the last 2 songs played&lt;/li&gt;&lt;li&gt; Musicxmatch floating lyrics support&lt;/li&gt;&lt;li&gt; Android Auto support&lt;/li&gt;&lt;li&gt; Bluetooth and headphone control support&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;About:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; You can listen to the radio on any device with a browser too: https://listen.moe/&lt;/li&gt;&lt;li&gt; Help translate this app into your language: https://osfmofb.oneskyapp.com/collaboration/project?id=271507&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>Features:
+
+* Tune in to the radio 24/7
+* No ads
+* Login to your account to access your favorites and make requests
+* Search for songs to favorite and request
+* See the last 2 songs played
+* Musicxmatch floating lyrics support
+* Android Auto support
+* Bluetooth and headphone control support
+
+About:
+
+* You can listen to the radio on any device with a browser too: https://listen.moe/
+* Help translate this app into your language: https://osfmofb.oneskyapp.com/collaboration/project?id=271507</desc>
 		<license>MIT</license>
 		<categories>Manga/Anime,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -577,19 +748,35 @@
 			<size>3894260</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>25a69c2fc52e8a15c82acc688ad4100d</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK</permissions>
 		</package>
 	</application>
 	<application id="top.rechinx.meow">
 		<id>top.rechinx.meow</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Meow</name>
 		<summary>Yet another free and open source manga reader</summary>
 		<icon>top.rechinx.meow.6.png</icon>
-		<desc>&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Page reading&lt;/li&gt;&lt;li&gt; Scroll reading&lt;/li&gt;&lt;li&gt; Auto update&lt;/li&gt;&lt;li&gt; Login support&lt;/li&gt;&lt;li&gt; Plugin-like comic source.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Apologies for the dual versions. One of the versions is a forked  version released by mabDc on github; the other is official version  1.0.6 by rechinx; the mabDc version did not include a version bump or  a different package name, so the only way to know which is which on  version 1.0.6 (via fdroid) is to install an older version and see if  the signature check fails during install. At the current time, the  forked version is at 1.0.8 while the official version is at 1.0.6.  Since I'm not actually using Meow at the moment, I will not be fixing  this issue (I've been too lazy to look up the differences in the  forked version, and intend to check it out eventually).&lt;/p&gt;</desc>
+		<desc>Features
+* Page reading
+* Scroll reading
+* Auto update
+* Login support
+* Plugin-like comic source.
+
+Apologies for the dual versions. One of the versions is a forked 
+version released by mabDc on github; the other is official version 
+1.0.6 by rechinx; the mabDc version did not include a version bump or 
+a different package name, so the only way to know which is which on 
+version 1.0.6 (via fdroid) is to install an older version and see if 
+the signature check fails during install. At the current time, the 
+forked version is at 1.0.8 while the official version is at 1.0.6. 
+Since I'm not actually using Meow at the moment, I will not be fixing 
+this issue (I've been too lazy to look up the differences in the 
+forked version, and intend to check it out eventually).</desc>
 		<license>GPL-3.0-only</license>
 		<categories>Manga/Anime,Reading,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -608,19 +795,29 @@
 			<size>5605061</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>378cb6bd74429bbf047fd6e679451f22</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="moe.feng.nhentai">
 		<id>moe.feng.nhentai</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>NHBooks</name>
 		<summary></summary>
 		<icon>moe.feng.nhentai.36.png</icon>
-		<desc>&lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Maintenance of this app was suspended.&lt;/p&gt;&lt;p&gt;The program provides a simple and elegant interface in accordance with the Material Design specification, and obtains the book from NHentai through the API, giving you a lightweight and convenient client. Special declaration&lt;/p&gt;&lt;p&gt;The content provided by this app is not suitable for minors, and all content is obtained through Jsoup's resolution of NHentai's website. Any objection or psychological or even physical problems are irrelevant to the project.&lt;/p&gt;&lt;p&gt;Please be aware of any applicable local laws and regulations.&lt;/p&gt;</desc>
+		<desc>'''NOTE:''' Maintenance of this app was suspended.
+
+The program provides a simple and elegant interface in accordance with the
+Material Design specification, and obtains the book from NHentai through the
+API, giving you a lightweight and convenient client. Special declaration
+
+The content provided by this app is not suitable for minors, and all content is
+obtained through Jsoup's resolution of NHentai's website. Any objection or
+psychological or even physical problems are irrelevant to the project.
+
+Please be aware of any applicable local laws and regulations.</desc>
 		<license>GPL-3.0-or-later</license>
 		<categories>Manga/Anime,Reading,Multimedia,Internet</categories>
 		<category>Manga/Anime</category>
@@ -639,19 +836,31 @@
 			<size>2600279</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>2644a7732874b1c179ec071d4246fc19</sig>
 			<permissions>ACCESS_WIFI_STATE,CLEAR_APP_CACHE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="net.cyl.ranobe">
 		<id>net.cyl.ranobe</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-10-22</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Ranobe</name>
 		<summary>Ranobe is an app to read and download light novels</summary>
 		<icon>net.cyl.ranobe.33.png</icon>
-		<desc>&lt;p&gt;Ranobe&lt;/p&gt;&lt;p&gt;Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites&lt;/p&gt;&lt;p&gt;Disclaimer&lt;/p&gt;&lt;p&gt;&lt;i&gt;All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Choose the server where you want to read or download your Light Novel&lt;/li&gt;&lt;li&gt; Add LN into your library&lt;/li&gt;&lt;li&gt; Bookmark your preferred series&lt;/li&gt;&lt;li&gt; Read online or offline&lt;/li&gt;&lt;/ul&gt;</desc>
+		<desc>Ranobe
+
+Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites
+
+Disclaimer
+
+''All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law''
+
+Features
+* Choose the server where you want to read or download your Light Novel
+* Add LN into your library
+* Bookmark your preferred series
+* Read online or offline</desc>
 		<license>Unknown</license>
 		<categories>Manga/Anime,Reading,Multimedia</categories>
 		<category>Manga/Anime</category>
@@ -670,7 +879,7 @@
 			<size>4722743</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-10-22</added>
+			<added>2021-02-13</added>
 			<sig>7bfa959fb9b2201371a7b1f06f6522d2</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<features>android.hardware.touchscreen</features>
@@ -678,12 +887,12 @@
 	</application>
 	<application id="com.taiyaki_typed">
 		<id>com.taiyaki_typed</id>
-		<added>2020-12-17</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>Taiyaki</name>
 		<summary></summary>
 		<icon>com.taiyaki_typed.3145729.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>No description available</desc>
 		<license>Unknown</license>
 		<categories>fdroid</categories>
 		<category>fdroid</category>
@@ -700,7 +909,7 @@
 			<size>17933334</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-02-12</added>
+			<added>2021-02-13</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -713,7 +922,7 @@
 			<size>18293644</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-02-12</added>
+			<added>2021-02-13</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>x86</nativecode>
@@ -726,7 +935,7 @@
 			<size>17278020</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-02-12</added>
+			<added>2021-02-13</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -739,7 +948,7 @@
 			<size>35539115</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2021-02-12</added>
+			<added>2021-02-13</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
@@ -747,12 +956,31 @@
 	</application>
 	<application id="com.taiyakianime">
 		<id>com.taiyakianime</id>
-		<added>2020-10-22</added>
-		<lastupdated>2020-11-27</lastupdated>
+		<added>2021-02-13</added>
+		<lastupdated>2021-02-13</lastupdated>
 		<name>TaiYakiAnime</name>
 		<summary>Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL</summary>
 		<icon>com.taiyakianime.3145729.png</icon>
-		<desc>&lt;p&gt;Notes: This app is in beta, and seems to be in active development.&lt;/p&gt;&lt;p&gt;= TaiYaKi =&lt;/p&gt;&lt;p&gt;Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi&lt;/p&gt;&lt;p&gt;=== App is Currently in Beta ===&lt;/p&gt;&lt;p&gt;=== Compatible with iPhone and iPad =&amp;amp;gt; iOS 11.3+ &amp;amp;amp; Android 5.0+ ===&lt;/p&gt;&lt;p&gt;=== Features ===&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary&lt;/li&gt;&lt;li&gt; Multiple sources to choose from&lt;/li&gt;&lt;li&gt; Uses the Jikan &amp;amp;amp; the SIMKL API&lt;/li&gt;&lt;li&gt; Progress automatically updates to your MAL/SIMKL list as you watch&lt;/li&gt;&lt;li&gt; Binge Watching(coming soon!)&lt;/li&gt;&lt;li&gt; Constantly updated!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson&lt;/p&gt;</desc>
+		<desc>Notes: This app is in beta, and seems to be in active development.
+
+= TaiYaKi =
+
+Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi
+
+=== App is Currently in Beta ===
+
+=== Compatible with iPhone and iPad =&amp;gt; iOS 11.3+ &amp;amp; Android 5.0+ ===
+
+=== Features ===
+
+* Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary
+* Multiple sources to choose from
+* Uses the Jikan &amp;amp; the SIMKL API
+* Progress automatically updates to your MAL/SIMKL list as you watch
+* Binge Watching(coming soon!)
+* Constantly updated!
+
+The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson</desc>
 		<license>Unknown</license>
 		<categories>Multimedia,Manga/Anime</categories>
 		<category>Multimedia</category>
@@ -761,7 +989,7 @@
 		<tracker>https://github.com/Michael24884/TaiYaKiAnime/issues</tracker>
 		<author>Michael24884</author>
 		<marketversion></marketversion>
-		<marketvercode>4194305</marketvercode>
+		<marketvercode>3145729</marketvercode>
 		<antifeatures>Tracking,UpstreamNonFree,NoSourceSince</antifeatures>
 		<package>
 			<version>1.0</version>
@@ -771,7 +999,7 @@
 			<size>17417941</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-11-27</added>
+			<added>2021-02-13</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.CHECK_LICENSE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -784,7 +1012,7 @@
 			<size>17285402</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-11-27</added>
+			<added>2021-02-13</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.CHECK_LICENSE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>x86</nativecode>
@@ -797,7 +1025,7 @@
 			<size>17051110</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-11-27</added>
+			<added>2021-02-13</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.CHECK_LICENSE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -810,7 +1038,7 @@
 			<size>34627102</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-11-27</added>
+			<added>2021-02-13</added>
 			<sig>b6e0344e9cbcbcd6f20dc82b513925f6</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.CHECK_LICENSE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>

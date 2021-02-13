@@ -1,11 +1,11 @@
 {
   "repo": {
-    "timestamp": 1613160064000,
-    "version": 21,
+    "timestamp": 1613174623000,
+    "version": 20000,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
+    "description": "\nThis is an archive of open and closed source anime/manga related apps.\nApplications in this repository are official binaries built and\nsigned by their respective developers and copied to this directory.\n",
     "address": "https://animanga.efreakbnc.net/fdroid/archive",
-    "description": "This is an archive of open and closed source anime/manga related apps. Applications in this repository are official binaries built and signed by their respective developers and copied to this directory. ",
     "mirrors": [
       "https://animanga.cloud.efreakbnc.net/fdroid/archive",
       "https://raw.githubusercontent.com/Efreak/nontachi-fdroid/master/fdroid/archive"
@@ -17,21 +17,29 @@
   },
   "apps": [
     {
+      "antiFeatures": [
+        "DisabledAlgorithm",
+        "KnownVuln"
+      ],
       "categories": [
         "Manga/Anime",
         "Reading",
         "Multimedia"
       ],
       "suggestedVersionCode": "27",
-      "description": "<p>Offline digital manga catalogue.</p><ul><li> Access to over 45 000 manga series from currently 6 sources: Batoto (EN), MangaEden (EN), MangaHere (EN), MangaReader (EN), MangaEden (IT), and MangaHere (ES).</li><li> Responsive viewer with options to switch reading direction, lock orientation, lock zoom, full-screen or immersive mode.</li><li> A search tool capable of filtering and ordering manga series by name, genre (not for all sources), and status.</li><li> An Exploring function to discover random manga series.</li><li> A download manager to collect your desired manga series offline.</li><li> Your personalized list of favourite manga series and recently read chapters (manageable with \"Mark Read\") .</li><li> Easy settings to manage your reading experience such as \"Enable Lazy Loading\" to conserve bandwidth.</li></ul>",
+      "description": "Offline digital manga catalogue.\n\n* Access to over 45 000 manga series from currently 6 sources: Batoto (EN), MangaEden (EN), MangaHere (EN), MangaReader (EN), MangaEden (IT), and MangaHere (ES).\n* Responsive viewer with options to switch reading direction, lock orientation, lock zoom, full-screen or immersive mode.\n* A search tool capable of filtering and ordering manga series by name, genre (not for all sources), and status.\n* An Exploring function to discover random manga series.\n* A download manager to collect your desired manga series offline.\n* Your personalized list of favourite manga series and recently read chapters (manageable with \"Mark Read\") .\n* Easy settings to manage your reading experience such as \"Enable Lazy Loading\" to conserve bandwidth.",
       "license": "Apache-2.0",
-      "name": "Aiz\u014dban",
       "sourceCode": "https://github.com/jparkie/Aizoban",
       "webSite": "https://jparkie.github.io/Aizoban",
-      "added": 1603326954000,
+      "added": 1613174555000,
       "icon": "com.jparkie.aizoban.27.png",
       "packageName": "com.jparkie.aizoban",
-      "lastUpdated": 1603326954000
+      "lastUpdated": 1613174555000,
+      "localized": {
+        "en-US": {
+          "name": "Aiz\u014dban"
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -47,16 +55,16 @@
       ],
       "changelog": "https://github.com/Sher1234/Horrible/releases",
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Note: As of 2020-08-17, the source repo has been missing for a few days now, and the app is no longer on the play store. I'm adding NoSourceSince, removing it from updater, and moving the apk to the archive.</p><p>Note: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.</p><p>Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.</p><p>an!me - better ongoing is an android application with notification support for newer releases Not affiliated to source i.e. horriblesubs.info in any way Support the official site horriblesubs.info Tech</p><p>an!me implements number of open source projects listed bellow:</p><ul><li> Androidx Libraries</li><li> Glide for Displaying images</li><li> Retrofit networking libraries</li><li> SimpleHtmlDom for HTML parsing</li><li> Firebase for FCM notifications &amp; google ads</li></ul><p>Notes:</p><ul><li> <a href=\"Supported\">Supported</a> Versions 0.9.0 (and above) (Api-v7)</li><li> <a href=\"Supported\">Supported</a> Versions 0.8.0 (and above) (Api-v6)</li><li> <a href=\"Supported\">Supported</a> Versions 0.7.0 - 0.7.9 (Api-v5)</li></ul><p>    * <a href=\"Changed\">Signing Keys</a> Versions 0.7.5 - 0.7.9     * <a href=\"Changed\">Signing Keys</a> Versions 0.7.0 - 0.7.4</p><ul><li> <a href=\"Unsupported\">Unsupported</a> Versions 0.6.5 and earlier</li></ul><p>Features</p><ul><li> Lists New/Latest Releases from HorribleSubs Website,</li><li> Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),</li><li> Notification Support for every new release available on HorribleSubs</li></ul><p>    * Needs to be enabled in the Settings,     * Notification might get delayed (30 min at max),</p><ul><li> Bookmark a Show for faster &amp; easier access,</li><li> Detailed Show page,</li><li> Lists Search for the shows/release.</li><li> Views All as well as Current Shows with Search option.</li><li> Show Activity for viewing previous show releases and show description.</li></ul>",
+      "description": "Note: As of 2020-08-17, the source repo has been missing for a few days now, and the app is no longer on the play store. I'm adding NoSourceSince, removing it from updater, and moving the apk to the archive.\n\nNote: I have not checked antifeatures. I'm not bothering. The description does say that Firebase is being used for ads, so I'm adding ads, tracking, and nonfree.\n\nNote: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.\n\nan!me - better ongoing is an android application with notification support for newer releases\nNot affiliated to source i.e. horriblesubs.info in any way\nSupport the official site horriblesubs.info\nTech\n\nan!me implements number of open source projects listed bellow:\n\n* Androidx Libraries\n* Glide for Displaying images\n* Retrofit networking libraries\n* SimpleHtmlDom for HTML parsing\n* Firebase for FCM notifications & google ads\n\nNotes:\n\n* [Supported] Versions 0.9.0 (and above) (Api-v7)\n* [Supported] Versions 0.8.0 (and above) (Api-v6)\n* [Supported] Versions 0.7.0 - 0.7.9 (Api-v5)\n    * [Changed Signing Keys] Versions 0.7.5 - 0.7.9\n    * [Changed Signing Keys] Versions 0.7.0 - 0.7.4\n* [Unsupported] Versions 0.6.5 and earlier\n\nFeatures\n\n* Lists New/Latest Releases from HorribleSubs Website,\n* Lists Today's Schedule as well as Week's Schedule day wise (According to User Timezone),\n* Notification Support for every new release available on HorribleSubs\n    * Needs to be enabled in the Settings,\n    * Notification might get delayed (30 min at max),\n* Bookmark a Show for faster & easier access,\n* Detailed Show page,\n* Lists Search for the shows/release.\n* Views All as well as Current Shows with Search option.\n* Show Activity for viewing previous show releases and show description.",
       "issueTracker": "https://github.com/Sher1234/Horrible/issues",
       "license": "GPL-3.0-only",
       "name": "an!me",
       "sourceCode": "https://github.com/Sher1234/Horrible",
       "summary": "an!me - better ongoing, android application",
-      "added": 1603326968000,
+      "added": 1613174571000,
       "icon": "info.horriblesubs.sher.90.png",
       "packageName": "info.horriblesubs.sher",
-      "lastUpdated": 1603326968000
+      "lastUpdated": 1613174571000
     },
     {
       "antiFeatures": [
@@ -71,34 +79,42 @@
         "Reading",
         "Multimedia"
       ],
-      "suggestedVersionCode": "166",
-      "description": "<p>Notes:  - this app does not use github releases, thus it will not be updated automatically. - I haven't looked at the app at the time of writing. install at your own risk. sources are listed on website(?), unsure as website references a different app, and 'other apps' link does not work on mobile.</p><p>AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels</p>",
+      "suggestedVersionCode": "160",
+      "description": "Notes: \n- this app does not use github releases, thus it will not be updated automatically.\n- I haven't looked at the app at the time of writing. install at your own risk. sources are listed on website(?), unsure as website references a different app, and 'other apps' link does not work on mobile.\n\nAniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels",
       "issueTracker": "https://github.com/CrazyXacker/anilabx/issues",
       "license": "Unknown",
       "name": "AniLabX3",
       "summary": "AniLabX - android app for watching anime/dramas/cartoons and reading manga/comics/light novels",
       "webSite": "https://mangawatcherx.com",
-      "added": 1603326901000,
+      "added": 1613174502000,
       "icon": "com.crazyxacker.apps.anilabx3.160.png",
       "packageName": "com.crazyxacker.apps.anilabx3",
-      "lastUpdated": 1603326943000
+      "lastUpdated": 1613174551000
     },
     {
+      "antiFeatures": [
+        "DisabledAlgorithm",
+        "KnownVuln"
+      ],
       "categories": [
         "Manga/Anime",
         "Time"
       ],
       "suggestedVersionCode": "9",
-      "description": "<p>Fetches your anime \"watching\" list and notifies you when a new anime episode is available. It also displays the time until a new episode is released.</p><p>Supports anime lists from:</p><ul><li> anime-planet.com</li><li> anilist.co</li><li> myanimelist.net</li><li> hummingbird.me</li></ul>",
+      "description": "Fetches your anime \"watching\" list and notifies you when a new anime episode is\navailable. It also displays the time until a new episode is released.\n\nSupports anime lists from:\n\n* anime-planet.com\n* anilist.co\n* myanimelist.net\n* hummingbird.me",
       "issueTracker": "https://github.com/blitzprog/anime-release-notifier-android/issues",
       "license": "GPL-2.0-or-later",
-      "name": "Anime Release Notifier",
       "sourceCode": "https://github.com/blitzprog/anime-release-notifier-android",
       "webSite": "https://animereleasenotifier.com",
-      "added": 1603326952000,
+      "added": 1613174553000,
       "icon": "com.freezingwind.animereleasenotifier.9.png",
       "packageName": "com.freezingwind.animereleasenotifier",
-      "lastUpdated": 1603326952000
+      "lastUpdated": 1613174553000,
+      "localized": {
+        "en-US": {
+          "name": "Anime Release Notifier"
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -113,30 +129,17 @@
         "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>AnimeDLR is an anime downloader for android</p><p>Features:</p><ul><li> Watch online without download</li><li> Watch offline downloaded animes</li><li> Search series by name, genres, authors, ...</li><li> Show latest episodes, popular series</li><li> Bookmarks series</li></ul>",
+      "description": "AnimeDLR is an anime downloader for android\n\nFeatures:\n* Watch online without download\n* Watch offline downloaded animes\n* Search series by name, genres, authors, ...\n* Show latest episodes, popular series\n* Bookmarks series",
       "issueTracker": "https://bitbucket.org/cylonu87/animedlr/issues",
       "license": "Unknown",
       "name": "AnimeDLR",
       "sourceCode": "https://bitbucket.org/cylonu87/animedlr/src",
       "summary": "AnimeDLR is an anime downloader for android",
       "webSite": "https://cylonu87.github.io/androidapps/animedlr",
-      "added": 1603326927000,
+      "added": 1613174532000,
       "icon": "net.android.adm.152.png",
       "packageName": "net.android.adm",
-      "lastUpdated": 1603326984000,
-      "localized": {
-        "en": {
-          "phoneScreenshots": [
-            "1.png",
-            "2.png",
-            "3.png",
-            "4.png",
-            "5.png",
-            "6.png",
-            "7.png"
-          ]
-        }
-      }
+      "lastUpdated": 1613174606000
     },
     {
       "authorName": "HenryQuan",
@@ -145,36 +148,44 @@
         "Multimedia"
       ],
       "changelog": "https://github.com/HenryQuan/AnimeGo-Re/releases",
-      "suggestedVersionCode": "3156728",
-      "description": "<p>Notes: This app seems to be an in-development replacement for an existing react-native app located at <a href=\"https://github.com/HenryQuan/React-Native-GoGoAnime\">HenryQuan/React-Native-GoGoAnime</a>. I've corrected some typos and links, but probably won't be updating the description.</p><p>= AnimeGo =</p><p><b>This is not the official app</b></p><p>It has been rewritten with &lt;code&gt;Flutter&lt;/code&gt; to support IOS, tablets and web.</p><p>\u5982\u679c\u4f60\u559c\u6b61\u4e2d\u6587\u5b57\u5e55\u7684\u8a71\uff0c\u53ef\u4ee5\u5617\u8a66<a href=\"https://github.com/HenryQuan/AnimeOne\">AnimeOne</a>\u3002</p><p>= Features =</p><ul><li> Latest anime</li><li> Seaonal anime</li><li> Movie &amp;amp; Popular anime</li><li> Genre list</li><li> Search anime</li><li> Side drawer design</li><li> Watch history (wip)</li><li> Favourite anime list (wip)</li><li> Auto update (wip)</li><li> No popups while watching anime (IOS and Android only)</li></ul><p>I have abondoned this project for about 2 years but it is finally back. A complete rework is undergoing because &lt;code&gt;AnimeOne&lt;/code&gt; doesn\u2019t have some old animes. Flutter is now used instead of React Native. Some features are still under development but it is now stable enough to use. You could try <a href=\"https://henryquan.github.io/AnimeGo-Re\">the web version</a> now.</p><p>= Downloads =</p><p>Only android build is available and you can download the apk from <a href=\"https://github.com/HenryQuan/AnimeGo-Re/releases/latest\">releases/latest</a> (currently still in preview). However, IOS version is being tested and it works fine. You could <a href=\"https://github.com/HenryQuan/AnimeGo-Re/tree/master/AnimeGo/README.md\">compile</a> it yourself.</p><p>= Screenshots =</p><p>New screenshots will be taken soon.</p>",
+      "suggestedVersionCode": "3",
+      "description": "Notes: This app seems to be an in-development replacement for an existing react-native app located at [https://github.com/HenryQuan/React-Native-GoGoAnime HenryQuan/React-Native-GoGoAnime]. I've corrected some typos and links, but probably won't be updating the description.\n\n= AnimeGo =\n\n'''This is not the official app'''\n\nIt has been rewritten with <code>Flutter</code> to support IOS, tablets and web.\n\n\u5982\u679c\u4f60\u559c\u6b61\u4e2d\u6587\u5b57\u5e55\u7684\u8a71\uff0c\u53ef\u4ee5\u5617\u8a66[https://github.com/HenryQuan/AnimeOne AnimeOne]\u3002\n\n= Features =\n\n* Latest anime\n* Seaonal anime\n* Movie &amp; Popular anime\n* Genre list\n* Search anime\n* Side drawer design\n* Watch history (wip)\n* Favourite anime list (wip)\n* Auto update (wip)\n* No popups while watching anime (IOS and Android only)\n\nI have abondoned this project for about 2 years but it is finally back. A complete rework is undergoing because <code>AnimeOne</code> doesn\u2019t have some old animes. Flutter is now used instead of React Native. Some features are still under development but it is now stable enough to use. You could try [https://henryquan.github.io/AnimeGo-Re the web version] now.\n\n= Downloads =\n\nOnly android build is available and you can download the apk from [https://github.com/HenryQuan/AnimeGo-Re/releases/latest releases/latest] (currently still in preview). However, IOS version is being tested and it works fine. You could [https://github.com/HenryQuan/AnimeGo-Re/tree/master/AnimeGo/README.md compile] it yourself.\n\n= Screenshots =\n\nNew screenshots will be taken soon.",
       "issueTracker": "https://github.com/HenryQuan/AnimeGo-Re/issues",
       "license": "MIT",
       "name": "AnimeGo-Re",
       "sourceCode": "https://github.com/HenryQuan/AnimeGo-Re",
       "summary": "GoGoAnime client",
       "webSite": "https://henryquan.github.io/AnimeGo-Re",
-      "added": 1603326921000,
+      "added": 1613174526000,
       "icon": "com.yihengquan.gogoanime.3.png",
       "packageName": "com.yihengquan.gogoanime",
-      "lastUpdated": 1606508979000
+      "lastUpdated": 1613174569000
     },
     {
+      "antiFeatures": [
+        "DisabledAlgorithm",
+        "KnownVuln"
+      ],
       "categories": [
         "Manga/Anime",
         "Reading"
       ],
       "changelog": "https://github.com/AnimeNeko/Atarashii/releases",
       "suggestedVersionCode": "14",
-      "description": "<p>\"Atarashii\" is Japanese for \"New, Modern\". Atarashii! aims to be a modern, native Android app for managing your MAL.</p><p>Youll need an account on that website or to create one in the app.</p>",
+      "description": "\"Atarashii\" is Japanese for \"New, Modern\". Atarashii! aims to be a modern,\nnative Android app for managing your MAL.\n\nYoull need an account on that website or to create one in the app.",
       "issueTracker": "https://github.com/AnimeNeko/Atarashii/issues",
       "license": "BSD-3-Clause",
-      "name": "Atarashii!",
       "sourceCode": "https://github.com/AnimeNeko/Atarashii",
       "webSite": "https://atarashiiapp.com",
-      "added": 1603326993000,
+      "added": 1613174614000,
       "icon": "net.somethingdreadful.MAL.14.png",
       "packageName": "net.somethingdreadful.MAL",
-      "lastUpdated": 1603326993000
+      "lastUpdated": 1613174614000,
+      "localized": {
+        "en-US": {
+          "name": "Atarashii!"
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -187,23 +198,16 @@
         "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>H-DLR is an application that allows you to grab hentai episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.</p><p>Features</p><ul><li> Multiple sources</li><li> Bookmark series</li><li> Stream or download videos</li><li> Download queue.</li></ul>",
+      "description": "H-DLR is an application that allows you to grab hentai episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.\n\nFeatures\n* Multiple sources\n* Bookmark series\n* Stream or download videos\n* Download queue.",
       "issueTracker": "https://www.reddit.com/r/AnimeDLR",
       "license": "Unknown",
       "name": "H-DLR",
       "summary": "Enjoy your Hentai collection anywhere and anytime",
       "webSite": "https://cylonu87.github.io/HDLR/",
-      "added": 1603326929000,
+      "added": 1613174534000,
       "icon": "net.android.hdlr.24.png",
       "packageName": "net.android.hdlr",
-      "lastUpdated": 1603326985000,
-      "localized": {
-        "en": {
-          "phoneScreenshots": [
-            "app.png"
-          ]
-        }
-      }
+      "lastUpdated": 1613174608000
     },
     {
       "antiFeatures": [
@@ -215,18 +219,18 @@
         "Multimedia"
       ],
       "changelog": "https://github.com/avluis/Hentoid/releases",
-      "suggestedVersionCode": "333",
-      "description": "<p>`Hentoid` is an ad-free Doujinshi &amp; H-Manga archiving and viewing app. `Hentoid` currently supports: <a href=\"https://nhentai.net/\">nhentai</a>, <a href=\"https://hentai.cafe/\">hentai cafe</a>, <a href=\"https://hitomi.la/\">hitomi</a>, <a href=\"http://asmhentai.com/\">asmhentai</a>, <a href=\"http://www.tsumino.com/\">tsumino</a>, <a href=\"https://pururin.io/\">pururin</a>, <a href=\"https://e-hentai.org/\">e-hentai</a>, <a href=\"https://hentainexus.com\">Hentai Nexus</a>, <a href=\"https://www.8muses.com\">8muses</a>, <a href=\"https://doujins.com\">Doujins.com</a> and <a href=\"https://www.luscious.net\">Luscious.net</a>. Note: `Hentoid` can still import downloads from <a href=\"https://www.fakku.net/\">FAKKU</a> and <a href=\"https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg\">Pururin</a>. Check out the <a href=\"https://github.com/AVnetWS/Hentoid/wiki\">Hentoid wiki</a> if you need assistance installing `Hentoid` on your device. For the latest release, click <a href=\"https://github.com/AVnetWS/Hentoid/releases/latest\">here</a>.   Don't forget to check the <a href=\"https://github.com/avluis/Hentoid/wiki/FAQ\">FAQ</a> if you have any issue Visit our <a href=\"https://discord.gg/QEZ3qk9\">Discord Server</a> to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.</p>",
+      "suggestedVersionCode": "329",
+      "description": "`Hentoid` is an ad-free Doujinshi & H-Manga archiving and viewing app.\n`Hentoid` currently supports:\n[https://nhentai.net/ nhentai], [https://hentai.cafe/ hentai cafe], [https://hitomi.la/ hitomi], [http://asmhentai.com/ asmhentai], [http://www.tsumino.com/ tsumino], [https://pururin.io/ pururin], [https://e-hentai.org/ e-hentai], [https://hentainexus.com Hentai Nexus], [https://www.8muses.com 8muses], [https://doujins.com Doujins.com] and [https://www.luscious.net Luscious.net].\nNote: `Hentoid` can still import downloads from [https://www.fakku.net/ FAKKU] and [https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg Pururin].\nCheck out the [https://github.com/AVnetWS/Hentoid/wiki Hentoid wiki] if you need assistance installing `Hentoid` on your device.\nFor the latest release, click [https://github.com/AVnetWS/Hentoid/releases/latest here].\n \nDon't forget to check the [https://github.com/avluis/Hentoid/wiki/FAQ FAQ] if you have any issue\nVisit our [https://discord.gg/QEZ3qk9 Discord Server] to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.",
       "issueTracker": "https://github.com/avluis/Hentoid/issues",
       "license": "Apache-2.0",
       "name": "Hentoid",
       "sourceCode": "https://github.com/avluis/Hentoid",
       "summary": "Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.",
       "webSite": "https://github.com/avluis/Hentoid",
-      "added": 1603326925000,
+      "added": 1613174531000,
       "icon": "me.devsaki.hentoid.329.png",
       "packageName": "me.devsaki.hentoid",
-      "lastUpdated": 1613102488000
+      "lastUpdated": 1613174600000
     },
     {
       "antiFeatures": [
@@ -240,31 +244,17 @@
         "Manga/Anime"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama</p><p>Features</p><ul><li> Manage your anime and manga: progress, status, rate</li><li> Discover anime: top, popular, upcoming, airing, just added, seasonal</li><li> Search anime and manga by name</li><li> Manage your lists: Plan to watch/read, Watching/reading, On-hold, Dropped, Completed</li><li> MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList sync</li><li> Recommandations</li><li> Light or dark theme</li><li> Libraries can be accessed offline</li><li> List or grid view</li></ul>",
+      "description": "Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama\n\nFeatures\n* Manage your anime and manga: progress, status, rate\n* Discover anime: top, popular, upcoming, airing, just added, seasonal\n* Search anime and manga by name\n* Manage your lists: Plan to watch/read, Watching/reading, On-hold, Dropped, Completed\n* MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList sync\n* Recommandations\n* Light or dark theme\n* Libraries can be accessed offline\n* List or grid view",
       "issueTracker": "https://bitbucket.org/cylonu87/kamuy/issues",
       "license": "Unknown",
       "name": "Kamuy",
       "sourceCode": "https://bitbucket.org/cylonu87/kamuy/src/",
       "summary": "Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList",
       "webSite": "https://cylonu87.github.io/androidapps/kamuy",
-      "added": 1603326931000,
+      "added": 1613174536000,
       "icon": "net.android.kamuy.38.png",
       "packageName": "net.android.kamuy",
-      "lastUpdated": 1603326987000,
-      "localized": {
-        "en": {
-          "phoneScreenshots": [
-            "1.png",
-            "2.png",
-            "3.png",
-            "4.png",
-            "5.png",
-            "6.png",
-            "7.png",
-            "8.png"
-          ]
-        }
-      }
+      "lastUpdated": 1613174610000
     },
     {
       "authorName": "nv95",
@@ -274,7 +264,7 @@
       ],
       "changelog": "https://github.com/nv95/Kotatsu/releases",
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Note: I have not bothered with antifeatures in this app. Assume no ads (based on description only), but also assume tracking and upstream-nonfree, since I'm not bothering to check.</p><p>Note: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.</p><p>Kotatsu is a free and open source manga reader for Android.</p><p>Android 5.0 Kotlin Build Status License 4pda</p><p>Legacy build (Android 4.1+): available https://github.com/nv95/Kotatsu/releases/tag/v0.4-legacy</p><p>Main Features</p><ul><li> Online manga catalogues</li><li> Search manga by name and genre</li><li> Reading history</li><li> Favourites with custom categories</li><li> Saving manga and reading it offline</li><li> Tablet-optimized modern UI</li><li> Reading third-party comics from CBZ</li><li> Standard and Webtoon-optimized reader</li><li> Notifications about new chapters</li></ul><p>Coming Features</p><ul><li> Updates feed</li><li> Global search</li></ul>",
+      "description": "Note: I have not bothered with antifeatures in this app. Assume no ads (based on description only), but also assume tracking and upstream-nonfree, since I'm not bothering to check.\n\nNote: This app seems to be under active development. Don't expect me to update the description, because I won't. Click the source code link to see if it's accurate.\n\nKotatsu is a free and open source manga reader for Android.\n\nAndroid 5.0 Kotlin Build Status License 4pda\n\nLegacy build (Android 4.1+): available https://github.com/nv95/Kotatsu/releases/tag/v0.4-legacy\n\nMain Features\n\n* Online manga catalogues\n* Search manga by name and genre\n* Reading history\n* Favourites with custom categories\n* Saving manga and reading it offline\n* Tablet-optimized modern UI\n* Reading third-party comics from CBZ\n* Standard and Webtoon-optimized reader\n* Notifications about new chapters\n\nComing Features\n\n* Updates feed\n* Global search",
       "donate": "https://money.yandex.ru/to/410012543938752",
       "issueTracker": "https://github.com/nv95/Kotatsu/issues",
       "license": "GPL-3.0-only",
@@ -282,22 +272,10 @@
       "sourceCode": "https://github.com/nv95/Kotatsu",
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
-      "added": 1603326936000,
+      "added": 1613174543000,
       "icon": "org.koitharu.kotatsu.251.png",
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1613102492000,
-      "localized": {
-        "en": {
-          "phoneScreenshots": [
-            "details.png",
-            "left-sidebar.png",
-            "right-sidebar.png",
-            "settings.png",
-            "storage.png",
-            "viewer.png"
-          ]
-        }
-      }
+      "lastUpdated": 1613174619000
     },
     {
       "categories": [
@@ -305,18 +283,22 @@
         "Multimedia"
       ],
       "suggestedVersionCode": "91",
-      "description": "<p>Features:</p><ul><li> Tune in to the radio 24/7</li><li> No ads</li><li> Login to your account to access your favorites and make requests</li><li> Search for songs to favorite and request</li><li> See the last 2 songs played</li><li> Musicxmatch floating lyrics support</li><li> Android Auto support</li><li> Bluetooth and headphone control support</li></ul><p>About:</p><ul><li> You can listen to the radio on any device with a browser too: https://listen.moe/</li><li> Help translate this app into your language: https://osfmofb.oneskyapp.com/collaboration/project?id=271507</li></ul>",
+      "description": "Features:\n\n* Tune in to the radio 24/7\n* No ads\n* Login to your account to access your favorites and make requests\n* Search for songs to favorite and request\n* See the last 2 songs played\n* Musicxmatch floating lyrics support\n* Android Auto support\n* Bluetooth and headphone control support\n\nAbout:\n\n* You can listen to the radio on any device with a browser too: https://listen.moe/\n* Help translate this app into your language: https://osfmofb.oneskyapp.com/collaboration/project?id=271507",
       "donate": "https://www.patreon.com/odysseyradio",
       "issueTracker": "https://github.com/LISTEN-moe/android-app/issues",
       "license": "MIT",
-      "name": "LISTEN.moe",
       "sourceCode": "https://github.com/LISTEN-moe/android-app",
       "translation": "https://crowdin.com/project/listenmoe-android-app",
       "webSite": "https://listen.moe/",
-      "added": 1603326980000,
+      "added": 1613174602000,
       "icon": "me.echeung.moemoekyun.fdroid.91.png",
       "packageName": "me.echeung.moemoekyun.fdroid",
-      "lastUpdated": 1603326980000
+      "lastUpdated": 1613174602000,
+      "localized": {
+        "en-US": {
+          "name": "LISTEN.moe"
+        }
+      }
     },
     {
       "authorName": "ReChinX",
@@ -327,17 +309,17 @@
       ],
       "changelog": "https://github.com/neverfelly/Meow/releases",
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Features</p><ul><li> Page reading</li><li> Scroll reading</li><li> Auto update</li><li> Login support</li><li> Plugin-like comic source.</li></ul><p>Apologies for the dual versions. One of the versions is a forked  version released by mabDc on github; the other is official version  1.0.6 by rechinx; the mabDc version did not include a version bump or  a different package name, so the only way to know which is which on  version 1.0.6 (via fdroid) is to install an older version and see if  the signature check fails during install. At the current time, the  forked version is at 1.0.8 while the official version is at 1.0.6.  Since I'm not actually using Meow at the moment, I will not be fixing  this issue (I've been too lazy to look up the differences in the  forked version, and intend to check it out eventually).</p>",
+      "description": "Features\n* Page reading\n* Scroll reading\n* Auto update\n* Login support\n* Plugin-like comic source.\n\nApologies for the dual versions. One of the versions is a forked \nversion released by mabDc on github; the other is official version \n1.0.6 by rechinx; the mabDc version did not include a version bump or \na different package name, so the only way to know which is which on \nversion 1.0.6 (via fdroid) is to install an older version and see if \nthe signature check fails during install. At the current time, the \nforked version is at 1.0.8 while the official version is at 1.0.6. \nSince I'm not actually using Meow at the moment, I will not be fixing \nthis issue (I've been too lazy to look up the differences in the \nforked version, and intend to check it out eventually).",
       "issueTracker": "https://github.com/neverfelly/Meow/issues",
       "license": "GPL-3.0-only",
       "name": "Meow",
       "sourceCode": "https://github.com/neverfelly/Meow",
       "summary": "Yet another free and open source manga reader",
       "webSite": "https://github.com/neverfelly/Meow",
-      "added": 1603326938000,
+      "added": 1613174545000,
       "icon": "top.rechinx.meow.6.png",
       "packageName": "top.rechinx.meow",
-      "lastUpdated": 1603326999000
+      "lastUpdated": 1613174621000
     },
     {
       "antiFeatures": [
@@ -351,16 +333,20 @@
       ],
       "changelog": "https://github.com/NHMoeDev/NHentai-android/releases",
       "suggestedVersionCode": "36",
-      "description": "<p><b>NOTE:</b> Maintenance of this app was suspended.</p><p>The program provides a simple and elegant interface in accordance with the Material Design specification, and obtains the book from NHentai through the API, giving you a lightweight and convenient client. Special declaration</p><p>The content provided by this app is not suitable for minors, and all content is obtained through Jsoup's resolution of NHentai's website. Any objection or psychological or even physical problems are irrelevant to the project.</p><p>Please be aware of any applicable local laws and regulations.</p>",
+      "description": "'''NOTE:''' Maintenance of this app was suspended.\n\nThe program provides a simple and elegant interface in accordance with the\nMaterial Design specification, and obtains the book from NHentai through the\nAPI, giving you a lightweight and convenient client. Special declaration\n\nThe content provided by this app is not suitable for minors, and all content is\nobtained through Jsoup's resolution of NHentai's website. Any objection or\npsychological or even physical problems are irrelevant to the project.\n\nPlease be aware of any applicable local laws and regulations.",
       "issueTracker": "https://github.com/NHMoeDev/NHentai-android/issues",
       "license": "GPL-3.0-or-later",
-      "name": "NHBooks",
       "sourceCode": "https://github.com/NHMoeDev/NHentai-android",
       "webSite": "https://nhmoedev.github.io/NHentai-android",
-      "added": 1603326982000,
+      "added": 1613174604000,
       "icon": "moe.feng.nhentai.36.png",
       "packageName": "moe.feng.nhentai",
-      "lastUpdated": 1603326982000
+      "lastUpdated": 1613174604000,
+      "localized": {
+        "en-US": {
+          "name": "NHBooks"
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -376,26 +362,16 @@
         "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Ranobe</p><p>Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites</p><p>Disclaimer</p><p><i>All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law</i></p><p>Features</p><ul><li> Choose the server where you want to read or download your Light Novel</li><li> Add LN into your library</li><li> Bookmark your preferred series</li><li> Read online or offline</li></ul>",
+      "description": "Ranobe\n\nRanobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites\n\nDisclaimer\n\n''All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law''\n\nFeatures\n* Choose the server where you want to read or download your Light Novel\n* Add LN into your library\n* Bookmark your preferred series\n* Read online or offline",
       "issueTracker": "https://bitbucket.org/cylonu87/ranobe/issues",
       "license": "Unknown",
       "name": "Ranobe",
       "summary": "Ranobe is an app to read and download light novels",
       "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
-      "added": 1603326935000,
+      "added": 1613174541000,
       "icon": "net.cyl.ranobe.33.png",
       "packageName": "net.cyl.ranobe",
-      "lastUpdated": 1603326992000,
-      "localized": {
-        "en": {
-          "phoneScreenshots": [
-            "5YkvRUb.png",
-            "AQ4Ss2D.png",
-            "ipjP1qB.png",
-            "rihMCHI.png"
-          ]
-        }
-      }
+      "lastUpdated": 1613174612000
     },
     {
       "categories": [
@@ -404,10 +380,10 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Taiyaki",
-      "added": 1608177685000,
+      "added": 1613174512000,
       "icon": "com.taiyaki_typed.3145729.png",
       "packageName": "com.taiyaki_typed",
-      "lastUpdated": 1613116879000
+      "lastUpdated": 1613174520000
     },
     {
       "antiFeatures": [
@@ -420,23 +396,23 @@
         "Multimedia",
         "Manga/Anime"
       ],
-      "suggestedVersionCode": "4194305",
-      "description": "<p>Notes: This app is in beta, and seems to be in active development.</p><p>= TaiYaKi =</p><p>Stream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi</p><p>=== App is Currently in Beta ===</p><p>=== Compatible with iPhone and iPad =&amp;gt; iOS 11.3+ &amp;amp; Android 5.0+ ===</p><p>=== Features ===</p><ul><li> Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary</li><li> Multiple sources to choose from</li><li> Uses the Jikan &amp;amp; the SIMKL API</li><li> Progress automatically updates to your MAL/SIMKL list as you watch</li><li> Binge Watching(coming soon!)</li><li> Constantly updated!</li></ul><p>The taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson</p>",
+      "suggestedVersionCode": "3145729",
+      "description": "Notes: This app is in beta, and seems to be in active development.\n\n= TaiYaKi =\n\nStream anime and sync your MyAnimeList (MAL) and SIMKL together with TaiYaKi\n\n=== App is Currently in Beta ===\n\n=== Compatible with iPhone and iPad =&gt; iOS 11.3+ &amp; Android 5.0+ ===\n\n=== Features ===\n\n* Sync your list and watch anime at the same time, completely ad-free and no subscriptions necessary\n* Multiple sources to choose from\n* Uses the Jikan &amp; the SIMKL API\n* Progress automatically updates to your MAL/SIMKL list as you watch\n* Binge Watching(coming soon!)\n* Constantly updated!\n\nThe taiyaki fish icon was made by Jenni Jackson. Dribbble page can be found here: https://dribbble.com/jennijackson",
       "issueTracker": "https://github.com/Michael24884/TaiYaKiAnime/issues",
       "license": "Unknown",
       "name": "TaiYakiAnime",
       "summary": "Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL",
       "webSite": "https://michael24884.github.io/TaiYaKiAnime/",
-      "added": 1603326918000,
+      "added": 1613174523000,
       "icon": "com.taiyakianime.3145729.png",
       "packageName": "com.taiyakianime",
-      "lastUpdated": 1606508976000
+      "lastUpdated": 1613174567000
     }
   ],
   "packages": {
     "com.crazyxacker.apps.anilabx3": [
       {
-        "added": 1603326943000,
+        "added": 1613174551000,
         "apkName": "com.crazyxacker.apps.anilabx3_v3.5.22_160.apk",
         "hash": "d6e515bb92aa1fa1c29b7d47fc2bf73fa6144d5019c538716f5a3f629e9beae6",
         "hashType": "sha256",
@@ -504,7 +480,11 @@
     ],
     "com.freezingwind.animereleasenotifier": [
       {
-        "added": 1603326952000,
+        "added": 1613174553000,
+        "antiFeatures": [
+          "DisabledAlgorithm",
+          "KnownVuln"
+        ],
         "apkName": "com.freezingwind.animereleasenotifier_9.apk",
         "hash": "1d043976dde4bd913f49a36197ca04a40f78f2cff48a37fa5ad16924fc4f0bd8",
         "hashType": "sha256",
@@ -534,7 +514,11 @@
     ],
     "com.jparkie.aizoban": [
       {
-        "added": 1603326954000,
+        "added": 1613174555000,
+        "antiFeatures": [
+          "DisabledAlgorithm",
+          "KnownVuln"
+        ],
         "apkName": "com.jparkie.aizoban_27.apk",
         "hash": "3bf7c926ec6c5c40f55482f91c6423f4dad3fceb43be453197a82e5093818fa1",
         "hashType": "sha256",
@@ -572,7 +556,7 @@
     ],
     "com.taiyaki_typed": [
       {
-        "added": 1613116879000,
+        "added": 1613174519000,
         "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
         "hash": "3b7c7184dc8603731f2eddef48b1a212df832993134d904d9fa9db765c0ebc06",
         "hashType": "sha256",
@@ -691,7 +675,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1613116879000,
+        "added": 1613174519000,
         "apkName": "com.taiyaki_typed_v1.0_3145729.apk",
         "hash": "3b7c7184dc8603731f2eddef48b1a212df832993134d904d9fa9db765c0ebc06",
         "hashType": "sha256",
@@ -810,7 +794,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1613116876000,
+        "added": 1613174516000,
         "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
         "hash": "5e640bcc426634b560f7f3fd49d7c1ddda418c5d11d154b06529a60c355d6f68",
         "hashType": "sha256",
@@ -929,7 +913,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1613116876000,
+        "added": 1613174516000,
         "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
         "hash": "5e640bcc426634b560f7f3fd49d7c1ddda418c5d11d154b06529a60c355d6f68",
         "hashType": "sha256",
@@ -1048,7 +1032,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1613116874000,
+        "added": 1613174514000,
         "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
         "hash": "812f651836ca7fb557f443f094ebb9615c082f564e0e205e43c82a7d9f620434",
         "hashType": "sha256",
@@ -1167,7 +1151,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1613116874000,
+        "added": 1613174514000,
         "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
         "hash": "812f651836ca7fb557f443f094ebb9615c082f564e0e205e43c82a7d9f620434",
         "hashType": "sha256",
@@ -1286,7 +1270,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1613116872000,
+        "added": 1613174512000,
         "apkName": "com.taiyaki_typed_v1.0_1.apk",
         "hash": "9b0a7493d9079bf64753db7a4dfe779e42d558f589b65966378fa51d7142906f",
         "hashType": "sha256",
@@ -1409,7 +1393,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1613116872000,
+        "added": 1613174512000,
         "apkName": "com.taiyaki_typed_v1.0_1.apk",
         "hash": "9b0a7493d9079bf64753db7a4dfe779e42d558f589b65966378fa51d7142906f",
         "hashType": "sha256",
@@ -1534,7 +1518,7 @@
     ],
     "com.taiyakianime": [
       {
-        "added": 1606508976000,
+        "added": 1613174567000,
         "apkName": "com.taiyakianime_v1.0_3145729.apk",
         "hash": "5747a47ee12c5abb0de62e1942a077a8b533a9c5c87e6abd336a8a8385c730b5",
         "hashType": "sha256",
@@ -1665,7 +1649,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1606508974000,
+        "added": 1613174564000,
         "apkName": "com.taiyakianime_v1.0_2097153.apk",
         "hash": "30dd7ad374b09c059e10fc8902906b1f10a726e6c96cf5fc9a3964105feceaf9",
         "hashType": "sha256",
@@ -1796,7 +1780,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1606508972000,
+        "added": 1613174562000,
         "apkName": "com.taiyakianime_v1.0_1048577.apk",
         "hash": "79db4e077451d0e55924ce5090d8c60658dc9d7a1cb2cc07cc3e6af882723cef",
         "hashType": "sha256",
@@ -1927,7 +1911,7 @@
         "versionName": "1.0"
       },
       {
-        "added": 1606508970000,
+        "added": 1613174559000,
         "apkName": "com.taiyakianime_v1.0_1.apk",
         "hash": "7209369e80249be571762f34096e6a68b090f8fedf3ea91bf65b69821749a34f",
         "hashType": "sha256",
@@ -2063,7 +2047,7 @@
     ],
     "com.yihengquan.gogoanime": [
       {
-        "added": 1603326923000,
+        "added": 1613174569000,
         "apkName": "com.yihengquan.gogoanime_v1.2.1_3.apk",
         "hash": "699a3742d08e8686997c8dcdcf68b3be5a5897b9ffc1d085136a55906f240d33",
         "hashType": "sha256",
@@ -2087,7 +2071,7 @@
         "versionName": "1.2.1"
       },
       {
-        "added": 1606508979000,
+        "added": 1613174528000,
         "apkName": "com.yihengquan.gogoanime_v1.2.2_1.apk",
         "hash": "01672a5669174f659da0eb5bb3239da0817a582cea7c53cb06d96ea2e2fb8e6d",
         "hashType": "sha256",
@@ -2112,7 +2096,7 @@
         "versionName": "1.2.2"
       },
       {
-        "added": 1606508979000,
+        "added": 1613174528000,
         "apkName": "com.yihengquan.gogoanime_v1.2.2_1.apk",
         "hash": "01672a5669174f659da0eb5bb3239da0817a582cea7c53cb06d96ea2e2fb8e6d",
         "hashType": "sha256",
@@ -2139,7 +2123,7 @@
     ],
     "info.horriblesubs.sher": [
       {
-        "added": 1603326968000,
+        "added": 1613174571000,
         "apkName": "info.horriblesubs.sher_v0.9.0-beta4_90.apk",
         "hash": "73be5c4d5774abb35c13d59988162c977bbf1dfbc891d502139216e0fa9f5aa0",
         "hashType": "sha256",
@@ -2181,7 +2165,7 @@
     ],
     "me.devsaki.hentoid": [
       {
-        "added": 1610208085000,
+        "added": 1613174600000,
         "apkName": "me.devsaki.hentoid_v1.13.8_329.apk",
         "hash": "2ca3a007f3192ac1e498f0bacf7353b5f68b21c265a6f0dfa9c3386285a3a30e",
         "hashType": "sha256",
@@ -2247,7 +2231,7 @@
         "versionName": "1.13.8"
       },
       {
-        "added": 1609790480000,
+        "added": 1613174598000,
         "apkName": "me.devsaki.hentoid_v1.13.7_327.apk",
         "hash": "1c578813e06b4d1495e4dd43f17d3d065fc24b7061217e630c1981f8c4510e69",
         "hashType": "sha256",
@@ -2313,7 +2297,7 @@
         "versionName": "1.13.7"
       },
       {
-        "added": 1609761678000,
+        "added": 1613174596000,
         "apkName": "me.devsaki.hentoid_v1.13.6_326.apk",
         "hash": "9ff4ddca7e2f2f7bce8b85edd902e2d269f1a3fae93e56d6b9852cf46661754c",
         "hashType": "sha256",
@@ -2379,7 +2363,7 @@
         "versionName": "1.13.6"
       },
       {
-        "added": 1608854479000,
+        "added": 1613174594000,
         "apkName": "me.devsaki.hentoid_v1.13.5_319.apk",
         "hash": "3bedb2c6a122d51b0e6b80cdf8754ef148d5c7757fb740b6b3c914b9472402cc",
         "hashType": "sha256",
@@ -2445,7 +2429,7 @@
         "versionName": "1.13.5"
       },
       {
-        "added": 1608379274000,
+        "added": 1613174592000,
         "apkName": "me.devsaki.hentoid_v1.13.4_311.apk",
         "hash": "308b990096d305e429f964a658d713e2598ceadfacc8e935e095ca2f9bae7a24",
         "hashType": "sha256",
@@ -2511,7 +2495,7 @@
         "versionName": "1.13.4"
       },
       {
-        "added": 1608163278000,
+        "added": 1613174590000,
         "apkName": "me.devsaki.hentoid_v1.13.3_309.apk",
         "hash": "c2facb3453acfe2e0cbf6d3aae9de06b4ade7ec62db0db5431668c55823f3e9e",
         "hashType": "sha256",
@@ -2577,7 +2561,7 @@
         "versionName": "1.13.3"
       },
       {
-        "added": 1607601672000,
+        "added": 1613174587000,
         "apkName": "me.devsaki.hentoid_v1.13.2_306.apk",
         "hash": "ca75d63f57e2d02e17fb6442b093220054530744ba2fb43e6dc410b1b318a6e5",
         "hashType": "sha256",
@@ -2643,7 +2627,7 @@
         "versionName": "1.13.2"
       },
       {
-        "added": 1606508981000,
+        "added": 1613174585000,
         "apkName": "me.devsaki.hentoid_v1.13.1_301.apk",
         "hash": "0cd02a8d2a8f6997b6f91dad1f994539ae5a6936521e0e6d3664b4343cc13938",
         "hashType": "sha256",
@@ -2709,7 +2693,7 @@
         "versionName": "1.13.1"
       },
       {
-        "added": 1603407679000,
+        "added": 1613174583000,
         "apkName": "me.devsaki.hentoid_v1.12.9_284.apk",
         "hash": "d47ec2e3c90241f56e7c9b0161da5286cf982c7ae862f68a56f31aed84cbf604",
         "hashType": "sha256",
@@ -2775,7 +2759,7 @@
         "versionName": "1.12.9"
       },
       {
-        "added": 1603326925000,
+        "added": 1613174581000,
         "apkName": "me.devsaki.hentoid_v1.12.8_283.apk",
         "hash": "79b05373a1ff14138a47faede2c2ce3626b2c5b134371822102dd3dfa2bc9440",
         "hashType": "sha256",
@@ -2841,7 +2825,7 @@
         "versionName": "1.12.8"
       },
       {
-        "added": 1603326978000,
+        "added": 1613174579000,
         "apkName": "me.devsaki.hentoid_v1.12.7_257.apk",
         "hash": "ba0f79bb016a735569a25f24779f1ddc4fe77a8e0676b96a06d87d1a36b43c53",
         "hashType": "sha256",
@@ -2907,7 +2891,7 @@
         "versionName": "1.12.7"
       },
       {
-        "added": 1603326976000,
+        "added": 1613174577000,
         "apkName": "me.devsaki.hentoid_v1.12.6_255.apk",
         "hash": "3e784d67fd952a2a02f89d488e365163cd311616e2e59db77ce51460fb17243e",
         "hashType": "sha256",
@@ -2977,7 +2961,7 @@
         "versionName": "1.12.6"
       },
       {
-        "added": 1603326972000,
+        "added": 1613174575000,
         "apkName": "me.devsaki.hentoid_v1.12.5_254.apk",
         "hash": "170a9287362d284814508139dcd832fe526d5ad34f6b9dc3155ae99cdbebcdd4",
         "hashType": "sha256",
@@ -3047,7 +3031,7 @@
         "versionName": "1.12.5"
       },
       {
-        "added": 1603326970000,
+        "added": 1613174573000,
         "apkName": "me.devsaki.hentoid_v1.12.4_253.apk",
         "hash": "c4ec0c2f7b9f2aa90362150288e0d1bda714be639ea9b93e268fdad7bb0b5b1f",
         "hashType": "sha256",
@@ -3119,7 +3103,7 @@
     ],
     "me.echeung.moemoekyun.fdroid": [
       {
-        "added": 1603326980000,
+        "added": 1613174602000,
         "apkName": "me.echeung.moemoekyun.fdroid_91.apk",
         "hash": "a051158fa8f7502b302fb4f7dbeabbea80f589293ef1da1066760f073cd585f8",
         "hashType": "sha256",
@@ -3153,7 +3137,7 @@
     ],
     "moe.feng.nhentai": [
       {
-        "added": 1603326982000,
+        "added": 1613174604000,
         "antiFeatures": [
           "NoSourceSince"
         ],
@@ -3194,7 +3178,7 @@
     ],
     "net.android.adm": [
       {
-        "added": 1603326984000,
+        "added": 1613174606000,
         "apkName": "net.android.adm_v7.1.5_152.apk",
         "hash": "4a2732f4ccd21602c7cdf9b94edd3c3f83fee0eee6afffe5b98e53d5d42bf44c",
         "hashType": "sha256",
@@ -3260,7 +3244,7 @@
     ],
     "net.android.hdlr": [
       {
-        "added": 1603326985000,
+        "added": 1613174608000,
         "apkName": "net.android.hdlr_v2.5.2_24.apk",
         "hash": "2e25c708155c42382f64e9580889b9c4d0893e284431d745896043ae0ed7da0c",
         "hashType": "sha256",
@@ -3322,7 +3306,7 @@
     ],
     "net.android.kamuy": [
       {
-        "added": 1603326987000,
+        "added": 1613174610000,
         "apkName": "net.android.kamuy_v3.0.2_38.apk",
         "hash": "6b61289d9fd8f27320cd94c31cb775f3ba0664c69fbb2e12fca210553bff1789",
         "hashType": "sha256",
@@ -3396,7 +3380,7 @@
     ],
     "net.cyl.ranobe": [
       {
-        "added": 1603326992000,
+        "added": 1613174612000,
         "apkName": "net.cyl.ranobe_v3.1.1_33.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -3473,7 +3457,11 @@
     ],
     "net.somethingdreadful.MAL": [
       {
-        "added": 1603326993000,
+        "added": 1613174614000,
+        "antiFeatures": [
+          "DisabledAlgorithm",
+          "KnownVuln"
+        ],
         "apkName": "net.somethingdreadful.MAL_14.apk",
         "hash": "ad7a10ec80c5819719e62cdddbab2e15265d2123631b188fa12e42fddd59f233",
         "hashType": "sha256",
@@ -3511,7 +3499,7 @@
     ],
     "org.koitharu.kotatsu": [
       {
-        "added": 1603326936000,
+        "added": 1613174619000,
         "apkName": "org.koitharu.kotatsu_v0.5.4_251.apk",
         "hash": "ca09919751b74777c1c0352b5ce15a8b1409fb6792c4d2573679c9ff5d00acc6",
         "hashType": "sha256",
@@ -3559,7 +3547,7 @@
         "versionName": "0.5.4"
       },
       {
-        "added": 1603326996000,
+        "added": 1613174617000,
         "apkName": "org.koitharu.kotatsu_v0.5.1_241.apk",
         "hash": "5bf036ca3c578e1138b441403bc96aef1b7ef30b181f2c9d8eb6011a2f23abd1",
         "hashType": "sha256",
@@ -3607,7 +3595,7 @@
         "versionName": "0.5.1"
       },
       {
-        "added": 1603326995000,
+        "added": 1613174615000,
         "apkName": "org.koitharu.kotatsu_v0.5-rc3_231.apk",
         "hash": "7483d762f2bfc8e78fcbcc941abcc9234e718ac948fc509b6c4a59eb66beb610",
         "hashType": "sha256",
@@ -3657,7 +3645,7 @@
     ],
     "top.rechinx.meow": [
       {
-        "added": 1603326999000,
+        "added": 1613174621000,
         "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
         "hash": "649c7c9cdef573c7da63d49f95dbfbbe518905ef7afd704718d800997759264b",
         "hashType": "sha256",
