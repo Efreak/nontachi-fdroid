@@ -85,7 +85,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1614024075091,
+  "endTimestamp": 1614038476513,
   "failedBuilds": {},
   "noPackages": [
     "com.arnab.jiyu",
@@ -117,6 +117,6 @@
     "top.rechinx.meow",
     "xyz.kurozero.nekosmoe"
   ],
-  "startTimestamp": 1614052855000,
+  "startTimestamp": 1614067256000,
   "subcommand": "update"
 }
