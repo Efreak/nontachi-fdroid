@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614269475000,
+    "timestamp": 1614283273000,
     "version": 20000,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -18,8 +18,8 @@
   "apps": [
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Manga/Anime",
@@ -93,8 +93,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Manga/Anime",
@@ -163,8 +163,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Manga/Anime",
@@ -273,9 +273,9 @@
       "summary": "Kotatsu is a free and open source manga reader for Android",
       "webSite": "https://4pda.ru/forum/index.php?showtopic=697669",
       "added": 1613174543000,
-      "icon": "org.koitharu.kotatsu.251.png",
+      "icon": "org.koitharu.kotatsu.345.png",
       "packageName": "org.koitharu.kotatsu",
-      "lastUpdated": 1613174619000
+      "lastUpdated": 1614283266000
     },
     {
       "categories": [
@@ -3498,6 +3498,54 @@
       }
     ],
     "org.koitharu.kotatsu": [
+      {
+        "added": 1613174543000,
+        "apkName": "org.koitharu.kotatsu_v1.0-rc1_345.apk",
+        "hash": "1ed6cfa840867a8384b3f88a8faffc07f740ca4722f7649d3e74b4607270a1ca",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "org.koitharu.kotatsu",
+        "sig": "dd481767ec88795ce0a97b82ecfae931",
+        "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+        "size": 3560315,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 345,
+        "versionName": "1.0-rc1"
+      },
       {
         "added": 1613174619000,
         "apkName": "org.koitharu.kotatsu_v0.5.4_251.apk",

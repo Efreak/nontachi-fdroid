@@ -2398,8 +2398,8 @@
       "0": "com.freezingwind.animereleasenotifier.9.png"
     },
     "antiFeatures": [
-      "DisabledAlgorithm",
-      "KnownVuln"
+      "KnownVuln",
+      "DisabledAlgorithm"
     ],
     "packageName": "com.freezingwind.animereleasenotifier",
     "versionCode": 9,
@@ -2456,8 +2456,8 @@
       "0": "com.jparkie.aizoban.27.png"
     },
     "antiFeatures": [
-      "DisabledAlgorithm",
-      "KnownVuln"
+      "KnownVuln",
+      "DisabledAlgorithm"
     ],
     "packageName": "com.jparkie.aizoban",
     "versionCode": 27,
@@ -4927,8 +4927,8 @@
       "0": "net.somethingdreadful.MAL.14.png"
     },
     "antiFeatures": [
-      "DisabledAlgorithm",
-      "KnownVuln"
+      "KnownVuln",
+      "DisabledAlgorithm"
     ],
     "packageName": "net.somethingdreadful.MAL",
     "versionCode": 14,
@@ -5211,5 +5211,76 @@
     "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
     "icon": "top.rechinx.meow.6.png",
     "added": 1613203421.29305
+  },
+  "org.koitharu.kotatsu_v1.0-rc2_352.apk": {
+    "hash": "cd2021552793c0a92b7b40a7c8cdfc55d8a08c377cdd1176c8f222a4228bc392",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "org.koitharu.kotatsu.352.xml",
+      "640": "org.koitharu.kotatsu.352.png",
+      "480": "org.koitharu.kotatsu.352.png",
+      "320": "org.koitharu.kotatsu.352.png",
+      "240": "org.koitharu.kotatsu.352.png",
+      "160": "org.koitharu.kotatsu.352.png",
+      "0": "org.koitharu.kotatsu.352.png"
+    },
+    "antiFeatures": [],
+    "packageName": "org.koitharu.kotatsu",
+    "versionCode": 352,
+    "name": "Kotatsu",
+    "versionName": "1.0-rc2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "dd481767ec88795ce0a97b82ecfae931",
+    "signer": "67e15100bb809301783edcb6348fa3bbf83034d91e62868a91053dbd70db3f18",
+    "size": 3562692,
+    "apkName": "org.koitharu.kotatsu_v1.0-rc2_352.apk",
+    "icon": "org.koitharu.kotatsu.352.png",
+    "added": 1614312066.820019
   }
 }
