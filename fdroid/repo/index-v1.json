@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615665680000,
+    "timestamp": 1615680074000,
     "version": 20000,
     "name": "Unofficial Anime/Manga F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -170,7 +170,7 @@
         "Multimedia"
       ],
       "changelog": "https://github.com/avluis/Hentoid/releases",
-      "suggestedVersionCode": "350",
+      "suggestedVersionCode": "351",
       "description": "`Hentoid` is an ad-free Doujinshi & H-Manga archiving and viewing app.\n`Hentoid` currently supports:\n[https://nhentai.net/ nhentai], [https://hentai.cafe/ hentai cafe], [https://hitomi.la/ hitomi], [http://asmhentai.com/ asmhentai], [http://www.tsumino.com/ tsumino], [https://pururin.io/ pururin], [https://e-hentai.org/ e-hentai], [https://hentainexus.com Hentai Nexus], [https://www.8muses.com 8muses], [https://doujins.com Doujins.com] and [https://www.luscious.net Luscious.net].\nNote: `Hentoid` can still import downloads from [https://www.fakku.net/ FAKKU] and [https://raw.githubusercontent.com/AVnetWS/Hentoid-Resources/master/repo/assets/img/pururin.jpg Pururin].\nCheck out the [https://github.com/AVnetWS/Hentoid/wiki Hentoid wiki] if you need assistance installing `Hentoid` on your device.\nFor the latest release, click [https://github.com/AVnetWS/Hentoid/releases/latest here].\n \nDon't forget to check the [https://github.com/avluis/Hentoid/wiki/FAQ FAQ] if you have any issue\nVisit our [https://discord.gg/QEZ3qk9 Discord Server] to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.",
       "issueTracker": "https://github.com/avluis/Hentoid/issues",
       "license": "Apache-2.0",
@@ -179,9 +179,9 @@
       "summary": "Hentoid is an ad-free Doujinshi & H-Manga archiving and viewing app.",
       "webSite": "https://github.com/avluis/Hentoid",
       "added": 1613174531000,
-      "icon": "me.devsaki.hentoid.350.png",
+      "icon": "me.devsaki.hentoid.351.png",
       "packageName": "me.devsaki.hentoid",
-      "lastUpdated": 1615665667000
+      "lastUpdated": 1615680061000
     },
     {
       "antiFeatures": [
@@ -1235,9 +1235,9 @@
     ],
     "me.devsaki.hentoid": [
       {
-        "added": 1615665667000,
-        "apkName": "me.devsaki.hentoid_v1.14.2_350.apk",
-        "hash": "07f3e7fa6fffb1813af7b8066e0d21e11a7b50c79a0ca8214fa744b68be619d9",
+        "added": 1615680061000,
+        "apkName": "me.devsaki.hentoid_v1.14.3_351.apk",
+        "hash": "d862b7e7551816053294faa7244e72e423fa01d112fd755ffa3376b66c0cf220",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -1301,8 +1301,8 @@
             null
           ]
         ],
-        "versionCode": 350,
-        "versionName": "1.14.2"
+        "versionCode": 351,
+        "versionName": "1.14.3"
       }
     ],
     "net.android.adm": [
