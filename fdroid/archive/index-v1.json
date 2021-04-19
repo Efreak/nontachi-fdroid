@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618859892000,
+    "timestamp": 1618873320000,
     "version": 20000,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -18,8 +18,8 @@
   "apps": [
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Manga/Anime",
@@ -93,8 +93,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Manga/Anime",
@@ -163,8 +163,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Manga/Anime",
@@ -1267,129 +1267,6 @@
           ]
         ],
         "versionCode": 1048577,
-        "versionName": "1.0"
-      },
-      {
-        "added": 1613174512000,
-        "apkName": "com.taiyaki_typed_v1.0_1.apk",
-        "hash": "9b0a7493d9079bf64753db7a4dfe779e42d558f589b65966378fa51d7142906f",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "com.taiyaki_typed",
-        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
-        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 35539115,
-        "targetSdkVersion": 28,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.GET_TASKS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ]
-        ],
-        "versionCode": 1,
         "versionName": "1.0"
       },
       {
