@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618873320000,
+    "timestamp": 1618887677000,
     "version": 20000,
     "name": "Unofficial Anime/Manga F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -18,8 +18,8 @@
   "apps": [
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Manga/Anime",
@@ -93,8 +93,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Manga/Anime",
@@ -163,8 +163,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Manga/Anime",
@@ -910,244 +910,6 @@
           ]
         ],
         "versionCode": 2097153,
-        "versionName": "1.0"
-      },
-      {
-        "added": 1613174516000,
-        "apkName": "com.taiyaki_typed_v1.0_2097153.apk",
-        "hash": "5e640bcc426634b560f7f3fd49d7c1ddda418c5d11d154b06529a60c355d6f68",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "x86"
-        ],
-        "packageName": "com.taiyaki_typed",
-        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
-        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 18293644,
-        "targetSdkVersion": 28,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.GET_TASKS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ]
-        ],
-        "versionCode": 2097153,
-        "versionName": "1.0"
-      },
-      {
-        "added": 1613174514000,
-        "apkName": "com.taiyaki_typed_v1.0_1048577.apk",
-        "hash": "812f651836ca7fb557f443f094ebb9615c082f564e0e205e43c82a7d9f620434",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "armeabi-v7a"
-        ],
-        "packageName": "com.taiyaki_typed",
-        "sig": "b6e0344e9cbcbcd6f20dc82b513925f6",
-        "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
-        "size": 17278020,
-        "targetSdkVersion": 28,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.GET_TASKS",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.READ",
-            null
-          ],
-          [
-            "com.sec.android.provider.badge.permission.WRITE",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.htc.launcher.permission.UPDATE_SHORTCUT",
-            null
-          ],
-          [
-            "com.sonyericsson.home.permission.BROADCAST_BADGE",
-            null
-          ],
-          [
-            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
-            null
-          ],
-          [
-            "com.anddoes.launcher.permission.UPDATE_COUNT",
-            null
-          ],
-          [
-            "com.majeur.launcher.permission.UPDATE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.CHANGE_BADGE",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "android.permission.READ_APP_BADGE",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.READ_SETTINGS",
-            null
-          ],
-          [
-            "com.oppo.launcher.permission.WRITE_SETTINGS",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_READ",
-            null
-          ],
-          [
-            "me.everything.badger.permission.BADGE_COUNT_WRITE",
-            null
-          ]
-        ],
-        "versionCode": 1048577,
         "versionName": "1.0"
       },
       {
